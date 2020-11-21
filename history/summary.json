@@ -3,9 +3,9 @@
     "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 2582
+    "time": 2065
   },
   {
     "name": "Sistem Informasi Akademik UT",
@@ -13,7 +13,7 @@
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
     "uptime": "100.00",
-    "time": 980
+    "time": 881
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -21,31 +21,31 @@
     "slug": "e-learning-universitas-terbuka",
     "status": "up",
     "uptime": "100.00",
-    "time": 1921
+    "time": 2006
   },
   {
     "name": "Mahasiswa UT - Making Higher Education Open To All",
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "up",
-    "uptime": "87.33",
-    "time": 2205
+    "status": "down",
+    "uptime": "88.19",
+    "time": 1764
   },
   {
     "name": "APLIKASI TUGAS MATA KULIAH",
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "up",
-    "uptime": "88.95",
-    "time": 783
+    "status": "down",
+    "uptime": "89.29",
+    "time": 626
   },
   {
     "name": "Layanan Informasi dan Bantuan - UNIVERSITAS TERBUKA",
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
-    "status": "up",
-    "uptime": "90.56",
-    "time": 1854
+    "status": "down",
+    "uptime": "90.44",
+    "time": 1483
   },
   {
     "name": "Perpustakaan UT - Digital Library of A Cyber University of Indonesia",
@@ -53,55 +53,55 @@
     "slug": "perpustakaan-ut-digital-library-of-a-cyber-university-of-indonesia",
     "status": "up",
     "uptime": "100.00",
-    "time": 984
+    "time": 858
   },
   {
     "name": "Lembaga Penelitian dan Pengabdian Pada Masyarakat (LPPM) - UT",
     "url": "http://lppm.ut.ac.id/",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 2203
+    "time": 1762
   },
   {
     "name": "Program Sertifikat Terbuka Online",
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
-    "uptime": "93.83",
-    "time": 1882
+    "status": "down",
+    "uptime": "92.67",
+    "time": 1506
   },
   {
     "name": "UT RADIO",
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
-    "status": "up",
-    "uptime": "95.53",
-    "time": 1811
+    "status": "down",
+    "uptime": "93.85",
+    "time": 1449
   },
   {
     "name": "Tracer Studi Universitas Terbuka",
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "up",
-    "uptime": "97.18",
-    "time": 2958
+    "status": "down",
+    "uptime": "94.99",
+    "time": 2366
   },
   {
     "name": "Sistem Unggah Karil PROGRAM PGPAUD DAN PGSD (Pendas)",
     "url": "http://karil.ut.ac.id/pendas/",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
-    "status": "up",
-    "uptime": "98.83",
-    "time": 1850
+    "status": "down",
+    "uptime": "96.13",
+    "time": 1480
   },
   {
     "name": "Sistem Unggah Karil PROGRAM FE, FHISIP, FMIPA, FKIP (Non Pendas)",
     "url": "http://karil.ut.ac.id/nonpendas/",
     "slug": "sistem-unggah-karil-program-fe-fhisip-fmipa-fkip-non-pendas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 513
+    "time": 410
   },
   {
     "name": "Situs Web Berbagi Ilmu oleh Staff Universitas Terbuka",
@@ -109,22 +109,22 @@
     "slug": "situs-web-berbagi-ilmu-oleh-staff-universitas-terbuka",
     "status": "up",
     "uptime": "100.00",
-    "time": 2211
+    "time": 1843
   },
   {
     "name": "Universitas Terbuka Repository",
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 2236
+    "status": "down",
+    "uptime": "98.41",
+    "time": 1789
   },
   {
     "name": "Promise UT",
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 2865
+    "status": "down",
+    "uptime": "99.56",
+    "time": 2292
   }
 ]
