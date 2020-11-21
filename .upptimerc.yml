@@ -1,34 +1,70 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: UnivTerbuka # Your GitHub username
+repo: online # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Universitas Terbuka | Making Higher Education Open To All
+    url: https://www.ut.ac.id/
+  - name: Sistem Informasi Akademik UT
+    url: https://sia.ut.ac.id/
+  - name: E-learning Universitas Terbuka
+    url: https://elearning.ut.ac.id/
+  - name: Mahasiswa UT | Making Higher Education Open To All
+    url: https://mahasiswa.ut.ac.id/
+  - name: APLIKASI TUGAS MATA KULIAH
+    url: https://tmk.ut.ac.id/
+    expectedStatusCodes:
+      - 200
+      - 302
+  - name: Layanan Informasi dan Bantuan - UNIVERSITAS TERBUKA
+    url: http://hallo-ut.ut.ac.id/
+  - name: Perpustakaan UT - Digital Library of A Cyber University of Indonesia
+    url: https://www.pustaka.ut.ac.id/
+    expectedStatusCodes:
+      - 200
+      - 302
+  - name: Lembaga Penelitian dan Pengabdian Pada Masyarakat (LPPM) - UT
+    url: http://lppm.ut.ac.id/
+  - name: Program Sertifikat Terbuka Online
+    url: http://moocs.ut.ac.id/
+  - name: UT RADIO
+    url: http://utradio.ut.ac.id/
+  - name: Tracer Studi Universitas Terbuka
+    url: http://tracer.lppm.ut.ac.id/
+  - name: Sistem Unggah Karil PROGRAM PGPAUD DAN PGSD (Pendas)
+    url: http://karil.ut.ac.id/pendas/
+    expectedStatusCodes:
+      - 200
+      - 302
+  - name: Sistem Unggah Karil PROGRAM FE, FHISIP, FMIPA, FKIP (Non Pendas)
+    url: http://karil.ut.ac.id/nonpendas/
+    expectedStatusCodes:
+      - 200
+      - 302
+  - name: Situs Web Berbagi Ilmu oleh Staff Universitas Terbuka
+    url: http://staff.ut.ac.id/
+  - name: Universitas Terbuka Repository
+    url: http://repository.ut.ac.id/
+  - name: Promise UT
+    url: https://promise.ut.ac.id/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  baseUrl: /online
+  logoUrl: https://www.ut.ac.id/images/logo-ut-small-transparent.png
+  name: Universitas Terbuka
+  introTitle: "**Universitas Terbuka (UT)** adalah Perguruan Tinggi Negeri ke-45 di Indonesia yang diresmikan pada tanggal 4 September 1984, berdasarkan Keputusan Presiden RI Nomor 41 Tahun 1984."
+  introMessage: Website berfungsi untuk memonitor website yang dimiliki Universitas Terbuka
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Github
       href: https://github.com/$OWNER/$REPO
+    - title: Universitas Terbuka
+      href: https://www.ut.ac.id/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
