@@ -54,9 +54,6 @@ sites:
 
 status-website:
   name: Universitas Terbuka
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /online
   logoUrl: https://www.ut.ac.id/images/logo-ut-small-transparent.png
   introTitle: "**Universitas Terbuka (UT)** adalah Perguruan Tinggi Negeri ke-45 di Indonesia yang diresmikan pada tanggal 4 September 1984, berdasarkan Keputusan Presiden RI Nomor 41 Tahun 1984."
