@@ -13,7 +13,7 @@ sites:
   - name: Mahasiswa UT | Making Higher Education Open To All
     url: https://mahasiswa.ut.ac.id/
   - name: APLIKASI TUGAS MATA KULIAH
-    url: https://tmk.ut.ac.id/
+    url: https://tmk.ut.ac.id/tmkui/#/
     expectedStatusCodes:
       - 200
       - 301
