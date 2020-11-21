@@ -11,9 +11,9 @@
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1505
+    "status": "down",
+    "uptime": "99.37",
+    "time": 1551
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -123,8 +123,8 @@
     "name": "Promise UT",
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
-    "status": "down",
-    "uptime": "99.94",
-    "time": 2528
+    "status": "up",
+    "uptime": "100.00",
+    "time": 3757
   }
 ]
