@@ -11,9 +11,9 @@
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1540
+    "status": "down",
+    "uptime": "99.15",
+    "time": 1892
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -28,7 +28,7 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "down",
-    "uptime": "91.88",
+    "uptime": "90.73",
     "time": 2126
   },
   {
@@ -83,9 +83,9 @@
     "name": "Tracer Studi Universitas Terbuka",
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "down",
-    "uptime": "92.39",
-    "time": 1777
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2334
   },
   {
     "name": "Sistem Unggah Karil PROGRAM PGPAUD DAN PGSD (Pendas)",
@@ -124,7 +124,7 @@
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "92.81",
+    "uptime": "91.66",
     "time": 3594
   }
 ]
