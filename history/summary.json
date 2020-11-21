@@ -3,17 +3,17 @@
     "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 2139
+    "time": 2340
   },
   {
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "down",
-    "uptime": "99.15",
-    "time": 1892
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1847
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -27,9 +27,9 @@
     "name": "Mahasiswa UT - Making Higher Education Open To All",
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "down",
-    "uptime": "90.73",
-    "time": 2126
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2386
   },
   {
     "name": "APLIKASI TUGAS MATA KULIAH",
@@ -123,8 +123,8 @@
     "name": "Promise UT",
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
-    "status": "down",
-    "uptime": "91.66",
-    "time": 3594
+    "status": "up",
+    "uptime": "100.00",
+    "time": 4276
   }
 ]
