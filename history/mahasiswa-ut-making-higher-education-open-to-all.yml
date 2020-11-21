@@ -1,7 +1,7 @@
 - url: https://mahasiswa.ut.ac.id/
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-21T19:44:14.889Z
+- status: up
+- code: 200
+- responseTime: 8351
+- lastUpdated: 2020-11-21T20:42:21.808Z
 - startTime: 2020-11-21T10:36:57.397Z
 - generator: Upptime <https://github.com/upptime/upptime>
