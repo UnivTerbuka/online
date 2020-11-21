@@ -57,14 +57,58 @@ status-website:
   baseUrl: /online
   logoUrl: https://www.ut.ac.id/images/logo-ut-small-transparent.png
   introTitle: "**Universitas Terbuka (UT)** adalah Perguruan Tinggi Negeri ke-45 di Indonesia yang diresmikan pada tanggal 4 September 1984, berdasarkan Keputusan Presiden RI Nomor 41 Tahun 1984."
-  introMessage: Website ini berfungsi untuk memonitor website yang dimiliki Universitas Terbuka
+  introMessage: Halaman ini berfungsi untuk memonitor website yang dimiliki Universitas Terbuka
   navbar:
     - title: Status
       href: /
     - title: Github
       href: https://github.com/$OWNER/$REPO
-    - title: Universitas Terbuka
-      href: https://www.ut.ac.id/
 
+i18n:
+  activeIncidents: Insiden Aktif
+  allSystemsOperational: Semua sistem beroperasi
+  incidentReport: "Laporan insiden #$NUMBER →"
+  activeIncidentSummary: Dibuka pada $DATE dengan $POSTS postingan
+  incidentTitle: Detail Insiden $NUMBER
+  incidentDetails: Detail Insiden
+  incidentFixed: Fixed
+  incidentOngoing: Sedang berlangsung
+  incidentOpenedAt: Dibuka pada
+  incidentClosedAt: Ditutup pada
+  incidentSubscribe: Berlangganan Pembaruan
+  incidentViewOnGitHub: Lihat di GitHub
+  incidentCommentSummary: Diposting pada $DATE oleh $AUTHOR
+  incidentBack: ← Kembali ke semua insiden
+  pastIncidents: Insiden Masa Lalu
+  pastIncidentsResolved: Diselesaikan dalam $MINUTES menit dengan $POSTS postingan
+  liveStatus: Status Langsung
+  overallUptime: Uptime keseluruhan $UPTIME%
+  overallUptimeTitle: Uptime keseluruhan
+  averageResponseTime: Waktu respons rata-rata $TIMEms
+  averageResponseTimeTitle: Respon rata-rata
+  sevelDayResponseTime: Waktu respons 7 hari
+  responseTimeMs: Waktu respons (ms)
+  up: Aktif
+  down: Non-aktif
+  ms: ms
+  loading: Loading
+  navGitHub: GitHub
+  footer: Halaman ini [open source]($REPO), dikembangkan oleh [Habib Rohman](https://github.com/hexatester)
+  rateLimitExceededTitle: Batas tarif terlampaui
+  rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum mengakses situs web ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs web ini.
+  rateLimitExceededWhatDoesErrorMean: Apa arti kesalahan ini?
+  rateLimitExceededErrorMeaning: Situs web ini menggunakan API GitHub untuk mengakses data waktu nyata tentang status situs web kami. Secara default, GitHub mengizinkan setiap alamat IP 60 permintaan per jam, yang telah Anda gunakan.
+  rateLimitExceededErrorHowCanFix: Bagaimana cara memperbaikinya?
+  rateLimitExceededErrorFix: Anda dapat menunggu satu jam lagi dan batas alamat IP Anda akan dipulihkan. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub Anda, yang memberi Anda 5.000 permintaan tambahan per jam.
+  rateLimitExceededGeneratePAT: Pelajari cara membuat Token Akses Pribadi
+  rateLimitExceededHasSet: Anda memiliki set token akses pribadi.
+  rateLimitExceededRemoveToken: Hapus token
+  rateLimitExceededGitHubPAT: Token Akses Pribadi GitHub
+  rateLimitExceededCopyPastePAT: Salin dan tempel token Anda
+  rateLimitExceededSaveToken: Simpan token
+  errorTitle: Terjadi kesalahan
+  errorIntro: Terjadi kesalahan saat mencoba mendapatkan detail status terbaru.
+  errorText: Anda dapat mencoba lagi dalam beberapa saat.
+  errorHome: Buka beranda
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
