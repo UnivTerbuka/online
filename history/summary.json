@@ -1,19 +1,19 @@
 [
   {
-    "name": "Universitas Terbuka | Making Higher Education Open To All",
+    "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
     "status": "up",
     "uptime": "100.00",
-    "time": 2640
+    "time": 2582
   },
   {
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "down",
-    "uptime": "77.10",
-    "time": 1155
+    "status": "up",
+    "uptime": "100.00",
+    "time": 980
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -21,31 +21,31 @@
     "slug": "e-learning-universitas-terbuka",
     "status": "up",
     "uptime": "100.00",
-    "time": 2031
+    "time": 1921
   },
   {
-    "name": "Mahasiswa UT | Making Higher Education Open To All",
+    "name": "Mahasiswa UT - Making Higher Education Open To All",
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "up",
-    "uptime": "100.00",
-    "time": 2216
+    "uptime": "87.33",
+    "time": 2205
   },
   {
     "name": "APLIKASI TUGAS MATA KULIAH",
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "100.00",
-    "time": 332
+    "uptime": "88.95",
+    "time": 783
   },
   {
     "name": "Layanan Informasi dan Bantuan - UNIVERSITAS TERBUKA",
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1120
+    "uptime": "90.56",
+    "time": 1854
   },
   {
     "name": "Perpustakaan UT - Digital Library of A Cyber University of Indonesia",
@@ -53,47 +53,47 @@
     "slug": "perpustakaan-ut-digital-library-of-a-cyber-university-of-indonesia",
     "status": "up",
     "uptime": "100.00",
-    "time": 690
+    "time": 984
   },
   {
     "name": "Lembaga Penelitian dan Pengabdian Pada Masyarakat (LPPM) - UT",
     "url": "http://lppm.ut.ac.id/",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1819
+    "time": 2203
   },
   {
     "name": "Program Sertifikat Terbuka Online",
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1990
+    "uptime": "93.83",
+    "time": 1882
   },
   {
     "name": "UT RADIO",
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1212
+    "uptime": "95.53",
+    "time": 1811
   },
   {
     "name": "Tracer Studi Universitas Terbuka",
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1717
+    "uptime": "97.18",
+    "time": 2958
   },
   {
     "name": "Sistem Unggah Karil PROGRAM PGPAUD DAN PGSD (Pendas)",
     "url": "http://karil.ut.ac.id/pendas/",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
-    "uptime": "100.00",
-    "time": 2043
+    "uptime": "98.83",
+    "time": 1850
   },
   {
     "name": "Sistem Unggah Karil PROGRAM FE, FHISIP, FMIPA, FKIP (Non Pendas)",
@@ -101,7 +101,7 @@
     "slug": "sistem-unggah-karil-program-fe-fhisip-fmipa-fkip-non-pendas",
     "status": "up",
     "uptime": "100.00",
-    "time": 515
+    "time": 513
   },
   {
     "name": "Situs Web Berbagi Ilmu oleh Staff Universitas Terbuka",
@@ -109,7 +109,7 @@
     "slug": "situs-web-berbagi-ilmu-oleh-staff-universitas-terbuka",
     "status": "up",
     "uptime": "100.00",
-    "time": 2843
+    "time": 2211
   },
   {
     "name": "Universitas Terbuka Repository",
@@ -117,7 +117,7 @@
     "slug": "universitas-terbuka-repository",
     "status": "up",
     "uptime": "100.00",
-    "time": 1255
+    "time": 2236
   },
   {
     "name": "Promise UT",
@@ -125,6 +125,6 @@
     "slug": "promise-ut",
     "status": "up",
     "uptime": "100.00",
-    "time": 2249
+    "time": 2865
   }
 ]
