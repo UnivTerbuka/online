@@ -1,7 +1,7 @@
 - url: https://www.ut.ac.id/
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-21T19:05:46.456Z
+- status: up
+- code: 200
+- responseTime: 16814
+- lastUpdated: 2020-11-21T19:17:09.560Z
 - startTime: 2020-11-21T10:36:49.709Z
 - generator: Upptime <https://github.com/upptime/upptime>
