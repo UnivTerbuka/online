@@ -53,11 +53,11 @@ sites:
     url: https://promise.ut.ac.id/
 
 status-website:
-  name: Universitas Terbuka
+  name: Status Web Universitas Terbuka
   baseUrl: /online
   logoUrl: https://www.ut.ac.id/images/logo-ut-small-transparent.png
   introTitle: "**Universitas Terbuka (UT)** adalah Perguruan Tinggi Negeri ke-45 di Indonesia yang diresmikan pada tanggal 4 September 1984, berdasarkan Keputusan Presiden RI Nomor 41 Tahun 1984."
-  introMessage: Website berfungsi untuk memonitor website yang dimiliki Universitas Terbuka
+  introMessage: Website ini berfungsi untuk memonitor website yang dimiliki Universitas Terbuka
   navbar:
     - title: Status
       href: /
