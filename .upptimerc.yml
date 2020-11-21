@@ -71,7 +71,7 @@ i18n:
   activeIncidentSummary: Dibuka pada $DATE dengan $POSTS postingan
   incidentTitle: Detail Insiden $NUMBER
   incidentDetails: Detail Insiden
-  incidentFixed: Fixed
+  incidentFixed: Diperbaiki
   incidentOngoing: Sedang berlangsung
   incidentOpenedAt: Dibuka pada
   incidentClosedAt: Ditutup pada
@@ -93,7 +93,7 @@ i18n:
   ms: ms
   loading: Loading
   navGitHub: GitHub
-  footer: Halaman ini [open source]($REPO), dikembangkan oleh [Habib Rohman](https://github.com/hexatester)
+  footer: Halaman ini [open source]($REPO), dikembangkan oleh [Habib Rohman](https://github.com/hexatester) dengan menggunakan [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Batas tarif terlampaui
   rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum mengakses situs web ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs web ini.
   rateLimitExceededWhatDoesErrorMean: Apa arti kesalahan ini?
