@@ -1,7 +1,7 @@
 - url: http://karil.ut.ac.id/nonpendas/
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-21T22:42:07.042Z
+- status: up
+- code: 200
+- responseTime: 11140
+- lastUpdated: 2020-11-21T22:52:07.855Z
 - startTime: 2020-11-21T10:37:21.220Z
 - generator: Upptime <https://github.com/upptime/upptime>
