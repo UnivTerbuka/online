@@ -3,9 +3,9 @@
     "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "time": 2926
+    "time": 3048
   },
   {
     "name": "Sistem Informasi Akademik UT",
@@ -59,9 +59,9 @@
     "name": "Lembaga Penelitian dan Pengabdian Pada Masyarakat (LPPM) - UT",
     "url": "http://lppm.ut.ac.id/",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "time": 5186
+    "time": 5080
   },
   {
     "name": "Program Sertifikat Terbuka Online",
