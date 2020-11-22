@@ -12,7 +12,7 @@
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
     "status": "down",
-    "uptime": "0.48%",
+    "uptime": "0.00%",
     "time": 2957
   },
   {
@@ -67,25 +67,25 @@
     "name": "Program Sertifikat Terbuka Online",
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "down",
-    "uptime": "0.24%",
-    "time": 4539
+    "status": "up",
+    "uptime": "0.00%",
+    "time": 4472
   },
   {
     "name": "UT RADIO",
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "time": 2871
+    "time": 2822
   },
   {
     "name": "Tracer Studi Universitas Terbuka",
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "down",
-    "uptime": "4.59%",
-    "time": 3491
+    "status": "up",
+    "uptime": "0.00%",
+    "time": 3477
   },
   {
     "name": "Sistem Unggah Karil PROGRAM PGPAUD DAN PGSD (Pendas)",
