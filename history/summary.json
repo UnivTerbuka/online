@@ -28,7 +28,7 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "down",
-    "uptime": "98.86",
+    "uptime": "97.76",
     "time": 2875
   },
   {
@@ -44,7 +44,7 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "up",
-    "uptime": "73.48",
+    "uptime": "72.66",
     "time": 1878
   },
   {
@@ -67,9 +67,9 @@
     "name": "Program Sertifikat Terbuka Online",
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 4346
+    "status": "down",
+    "uptime": "99.66",
+    "time": 4245
   },
   {
     "name": "UT RADIO",
@@ -83,9 +83,9 @@
     "name": "Tracer Studi Universitas Terbuka",
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 2843
+    "status": "down",
+    "uptime": "99.85",
+    "time": 2760
   },
   {
     "name": "Sistem Unggah Karil PROGRAM PGPAUD DAN PGSD (Pendas)",
@@ -124,7 +124,7 @@
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "97.89",
+    "uptime": "96.80",
     "time": 4415
   }
 ]
