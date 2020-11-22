@@ -11,9 +11,9 @@
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "time": 2957
+    "time": 2902
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -59,9 +59,9 @@
     "name": "Lembaga Penelitian dan Pengabdian Pada Masyarakat (LPPM) - UT",
     "url": "http://lppm.ut.ac.id/",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "time": 5363
+    "time": 5326
   },
   {
     "name": "Program Sertifikat Terbuka Online",
