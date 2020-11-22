@@ -11,9 +11,9 @@
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "down",
-    "uptime": "99.43",
-    "time": 2199
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2152
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -36,7 +36,7 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "76.77",
+    "uptime": "75.01",
     "time": 1315
   },
   {
@@ -44,7 +44,7 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "up",
-    "uptime": "76.82",
+    "uptime": "75.05",
     "time": 1878
   },
   {
@@ -75,9 +75,9 @@
     "name": "UT RADIO",
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 2914
+    "time": 2862
   },
   {
     "name": "Tracer Studi Universitas Terbuka",
@@ -123,8 +123,8 @@
     "name": "Promise UT",
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 4567
+    "status": "down",
+    "uptime": "99.98",
+    "time": 4415
   }
 ]
