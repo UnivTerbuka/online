@@ -3,9 +3,9 @@
     "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "time": 3001
+    "time": 2926
   },
   {
     "name": "Sistem Informasi Akademik UT",
@@ -13,7 +13,7 @@
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
     "uptime": "0.00%",
-    "time": 2755
+    "time": 2773
   },
   {
     "name": "E-learning Universitas Terbuka",
