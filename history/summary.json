@@ -11,9 +11,9 @@
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "down",
-    "uptime": "99.42",
-    "time": 2939
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2905
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -28,7 +28,7 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "down",
-    "uptime": "98.84",
+    "uptime": "96.96",
     "time": 3108
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "down",
-    "uptime": "99.54",
+    "uptime": "97.65",
     "time": 1547
   },
   {
@@ -68,16 +68,16 @@
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
     "status": "down",
-    "uptime": "99.70",
+    "uptime": "97.81",
     "time": 4119
   },
   {
     "name": "UT RADIO",
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
-    "status": "down",
-    "uptime": "99.78",
-    "time": 2678
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2939
   },
   {
     "name": "Tracer Studi Universitas Terbuka",
@@ -123,8 +123,8 @@
     "name": "Promise UT",
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 4207
+    "status": "up",
+    "uptime": "100.00",
+    "time": 4180
   }
 ]
