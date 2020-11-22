@@ -1,7 +1,7 @@
 - url: https://sia.ut.ac.id/
-- status: down
-- code: 502
-- responseTime: 13727
-- lastUpdated: 2020-11-22T05:27:49.177Z
+- status: up
+- code: 200
+- responseTime: 4316
+- lastUpdated: 2020-11-22T05:44:33.668Z
 - startTime: 2020-11-21T10:36:53.648Z
 - generator: Upptime <https://github.com/upptime/upptime>
