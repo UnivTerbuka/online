@@ -11,9 +11,9 @@
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "down",
-    "uptime": "69.23%",
-    "time": 2674
+    "status": "up",
+    "uptime": "69.28%",
+    "time": 2641
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -28,7 +28,7 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "down",
-    "uptime": "51.67%",
+    "uptime": "51.44%",
     "time": 2834
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "down",
-    "uptime": "57.86%",
+    "uptime": "57.61%",
     "time": 1620
   },
   {
@@ -44,7 +44,7 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "57.79%",
+    "uptime": "57.54%",
     "time": 2213
   },
   {
@@ -68,7 +68,7 @@
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
     "status": "down",
-    "uptime": "67.35%",
+    "uptime": "67.06%",
     "time": 3997
   },
   {
@@ -76,7 +76,7 @@
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
     "status": "down",
-    "uptime": "65.41%",
+    "uptime": "65.12%",
     "time": 2528
   },
   {
@@ -84,7 +84,7 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
     "status": "down",
-    "uptime": "60.44%",
+    "uptime": "60.18%",
     "time": 3253
   },
   {
@@ -92,7 +92,7 @@
     "url": "http://karil.ut.ac.id/pendas/",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "down",
-    "uptime": "68.26%",
+    "uptime": "67.97%",
     "time": 2141
   },
   {
@@ -116,7 +116,7 @@
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
     "status": "down",
-    "uptime": "74.29%",
+    "uptime": "73.97%",
     "time": 2292
   },
   {
@@ -124,7 +124,7 @@
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "58.24%",
+    "uptime": "57.99%",
     "time": 3837
   }
 ]
