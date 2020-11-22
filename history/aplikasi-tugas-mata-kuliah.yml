@@ -1,7 +1,7 @@
 - url: https://tmk.ut.ac.id/tmkui/#/
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-22T05:19:47.761Z
+- status: up
+- code: 200
+- responseTime: 6546
+- lastUpdated: 2020-11-22T05:28:53.287Z
 - startTime: 2020-11-21T10:36:59.983Z
 - generator: Upptime <https://github.com/upptime/upptime>
