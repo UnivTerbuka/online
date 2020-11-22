@@ -11,9 +11,9 @@
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 2260
+    "status": "down",
+    "uptime": "99.43",
+    "time": 2199
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -27,16 +27,16 @@
     "name": "Mahasiswa UT - Making Higher Education Open To All",
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "down",
-    "uptime": "91.45",
-    "time": 2563
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2968
   },
   {
     "name": "APLIKASI TUGAS MATA KULIAH",
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "77.79",
+    "uptime": "76.77",
     "time": 1315
   },
   {
@@ -44,7 +44,7 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "up",
-    "uptime": "77.84",
+    "uptime": "76.82",
     "time": 1878
   },
   {
@@ -67,16 +67,16 @@
     "name": "Program Sertifikat Terbuka Online",
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "down",
-    "uptime": "99.38",
-    "time": 3933
+    "status": "up",
+    "uptime": "100.00",
+    "time": 4346
   },
   {
     "name": "UT RADIO",
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
     "status": "down",
-    "uptime": "98.15",
+    "uptime": "100.00",
     "time": 2914
   },
   {
@@ -84,7 +84,7 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
     "status": "down",
-    "uptime": "94.16",
+    "uptime": "100.00",
     "time": 2879
   },
   {
@@ -123,8 +123,8 @@
     "name": "Promise UT",
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 4645
+    "time": 4567
   }
 ]
