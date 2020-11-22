@@ -1,7 +1,7 @@
 - url: http://tracer.lppm.ut.ac.id/
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-22T04:52:32.923Z
+- status: up
+- code: 200
+- responseTime: 23535
+- lastUpdated: 2020-11-22T05:07:37.347Z
 - startTime: 2020-11-21T10:37:14.704Z
 - generator: Upptime <https://github.com/upptime/upptime>
