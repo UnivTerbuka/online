@@ -1,7 +1,7 @@
 url: http://hallo-ut.ut.ac.id/  
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2020-11-24T06:38:05.733Z
+status: up
+code: 200
+responseTime: 751
+lastUpdated: 2020-11-24T06:48:11.483Z
 startTime: Sat Nov 21 2020 10:37:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
