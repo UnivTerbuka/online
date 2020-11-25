@@ -12,7 +12,7 @@
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
-    "uptime": "89.87%",
+    "uptime": "89.89%",
     "time": 2389
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "up",
-    "uptime": "69.11%",
+    "uptime": "69.17%",
     "time": 3030
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "71.64%",
+    "uptime": "71.70%",
     "time": 889
   },
   {
@@ -44,7 +44,7 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "up",
-    "uptime": "72.37%",
+    "uptime": "72.42%",
     "time": 843
   },
   {
@@ -68,7 +68,7 @@
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
-    "uptime": "76.53%",
+    "uptime": "76.58%",
     "time": 1560
   },
   {
@@ -76,7 +76,7 @@
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
     "status": "up",
-    "uptime": "76.42%",
+    "uptime": "76.47%",
     "time": 876
   },
   {
@@ -84,7 +84,7 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
     "status": "up",
-    "uptime": "74.92%",
+    "uptime": "74.97%",
     "time": 2392
   },
   {
@@ -92,7 +92,7 @@
     "url": "http://karil.ut.ac.id/pendas/",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
-    "uptime": "78.07%",
+    "uptime": "78.11%",
     "time": 955
   },
   {
@@ -115,8 +115,8 @@
     "name": "Universitas Terbuka Repository",
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
-    "uptime": "78.25%",
+    "status": "down",
+    "uptime": "78.28%",
     "time": 1298
   },
   {
@@ -124,7 +124,7 @@
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
     "status": "up",
-    "uptime": "76.13%",
+    "uptime": "76.18%",
     "time": 4328
   }
 ]
