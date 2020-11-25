@@ -3,16 +3,16 @@
     "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 3101
+    "time": 2864
   },
   {
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
-    "uptime": "89.83%",
+    "uptime": "89.87%",
     "time": 2389
   },
   {
@@ -20,32 +20,32 @@
     "url": "https://elearning.ut.ac.id/",
     "slug": "e-learning-universitas-terbuka",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "time": 7452
   },
   {
     "name": "Mahasiswa UT - Making Higher Education Open To All",
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "down",
-    "uptime": "69.37%",
-    "time": 3274
+    "status": "up",
+    "uptime": "69.11%",
+    "time": 3030
   },
   {
     "name": "APLIKASI TUGAS MATA KULIAH",
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "down",
-    "uptime": "71.91%",
-    "time": 881
+    "status": "up",
+    "uptime": "71.64%",
+    "time": 889
   },
   {
     "name": "Layanan Informasi dan Bantuan - UNIVERSITAS TERBUKA",
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
-    "status": "down",
-    "uptime": "72.64%",
-    "time": 838
+    "status": "up",
+    "uptime": "72.37%",
+    "time": 843
   },
   {
     "name": "Perpustakaan UT - Digital Library of A Cyber University of Indonesia",
@@ -59,49 +59,49 @@
     "name": "Lembaga Penelitian dan Pengabdian Pada Masyarakat (LPPM) - UT",
     "url": "http://lppm.ut.ac.id/",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 1734
+    "time": 1739
   },
   {
     "name": "Program Sertifikat Terbuka Online",
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "down",
-    "uptime": "76.83%",
-    "time": 1559
+    "status": "up",
+    "uptime": "76.53%",
+    "time": 1560
   },
   {
     "name": "UT RADIO",
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
-    "status": "down",
-    "uptime": "76.71%",
-    "time": 892
+    "status": "up",
+    "uptime": "76.42%",
+    "time": 876
   },
   {
     "name": "Tracer Studi Universitas Terbuka",
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "down",
-    "uptime": "75.21%",
-    "time": 2430
+    "status": "up",
+    "uptime": "74.92%",
+    "time": 2392
   },
   {
     "name": "Sistem Unggah Karil PROGRAM PGPAUD DAN PGSD (Pendas)",
     "url": "http://karil.ut.ac.id/pendas/",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
-    "status": "down",
-    "uptime": "78.38%",
-    "time": 982
+    "status": "up",
+    "uptime": "78.07%",
+    "time": 955
   },
   {
     "name": "Sistem Unggah Karil PROGRAM FE, FHISIP, FMIPA, FKIP (Non Pendas)",
     "url": "http://karil.ut.ac.id/nonpendas/",
     "slug": "sistem-unggah-karil-program-fe-fhisip-fmipa-fkip-non-pendas",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 421
+    "time": 422
   },
   {
     "name": "Situs Web Berbagi Ilmu oleh Staff Universitas Terbuka",
@@ -115,16 +115,16 @@
     "name": "Universitas Terbuka Repository",
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
-    "status": "down",
-    "uptime": "78.55%",
-    "time": 1297
+    "status": "up",
+    "uptime": "78.25%",
+    "time": 1298
   },
   {
     "name": "Promise UT",
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
-    "status": "down",
-    "uptime": "76.43%",
-    "time": 4357
+    "status": "up",
+    "uptime": "76.13%",
+    "time": 4328
   }
 ]
