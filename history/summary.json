@@ -12,7 +12,7 @@
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
-    "uptime": "90.68%",
+    "uptime": "90.77%",
     "time": 2389
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://elearning.ut.ac.id/",
     "slug": "e-learning-universitas-terbuka",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "time": 7452
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "up",
-    "uptime": "69.47%",
+    "uptime": "69.77%",
     "time": 2124
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "71.85%",
+    "uptime": "72.13%",
     "time": 874
   },
   {
@@ -44,7 +44,7 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "up",
-    "uptime": "72.57%",
+    "uptime": "72.84%",
     "time": 810
   },
   {
@@ -59,7 +59,7 @@
     "name": "Lembaga Penelitian dan Pengabdian Pada Masyarakat (LPPM) - UT",
     "url": "http://lppm.ut.ac.id/",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "time": 1713
   },
@@ -68,7 +68,7 @@
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
-    "uptime": "76.62%",
+    "uptime": "76.85%",
     "time": 1381
   },
   {
@@ -76,7 +76,7 @@
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
     "status": "up",
-    "uptime": "76.56%",
+    "uptime": "76.79%",
     "time": 755
   },
   {
@@ -84,7 +84,7 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
     "status": "up",
-    "uptime": "75.22%",
+    "uptime": "75.46%",
     "time": 2236
   },
   {
@@ -92,7 +92,7 @@
     "url": "http://karil.ut.ac.id/pendas/",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
-    "uptime": "78.17%",
+    "uptime": "78.38%",
     "time": 961
   },
   {
@@ -116,7 +116,7 @@
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
     "status": "up",
-    "uptime": "78.26%",
+    "uptime": "78.47%",
     "time": 1233
   },
   {
@@ -124,7 +124,7 @@
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
     "status": "up",
-    "uptime": "76.53%",
+    "uptime": "76.76%",
     "time": 4054
   }
 ]
