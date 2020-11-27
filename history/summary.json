@@ -3,16 +3,16 @@
     "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 2142
+    "time": 2190
   },
   {
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
-    "uptime": "93.35%",
+    "uptime": "93.38%",
     "time": 2361
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "up",
-    "uptime": "82.26%",
+    "uptime": "82.35%",
     "time": 2238
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "82.59%",
+    "uptime": "82.68%",
     "time": 873
   },
   {
@@ -44,7 +44,7 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "up",
-    "uptime": "83.33%",
+    "uptime": "83.42%",
     "time": 824
   },
   {
@@ -68,7 +68,7 @@
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
-    "uptime": "84.19%",
+    "uptime": "84.27%",
     "time": 1322
   },
   {
@@ -76,7 +76,7 @@
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
     "status": "up",
-    "uptime": "84.67%",
+    "uptime": "84.75%",
     "time": 683
   },
   {
@@ -84,7 +84,7 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
     "status": "up",
-    "uptime": "84.76%",
+    "uptime": "84.84%",
     "time": 2037
   },
   {
@@ -92,7 +92,7 @@
     "url": "http://karil.ut.ac.id/pendas/",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
-    "uptime": "85.50%",
+    "uptime": "85.58%",
     "time": 1005
   },
   {
@@ -116,7 +116,7 @@
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
     "status": "up",
-    "uptime": "85.45%",
+    "uptime": "85.52%",
     "time": 1220
   },
   {
@@ -124,7 +124,7 @@
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
     "status": "up",
-    "uptime": "86.14%",
+    "uptime": "86.21%",
     "time": 3651
   }
 ]
