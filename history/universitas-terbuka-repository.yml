@@ -1,7 +1,7 @@
 url: http://repository.ut.ac.id/  
-status: up
-code: 200
-responseTime: 1354
-lastUpdated: 2020-11-27T15:59:00.667Z
+status: down
+code: 503
+responseTime: 685
+lastUpdated: 2020-11-27T17:21:14.073Z
 startTime: Sat Nov 21 2020 10:37:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
