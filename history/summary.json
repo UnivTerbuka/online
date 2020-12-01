@@ -3,16 +3,16 @@
     "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 2157
+    "time": 2198
   },
   {
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
-    "uptime": "96.44%",
+    "uptime": "96.45%",
     "time": 2316
   },
   {
@@ -27,9 +27,9 @@
     "name": "Mahasiswa UT - Making Higher Education Open To All",
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "down",
-    "uptime": "88.67%",
-    "time": 2275
+    "status": "up",
+    "uptime": "88.64%",
+    "time": 2307
   },
   {
     "name": "APLIKASI TUGAS MATA KULIAH",
@@ -76,7 +76,7 @@
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
     "status": "up",
-    "uptime": "90.21%",
+    "uptime": "90.22%",
     "time": 999
   },
   {
@@ -115,9 +115,9 @@
     "name": "Universitas Terbuka Repository",
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
-    "status": "down",
-    "uptime": "90.78%",
-    "time": 1248
+    "status": "up",
+    "uptime": "90.74%",
+    "time": 1254
   },
   {
     "name": "Promise UT",
