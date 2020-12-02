@@ -3,16 +3,16 @@
     "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 2192
+    "time": 2232
   },
   {
     "name": "Sistem Informasi Akademik UT",
     "url": "https://sia.ut.ac.id/",
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
-    "uptime": "96.67%",
+    "uptime": "96.68%",
     "time": 2256
   },
   {
@@ -27,25 +27,25 @@
     "name": "Mahasiswa UT - Making Higher Education Open To All",
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "down",
-    "uptime": "89.81%",
-    "time": 2257
+    "status": "up",
+    "uptime": "89.79%",
+    "time": 2330
   },
   {
     "name": "APLIKASI TUGAS MATA KULIAH",
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "down",
-    "uptime": "90.19%",
-    "time": 913
+    "status": "up",
+    "uptime": "90.18%",
+    "time": 952
   },
   {
     "name": "Layanan Informasi dan Bantuan - UNIVERSITAS TERBUKA",
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
-    "status": "down",
-    "uptime": "90.45%",
-    "time": 923
+    "status": "up",
+    "uptime": "90.44%",
+    "time": 962
   },
   {
     "name": "Perpustakaan UT - Digital Library of A Cyber University of Indonesia",
@@ -59,33 +59,33 @@
     "name": "Lembaga Penelitian dan Pengabdian Pada Masyarakat (LPPM) - UT",
     "url": "http://lppm.ut.ac.id/",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 1487
+    "time": 1617
   },
   {
     "name": "Program Sertifikat Terbuka Online",
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "down",
-    "uptime": "90.83%",
-    "time": 1210
+    "status": "up",
+    "uptime": "90.81%",
+    "time": 1230
   },
   {
     "name": "UT RADIO",
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
-    "status": "down",
-    "uptime": "91.12%",
-    "time": 941
+    "status": "up",
+    "uptime": "91.10%",
+    "time": 964
   },
   {
     "name": "Tracer Studi Universitas Terbuka",
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "down",
-    "uptime": "91.31%",
-    "time": 2152
+    "status": "up",
+    "uptime": "91.29%",
+    "time": 2182
   },
   {
     "name": "Sistem Unggah Karil PROGRAM PGPAUD DAN PGSD (Pendas)",
@@ -116,7 +116,7 @@
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
     "status": "up",
-    "uptime": "91.22%",
+    "uptime": "91.23%",
     "time": 1586
   },
   {
