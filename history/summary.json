@@ -3,9 +3,9 @@
     "name": "Universitas Terbuka - Making Higher Education Open To All",
     "url": "https://www.ut.ac.id/",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 2220
+    "time": 2197
   },
   {
     "name": "Sistem Informasi Akademik UT",
@@ -13,7 +13,7 @@
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
     "uptime": "96.69%",
-    "time": 2256
+    "time": 2246
   },
   {
     "name": "E-learning Universitas Terbuka",
@@ -21,31 +21,31 @@
     "slug": "e-learning-universitas-terbuka",
     "status": "up",
     "uptime": "99.32%",
-    "time": 5768
+    "time": 5641
   },
   {
     "name": "Mahasiswa UT - Making Higher Education Open To All",
     "url": "https://mahasiswa.ut.ac.id/",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "up",
-    "uptime": "90.44%",
-    "time": 2335
+    "status": "down",
+    "uptime": "90.49%",
+    "time": 2342
   },
   {
     "name": "APLIKASI TUGAS MATA KULIAH",
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "up",
-    "uptime": "90.24%",
-    "time": 952
+    "status": "down",
+    "uptime": "90.29%",
+    "time": 954
   },
   {
     "name": "Layanan Informasi dan Bantuan - UNIVERSITAS TERBUKA",
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "up",
-    "uptime": "90.45%",
-    "time": 964
+    "uptime": "90.47%",
+    "time": 958
   },
   {
     "name": "Perpustakaan UT - Digital Library of A Cyber University of Indonesia",
@@ -53,7 +53,7 @@
     "slug": "perpustakaan-ut-digital-library-of-a-cyber-university-of-indonesia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1885
+    "time": 1802
   },
   {
     "name": "Lembaga Penelitian dan Pengabdian Pada Masyarakat (LPPM) - UT",
@@ -61,39 +61,39 @@
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1626
+    "time": 1600
   },
   {
     "name": "Program Sertifikat Terbuka Online",
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
-    "uptime": "90.92%",
-    "time": 1235
+    "uptime": "90.94%",
+    "time": 1227
   },
   {
     "name": "UT RADIO",
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
     "status": "up",
-    "uptime": "91.21%",
-    "time": 976
+    "uptime": "91.23%",
+    "time": 969
   },
   {
     "name": "Tracer Studi Universitas Terbuka",
     "url": "http://tracer.lppm.ut.ac.id/",
     "slug": "tracer-studi-universitas-terbuka",
     "status": "up",
-    "uptime": "91.37%",
-    "time": 2172
+    "uptime": "91.38%",
+    "time": 2162
   },
   {
     "name": "Sistem Unggah Karil PROGRAM PGPAUD DAN PGSD (Pendas)",
     "url": "http://karil.ut.ac.id/pendas/",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
-    "uptime": "91.59%",
-    "time": 976
+    "uptime": "91.60%",
+    "time": 997
   },
   {
     "name": "Sistem Unggah Karil PROGRAM FE, FHISIP, FMIPA, FKIP (Non Pendas)",
@@ -101,7 +101,7 @@
     "slug": "sistem-unggah-karil-program-fe-fhisip-fmipa-fkip-non-pendas",
     "status": "up",
     "uptime": "100.00%",
-    "time": 300
+    "time": 302
   },
   {
     "name": "Situs Web Berbagi Ilmu oleh Staff Universitas Terbuka",
@@ -109,22 +109,22 @@
     "slug": "situs-web-berbagi-ilmu-oleh-staff-universitas-terbuka",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1671
+    "time": 1598
   },
   {
     "name": "Universitas Terbuka Repository",
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
     "status": "up",
-    "uptime": "91.33%",
-    "time": 1631
+    "uptime": "91.35%",
+    "time": 1634
   },
   {
     "name": "Promise UT",
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
     "status": "up",
-    "uptime": "92.20%",
-    "time": 4321
+    "uptime": "92.21%",
+    "time": 4313
   }
 ]
