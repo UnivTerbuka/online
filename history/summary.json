@@ -115,16 +115,16 @@
     "name": "Universitas Terbuka Repository",
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
-    "uptime": "90.94%",
-    "time": 1549
+    "status": "down",
+    "uptime": "91.00%",
+    "time": 1566
   },
   {
     "name": "Promise UT",
     "url": "https://promise.ut.ac.id/",
     "slug": "promise-ut",
     "status": "up",
-    "uptime": "91.91%",
+    "uptime": "91.92%",
     "time": 4421
   }
 ]
