@@ -19,9 +19,9 @@
     "name": "E-learning Universitas Terbuka",
     "url": "https://elearning.ut.ac.id/",
     "slug": "e-learning-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "time": 5663
+    "time": 5916
   },
   {
     "name": "Mahasiswa UT - Making Higher Education Open To All",
@@ -44,7 +44,7 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "up",
-    "uptime": "90.25%",
+    "uptime": "90.26%",
     "time": 936
   },
   {
@@ -68,7 +68,7 @@
     "url": "http://moocs.ut.ac.id/",
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
-    "uptime": "90.72%",
+    "uptime": "90.73%",
     "time": 1219
   },
   {
@@ -76,7 +76,7 @@
     "url": "http://utradio.ut.ac.id/",
     "slug": "ut-radio",
     "status": "up",
-    "uptime": "91.01%",
+    "uptime": "91.02%",
     "time": 958
   },
   {
@@ -116,7 +116,7 @@
     "url": "http://repository.ut.ac.id/",
     "slug": "universitas-terbuka-repository",
     "status": "up",
-    "uptime": "91.18%",
+    "uptime": "91.19%",
     "time": 1587
   },
   {
