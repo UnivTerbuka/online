@@ -4,7 +4,7 @@
     "url": "https://www.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/www.ut.ac.id",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -106,18 +106,19 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/mahasiswa.ut.ac.id",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "up",
-    "uptime": "91.60%",
-    "uptimeDay": "61.47%",
-    "uptimeWeek": "64.20%",
-    "uptimeMonth": "89.90%",
-    "uptimeYear": "91.60%",
+    "status": "down",
+    "uptime": "91.69%",
+    "uptimeDay": "61.39%",
+    "uptimeWeek": "64.15%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "91.69%",
     "time": 4164,
     "timeDay": 3796,
     "timeWeek": 3523,
     "timeMonth": 3827,
     "timeYear": 4164,
     "dailyMinutesDown": {
+      "2020-12-28": 6,
       "2020-12-27": 557,
       "2020-12-26": 339,
       "2020-12-25": 547,
@@ -126,7 +127,7 @@
       "2020-12-22": 474,
       "2020-12-21": 500,
       "2020-12-20": 673,
-      "2020-12-19": 146
+      "2020-12-19": 96
     }
   },
   {
@@ -134,18 +135,19 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "icon": "https://favicons.githubusercontent.com/tmk.ut.ac.id",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "up",
-    "uptime": "91.94%",
-    "uptimeDay": "61.91%",
-    "uptimeWeek": "65.64%",
-    "uptimeMonth": "90.31%",
-    "uptimeYear": "91.94%",
+    "status": "down",
+    "uptime": "91.97%",
+    "uptimeDay": "61.83%",
+    "uptimeWeek": "65.58%",
+    "uptimeMonth": "90.33%",
+    "uptimeYear": "91.97%",
     "time": 1870,
     "timeDay": 1489,
     "timeWeek": 1854,
     "timeMonth": 1833,
     "timeYear": 1870,
     "dailyMinutesDown": {
+      "2020-12-28": 5,
       "2020-12-27": 549,
       "2020-12-26": 337,
       "2020-12-25": 543,
@@ -154,7 +156,7 @@
       "2020-12-22": 432,
       "2020-12-21": 478,
       "2020-12-20": 604,
-      "2020-12-19": 177
+      "2020-12-19": 162
     }
   },
   {
@@ -162,18 +164,19 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/hallo-ut.ut.ac.id",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
-    "status": "up",
-    "uptime": "92.12%",
-    "uptimeDay": "62.35%",
-    "uptimeWeek": "66.48%",
-    "uptimeMonth": "90.52%",
-    "uptimeYear": "92.12%",
+    "status": "down",
+    "uptime": "92.14%",
+    "uptimeDay": "62.27%",
+    "uptimeWeek": "66.44%",
+    "uptimeMonth": "90.55%",
+    "uptimeYear": "92.14%",
     "time": 1705,
     "timeDay": 1117,
     "timeWeek": 1618,
     "timeMonth": 1626,
     "timeYear": 1705,
     "dailyMinutesDown": {
+      "2020-12-28": 5,
       "2020-12-27": 544,
       "2020-12-26": 330,
       "2020-12-25": 538,
@@ -182,7 +185,7 @@
       "2020-12-22": 425,
       "2020-12-21": 473,
       "2020-12-20": 598,
-      "2020-12-19": 174
+      "2020-12-19": 160
     }
   },
   {
@@ -226,18 +229,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/moocs.ut.ac.id",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
-    "uptime": "92.29%",
-    "uptimeDay": "63.19%",
-    "uptimeWeek": "67.43%",
-    "uptimeMonth": "90.73%",
-    "uptimeYear": "92.29%",
+    "status": "down",
+    "uptime": "92.32%",
+    "uptimeDay": "63.12%",
+    "uptimeWeek": "67.39%",
+    "uptimeMonth": "90.76%",
+    "uptimeYear": "92.32%",
     "time": 2937,
     "timeDay": 2954,
     "timeWeek": 2767,
     "timeMonth": 2715,
     "timeYear": 2937,
     "dailyMinutesDown": {
+      "2020-12-28": 4,
       "2020-12-27": 531,
       "2020-12-26": 319,
       "2020-12-25": 507,
@@ -246,7 +250,7 @@
       "2020-12-22": 415,
       "2020-12-21": 460,
       "2020-12-20": 607,
-      "2020-12-19": 167
+      "2020-12-19": 154
     }
   },
   {
@@ -254,18 +258,19 @@
     "url": "http://utradio.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/utradio.ut.ac.id",
     "slug": "ut-radio",
-    "status": "up",
-    "uptime": "92.42%",
-    "uptimeDay": "63.62%",
-    "uptimeWeek": "67.80%",
-    "uptimeMonth": "90.89%",
-    "uptimeYear": "92.42%",
+    "status": "down",
+    "uptime": "92.45%",
+    "uptimeDay": "63.54%",
+    "uptimeWeek": "67.76%",
+    "uptimeMonth": "90.91%",
+    "uptimeYear": "92.45%",
     "time": 1851,
     "timeDay": 1758,
     "timeWeek": 1717,
     "timeMonth": 1756,
     "timeYear": 1851,
     "dailyMinutesDown": {
+      "2020-12-28": 4,
       "2020-12-27": 523,
       "2020-12-26": 314,
       "2020-12-25": 501,
@@ -274,7 +279,7 @@
       "2020-12-22": 411,
       "2020-12-21": 452,
       "2020-12-20": 583,
-      "2020-12-19": 163
+      "2020-12-19": 150
     }
   },
   {
@@ -282,18 +287,19 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/tracer.lppm.ut.ac.id",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "up",
-    "uptime": "92.56%",
-    "uptimeDay": "64.03%",
-    "uptimeWeek": "68.38%",
-    "uptimeMonth": "91.05%",
-    "uptimeYear": "92.56%",
+    "status": "down",
+    "uptime": "92.60%",
+    "uptimeDay": "63.95%",
+    "uptimeWeek": "68.35%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "92.60%",
     "time": 3942,
     "timeDay": 3100,
     "timeWeek": 3600,
     "timeMonth": 3729,
     "timeYear": 3942,
     "dailyMinutesDown": {
+      "2020-12-28": 3,
       "2020-12-27": 519,
       "2020-12-26": 308,
       "2020-12-25": 498,
@@ -302,7 +308,7 @@
       "2020-12-22": 406,
       "2020-12-21": 428,
       "2020-12-20": 583,
-      "2020-12-19": 148
+      "2020-12-19": 130
     }
   },
   {
@@ -310,18 +316,19 @@
     "url": "http://karil.ut.ac.id/pendas/",
     "icon": "https://favicons.githubusercontent.com/karil.ut.ac.id",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
-    "status": "up",
-    "uptime": "92.36%",
-    "uptimeDay": "64.47%",
-    "uptimeWeek": "67.50%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "92.36%",
+    "status": "down",
+    "uptime": "92.38%",
+    "uptimeDay": "64.39%",
+    "uptimeWeek": "67.48%",
+    "uptimeMonth": "90.83%",
+    "uptimeYear": "92.38%",
     "time": 2089,
     "timeDay": 1554,
     "timeWeek": 1653,
     "timeMonth": 2024,
     "timeYear": 2089,
     "dailyMinutesDown": {
+      "2020-12-28": 3,
       "2020-12-27": 511,
       "2020-12-26": 303,
       "2020-12-25": 493,
@@ -330,7 +337,7 @@
       "2020-12-22": 527,
       "2020-12-21": 415,
       "2020-12-20": 592,
-      "2020-12-19": 156
+      "2020-12-19": 144
     }
   },
   {
@@ -338,7 +345,7 @@
     "url": "http://karil.ut.ac.id/nonpendas/",
     "icon": "https://favicons.githubusercontent.com/karil.ut.ac.id",
     "slug": "sistem-unggah-karil-program-fe-fhisip-fmipa-fkip-non-pendas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -374,18 +381,19 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
-    "uptime": "92.74%",
-    "uptimeDay": "63.15%",
-    "uptimeWeek": "68.59%",
-    "uptimeMonth": "91.27%",
-    "uptimeYear": "92.74%",
+    "status": "down",
+    "uptime": "92.77%",
+    "uptimeDay": "63.06%",
+    "uptimeWeek": "68.57%",
+    "uptimeMonth": "91.30%",
+    "uptimeYear": "92.77%",
     "time": 2271,
     "timeDay": 1631,
     "timeWeek": 2129,
     "timeMonth": 2239,
     "timeYear": 2271,
     "dailyMinutesDown": {
+      "2020-12-28": 2,
       "2020-12-27": 530,
       "2020-12-26": 291,
       "2020-12-25": 483,
@@ -394,7 +402,7 @@
       "2020-12-22": 416,
       "2020-12-21": 402,
       "2020-12-20": 562,
-      "2020-12-19": 95
+      "2020-12-19": 80
     }
   },
   {
@@ -402,18 +410,19 @@
     "url": "https://promise.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/promise.ut.ac.id",
     "slug": "promise-ut",
-    "status": "up",
-    "uptime": "92.69%",
-    "uptimeDay": "65.78%",
-    "uptimeWeek": "69.62%",
-    "uptimeMonth": "91.21%",
-    "uptimeYear": "92.69%",
+    "status": "down",
+    "uptime": "92.86%",
+    "uptimeDay": "65.69%",
+    "uptimeWeek": "69.60%",
+    "uptimeMonth": "91.40%",
+    "uptimeYear": "92.86%",
     "time": 5954,
     "timeDay": 4418,
     "timeWeek": 3853,
     "timeMonth": 5469,
     "timeYear": 5954,
     "dailyMinutesDown": {
+      "2020-12-28": 1,
       "2020-12-27": 495,
       "2020-12-26": 287,
       "2020-12-25": 496,
@@ -422,7 +431,7 @@
       "2020-12-22": 385,
       "2020-12-21": 409,
       "2020-12-20": 557,
-      "2020-12-19": 235
+      "2020-12-19": 150
     }
   }
 ]
