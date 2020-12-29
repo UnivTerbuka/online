@@ -8,8 +8,6 @@ sites:
     url: https://www.ut.ac.id/
   - name: Sistem Informasi Akademik UT
     url: https://sia.ut.ac.id/
-  - name: Take Home Exam (THE) UT
-    url: https://the.ut.ac.id/
   - name: E-learning Universitas Terbuka
     url: https://elearning.ut.ac.id/
   - name: Mahasiswa UT - Making Higher Education Open To All
