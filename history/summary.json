@@ -97,7 +97,7 @@
     "time": 4078,
     "timeDay": 2459,
     "timeWeek": 3375,
-    "timeMonth": 3541,
+    "timeMonth": 3540,
     "timeYear": 4078,
     "dailyMinutesDown": {
       "2021-01-07": 110,
@@ -127,7 +127,7 @@
     "time": 1860,
     "timeDay": 1679,
     "timeWeek": 1850,
-    "timeMonth": 1902,
+    "timeMonth": 1903,
     "timeYear": 1860,
     "dailyMinutesDown": {
       "2021-01-07": 110,
@@ -157,7 +157,7 @@
     "time": 1722,
     "timeDay": 1224,
     "timeWeek": 1667,
-    "timeMonth": 1700,
+    "timeMonth": 1702,
     "timeYear": 1722,
     "dailyMinutesDown": {
       "2021-01-07": 110,
@@ -206,7 +206,7 @@
     "time": 2868,
     "timeDay": 1904,
     "timeWeek": 1985,
-    "timeMonth": 2196,
+    "timeMonth": 2198,
     "timeYear": 2868,
     "dailyMinutesDown": {}
   },
@@ -224,7 +224,7 @@
     "time": 2896,
     "timeDay": 2622,
     "timeWeek": 2701,
-    "timeMonth": 2758,
+    "timeMonth": 2760,
     "timeYear": 2896,
     "dailyMinutesDown": {
       "2021-01-07": 111,
@@ -255,7 +255,7 @@
     "time": 1829,
     "timeDay": 1658,
     "timeWeek": 1498,
-    "timeMonth": 1734,
+    "timeMonth": 1735,
     "timeYear": 1829,
     "dailyMinutesDown": {
       "2021-01-07": 111,
@@ -317,7 +317,7 @@
     "time": 2080,
     "timeDay": 1257,
     "timeWeek": 1714,
-    "timeMonth": 2023,
+    "timeMonth": 2024,
     "timeYear": 2080,
     "dailyMinutesDown": {
       "2021-01-07": 111,
@@ -376,15 +376,15 @@
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
     "status": "up",
-    "uptime": "93.32%",
+    "uptime": "93.33%",
     "uptimeDay": "71.39%",
     "uptimeWeek": "71.89%",
     "uptimeMonth": "89.76%",
-    "uptimeYear": "93.32%",
+    "uptimeYear": "93.33%",
     "time": 2259,
     "timeDay": 2243,
     "timeWeek": 2204,
-    "timeMonth": 2102,
+    "timeMonth": 2104,
     "timeYear": 2259,
     "dailyMinutesDown": {
       "2021-01-07": 111,
@@ -406,19 +406,19 @@
     "url": "https://promise.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/promise.ut.ac.id",
     "slug": "promise-ut",
-    "status": "up",
-    "uptime": "93.44%",
-    "uptimeDay": "74.48%",
-    "uptimeWeek": "72.06%",
-    "uptimeMonth": "89.94%",
-    "uptimeYear": "93.44%",
+    "status": "down",
+    "uptime": "93.47%",
+    "uptimeDay": "74.40%",
+    "uptimeWeek": "72.05%",
+    "uptimeMonth": "89.98%",
+    "uptimeYear": "93.47%",
     "time": 5733,
     "timeDay": 3758,
     "timeWeek": 4281,
-    "timeMonth": 4208,
+    "timeMonth": 4204,
     "timeYear": 5733,
     "dailyMinutesDown": {
-      "2021-01-07": 112,
+      "2021-01-07": 113,
       "2021-01-06": 257,
       "2021-01-05": 240,
       "2021-01-04": 289,
@@ -429,7 +429,7 @@
       "2020-12-30": 356,
       "2020-12-29": 492,
       "2020-12-28": 623,
-      "2020-12-27": 37
+      "2020-12-27": 20
     }
   }
 ]
