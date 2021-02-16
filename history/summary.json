@@ -4,7 +4,7 @@
     "url": "https://www.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/www.ut.ac.id",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,7 +71,7 @@
     "uptime": "77.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.80%",
+    "uptimeMonth": "60.84%",
     "uptimeYear": "77.35%",
     "time": 2875,
     "timeDay": 1864,
@@ -114,23 +114,23 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/mahasiswa.ut.ac.id",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "up",
-    "uptime": "97.39%",
-    "uptimeDay": "53.67%",
-    "uptimeWeek": "67.46%",
-    "uptimeMonth": "92.51%",
-    "uptimeYear": "97.39%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "53.29%",
+    "uptimeWeek": "67.58%",
+    "uptimeMonth": "92.54%",
+    "uptimeYear": "97.40%",
     "time": 3649,
     "timeDay": 2683,
     "timeWeek": 2728,
     "timeMonth": 3039,
     "timeYear": 3649,
     "dailyMinutesDown": {
-      "2021-02-16": 381,
+      "2021-02-16": 387,
       "2021-02-15": 716,
       "2021-02-14": 790,
       "2021-02-13": 669,
-      "2021-02-12": 719
+      "2021-02-12": 702
     }
   },
   {
@@ -138,24 +138,23 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "icon": "https://favicons.githubusercontent.com/tmk.ut.ac.id",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "up",
-    "uptime": "97.45%",
-    "uptimeDay": "56.89%",
-    "uptimeWeek": "68.23%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "97.45%",
+    "status": "down",
+    "uptime": "97.52%",
+    "uptimeDay": "56.54%",
+    "uptimeWeek": "69.08%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "97.52%",
     "time": 1834,
     "timeDay": 1581,
     "timeWeek": 1723,
     "timeMonth": 1799,
     "timeYear": 1834,
     "dailyMinutesDown": {
-      "2021-02-16": 361,
+      "2021-02-16": 366,
       "2021-02-15": 678,
       "2021-02-14": 778,
       "2021-02-13": 634,
-      "2021-02-12": 724,
-      "2021-02-11": 33
+      "2021-02-12": 666
     }
   },
   {
@@ -163,11 +162,11 @@
     "url": "http://hallo-ut.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/hallo-ut.ut.ac.id",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "97.51%",
-    "uptimeDay": "59.09%",
-    "uptimeWeek": "68.95%",
-    "uptimeMonth": "92.85%",
+    "uptimeDay": "58.76%",
+    "uptimeWeek": "68.96%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "97.51%",
     "time": 1679,
     "timeDay": 1548,
@@ -175,12 +174,12 @@
     "timeMonth": 1648,
     "timeYear": 1679,
     "dailyMinutesDown": {
-      "2021-02-16": 332,
+      "2021-02-16": 337,
       "2021-02-15": 646,
       "2021-02-14": 756,
       "2021-02-13": 625,
       "2021-02-12": 706,
-      "2021-02-11": 60
+      "2021-02-11": 54
     }
   },
   {
@@ -206,7 +205,7 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/lppm.ut.ac.id",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -224,10 +223,10 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/moocs.ut.ac.id",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "97.55%",
-    "uptimeDay": "60.20%",
-    "uptimeWeek": "69.52%",
+    "uptimeDay": "59.92%",
+    "uptimeWeek": "69.53%",
     "uptimeMonth": "92.99%",
     "uptimeYear": "97.55%",
     "time": 2852,
@@ -236,12 +235,12 @@
     "timeMonth": 2827,
     "timeYear": 2852,
     "dailyMinutesDown": {
-      "2021-02-16": 321,
+      "2021-02-16": 325,
       "2021-02-15": 639,
       "2021-02-14": 739,
       "2021-02-13": 609,
       "2021-02-12": 705,
-      "2021-02-11": 57
+      "2021-02-11": 52
     }
   },
   {
@@ -249,10 +248,10 @@
     "url": "http://utradio.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/utradio.ut.ac.id",
     "slug": "ut-radio",
-    "status": "up",
+    "status": "down",
     "uptime": "97.59%",
-    "uptimeDay": "60.78%",
-    "uptimeWeek": "69.97%",
+    "uptimeDay": "60.53%",
+    "uptimeWeek": "69.98%",
     "uptimeMonth": "93.09%",
     "uptimeYear": "97.59%",
     "time": 1857,
@@ -261,12 +260,12 @@
     "timeMonth": 1954,
     "timeYear": 1857,
     "dailyMinutesDown": {
-      "2021-02-16": 316,
+      "2021-02-16": 320,
       "2021-02-15": 631,
       "2021-02-14": 734,
       "2021-02-13": 600,
       "2021-02-12": 692,
-      "2021-02-11": 57
+      "2021-02-11": 52
     }
   },
   {
@@ -274,10 +273,10 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/tracer.lppm.ut.ac.id",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "97.64%",
-    "uptimeDay": "61.37%",
-    "uptimeWeek": "70.54%",
+    "uptimeDay": "61.15%",
+    "uptimeWeek": "70.55%",
     "uptimeMonth": "93.22%",
     "uptimeYear": "97.64%",
     "time": 3368,
@@ -286,12 +285,12 @@
     "timeMonth": 2614,
     "timeYear": 3368,
     "dailyMinutesDown": {
-      "2021-02-16": 310,
+      "2021-02-16": 313,
       "2021-02-15": 624,
       "2021-02-14": 727,
       "2021-02-13": 589,
       "2021-02-12": 661,
-      "2021-02-11": 54
+      "2021-02-11": 50
     }
   },
   {
@@ -299,24 +298,24 @@
     "url": "http://karil.ut.ac.id/pendas/",
     "icon": "https://favicons.githubusercontent.com/karil.ut.ac.id",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
-    "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "61.97%",
-    "uptimeWeek": "70.78%",
-    "uptimeMonth": "93.28%",
-    "uptimeYear": "97.65%",
+    "status": "down",
+    "uptime": "97.68%",
+    "uptimeDay": "61.77%",
+    "uptimeWeek": "71.12%",
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "97.68%",
     "time": 2150,
     "timeDay": 1583,
     "timeWeek": 2092,
     "timeMonth": 2187,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2021-02-16": 306,
+      "2021-02-16": 309,
       "2021-02-15": 610,
       "2021-02-14": 715,
       "2021-02-13": 583,
       "2021-02-12": 643,
-      "2021-02-11": 90
+      "2021-02-11": 53
     }
   },
   {
@@ -324,7 +323,7 @@
     "url": "http://karil.ut.ac.id/nonpendas/",
     "icon": "https://favicons.githubusercontent.com/karil.ut.ac.id",
     "slug": "sistem-unggah-karil-program-fe-fhisip-fmipa-fkip-non-pendas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -360,10 +359,10 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "56.96%",
-    "uptimeWeek": "70.15%",
+    "uptimeDay": "56.82%",
+    "uptimeWeek": "70.16%",
     "uptimeMonth": "93.13%",
     "uptimeYear": "97.60%",
     "time": 2230,
@@ -372,12 +371,12 @@
     "timeMonth": 2178,
     "timeYear": 2230,
     "dailyMinutesDown": {
-      "2021-02-16": 376,
+      "2021-02-16": 378,
       "2021-02-15": 601,
       "2021-02-14": 748,
       "2021-02-13": 589,
       "2021-02-12": 644,
-      "2021-02-11": 50
+      "2021-02-11": 47
     }
   },
   {
@@ -385,24 +384,24 @@
     "url": "https://promise.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/promise.ut.ac.id",
     "slug": "promise-ut",
-    "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "63.74%",
-    "uptimeWeek": "72.13%",
-    "uptimeMonth": "93.59%",
-    "uptimeYear": "97.76%",
+    "status": "down",
+    "uptime": "97.79%",
+    "uptimeDay": "63.62%",
+    "uptimeWeek": "72.47%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "97.79%",
     "time": 4963,
     "timeDay": 3640,
     "timeWeek": 3491,
     "timeMonth": 3897,
     "timeYear": 4963,
     "dailyMinutesDown": {
-      "2021-02-16": 290,
+      "2021-02-16": 292,
       "2021-02-15": 587,
       "2021-02-14": 687,
       "2021-02-13": 555,
       "2021-02-12": 610,
-      "2021-02-11": 85
+      "2021-02-11": 49
     }
   }
 ]
