@@ -4,7 +4,7 @@
     "url": "https://www.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/www.ut.ac.id",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,7 +71,7 @@
     "uptime": "77.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.16%",
+    "uptimeMonth": "60.24%",
     "uptimeYear": "77.30%",
     "time": 2875,
     "timeDay": 1864,
@@ -114,24 +114,24 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/mahasiswa.ut.ac.id",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "54.00%",
-    "uptimeWeek": "66.99%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "97.34%",
+    "status": "down",
+    "uptime": "97.35%",
+    "uptimeDay": "53.82%",
+    "uptimeWeek": "67.06%",
+    "uptimeMonth": "92.42%",
+    "uptimeYear": "97.35%",
     "time": 3654,
     "timeDay": 2710,
-    "timeWeek": 2765,
+    "timeWeek": 2767,
     "timeMonth": 3044,
     "timeYear": 3654,
     "dailyMinutesDown": {
-      "2021-02-16": 258,
+      "2021-02-16": 260,
       "2021-02-15": 716,
       "2021-02-14": 790,
       "2021-02-13": 669,
       "2021-02-12": 777,
-      "2021-02-11": 113
+      "2021-02-11": 104
     }
   },
   {
@@ -147,7 +147,7 @@
     "uptimeYear": "97.46%",
     "time": 1834,
     "timeDay": 1746,
-    "timeWeek": 1743,
+    "timeWeek": 1741,
     "timeMonth": 1800,
     "timeYear": 1834,
     "dailyMinutesDown": {
@@ -172,7 +172,7 @@
     "uptimeYear": "97.42%",
     "time": 1681,
     "timeDay": 1525,
-    "timeWeek": 1523,
+    "timeWeek": 1526,
     "timeMonth": 1653,
     "timeYear": 1681,
     "dailyMinutesDown": {
@@ -233,7 +233,7 @@
     "uptimeYear": "97.47%",
     "time": 2855,
     "timeDay": 3279,
-    "timeWeek": 2667,
+    "timeWeek": 2668,
     "timeMonth": 2831,
     "timeYear": 2855,
     "dailyMinutesDown": {
@@ -258,7 +258,7 @@
     "uptimeYear": "97.51%",
     "time": 1859,
     "timeDay": 2217,
-    "timeWeek": 1897,
+    "timeWeek": 1903,
     "timeMonth": 1959,
     "timeYear": 1859,
     "dailyMinutesDown": {
@@ -283,7 +283,7 @@
     "uptimeYear": "97.55%",
     "time": 3374,
     "timeDay": 2214,
-    "timeWeek": 2396,
+    "timeWeek": 2401,
     "timeMonth": 2622,
     "timeYear": 3374,
     "dailyMinutesDown": {
@@ -333,7 +333,7 @@
     "uptimeYear": "100.00%",
     "time": 782,
     "timeDay": 1085,
-    "timeWeek": 741,
+    "timeWeek": 707,
     "timeMonth": 752,
     "timeYear": 782,
     "dailyMinutesDown": {}
@@ -369,7 +369,7 @@
     "uptimeYear": "97.52%",
     "time": 2232,
     "timeDay": 1991,
-    "timeWeek": 2062,
+    "timeWeek": 2059,
     "timeMonth": 2187,
     "timeYear": 2232,
     "dailyMinutesDown": {
@@ -394,7 +394,7 @@
     "uptimeYear": "97.66%",
     "time": 4971,
     "timeDay": 3884,
-    "timeWeek": 3517,
+    "timeWeek": 3524,
     "timeMonth": 3904,
     "timeYear": 4971,
     "dailyMinutesDown": {
