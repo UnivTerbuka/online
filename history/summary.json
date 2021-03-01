@@ -31,7 +31,7 @@
     "time": 2389,
     "timeDay": 1227,
     "timeWeek": 3177,
-    "timeMonth": 3908,
+    "timeMonth": 4016,
     "timeYear": 2389,
     "dailyMinutesDown": {
       "2021-02-28": 15,
@@ -80,7 +80,7 @@
     "time": 2876,
     "timeDay": 2677,
     "timeWeek": 3493,
-    "timeMonth": 2536,
+    "timeMonth": 2556,
     "timeYear": 2876,
     "dailyMinutesDown": {
       "2021-02-26": 925,
@@ -130,7 +130,7 @@
     "time": 3507,
     "timeDay": 2542,
     "timeWeek": 2621,
-    "timeMonth": 2938,
+    "timeMonth": 2940,
     "timeYear": 3507,
     "dailyMinutesDown": {
       "2021-02-28": 684,
@@ -147,15 +147,15 @@
     "icon": "https://favicons.githubusercontent.com/tmk.ut.ac.id",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "53.79%",
     "uptimeWeek": "65.22%",
     "uptimeMonth": "92.00%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.56%",
     "time": 1811,
     "timeDay": 1523,
     "timeWeek": 1742,
-    "timeMonth": 1754,
+    "timeMonth": 1765,
     "timeYear": 1811,
     "dailyMinutesDown": {
       "2021-02-28": 666,
@@ -180,7 +180,7 @@
     "time": 1648,
     "timeDay": 1668,
     "timeWeek": 1548,
-    "timeMonth": 1592,
+    "timeMonth": 1603,
     "timeYear": 1648,
     "dailyMinutesDown": {
       "2021-02-28": 656,
@@ -205,7 +205,7 @@
     "time": 1227,
     "timeDay": 440,
     "timeWeek": 646,
-    "timeMonth": 840,
+    "timeMonth": 811,
     "timeYear": 1227,
     "dailyMinutesDown": {}
   },
@@ -223,7 +223,7 @@
     "time": 2777,
     "timeDay": 2495,
     "timeWeek": 3081,
-    "timeMonth": 2926,
+    "timeMonth": 2994,
     "timeYear": 2777,
     "dailyMinutesDown": {}
   },
@@ -241,7 +241,7 @@
     "time": 2801,
     "timeDay": 2452,
     "timeWeek": 2548,
-    "timeMonth": 2728,
+    "timeMonth": 2720,
     "timeYear": 2801,
     "dailyMinutesDown": {
       "2021-02-28": 643,
@@ -266,7 +266,7 @@
     "time": 1806,
     "timeDay": 1446,
     "timeWeek": 1506,
-    "timeMonth": 1786,
+    "timeMonth": 1770,
     "timeYear": 1806,
     "dailyMinutesDown": {
       "2021-02-28": 634,
@@ -291,7 +291,7 @@
     "time": 3216,
     "timeDay": 2658,
     "timeWeek": 2441,
-    "timeMonth": 2543,
+    "timeMonth": 2528,
     "timeYear": 3216,
     "dailyMinutesDown": {
       "2021-02-28": 630,
@@ -316,7 +316,7 @@
     "time": 2169,
     "timeDay": 3494,
     "timeWeek": 2279,
-    "timeMonth": 2204,
+    "timeMonth": 2200,
     "timeYear": 2169,
     "dailyMinutesDown": {
       "2021-02-28": 622,
@@ -341,7 +341,7 @@
     "time": 771,
     "timeDay": 526,
     "timeWeek": 731,
-    "timeMonth": 751,
+    "timeMonth": 731,
     "timeYear": 771,
     "dailyMinutesDown": {}
   },
@@ -359,7 +359,7 @@
     "time": 1416,
     "timeDay": 347,
     "timeWeek": 1071,
-    "timeMonth": 1351,
+    "timeMonth": 1165,
     "timeYear": 1416,
     "dailyMinutesDown": {}
   },
@@ -402,7 +402,7 @@
     "time": 4704,
     "timeDay": 3875,
     "timeWeek": 3391,
-    "timeMonth": 3669,
+    "timeMonth": 3673,
     "timeYear": 4704,
     "dailyMinutesDown": {
       "2021-02-28": 597,
