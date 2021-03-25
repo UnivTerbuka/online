@@ -1,7 +1,7 @@
 url: http://utradio.ut.ac.id/
-status: down
-code: 503
-responseTime: 21748
-lastUpdated: 2021-03-25T13:43:15.263Z
+status: up
+code: 200
+responseTime: 1521
+lastUpdated: 2021-03-25T13:58:13.819Z
 startTime: Sat Nov 21 2020 10:37:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
