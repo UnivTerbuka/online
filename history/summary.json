@@ -335,18 +335,18 @@
     "icon": "https://favicons.githubusercontent.com/karil.ut.ac.id",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
-    "uptime": "64.16%",
+    "uptime": "64.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.16%",
+    "uptimeYear": "64.15%",
     "time": 2164,
     "timeDay": 1224,
     "timeWeek": 1135,
     "timeMonth": 1860,
     "timeYear": 2164,
     "dailyMinutesDown": {
-      "2021-04-22": 183,
+      "2021-04-22": 218,
       "2021-04-21": 1440,
       "2021-04-20": 1440,
       "2021-04-19": 1440,
@@ -448,10 +448,10 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "97.29%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.99%",
     "time": 2237,
@@ -460,6 +460,7 @@
     "timeMonth": 1940,
     "timeYear": 2237,
     "dailyMinutesDown": {
+      "2021-04-22": 2,
       "2021-04-21": 39,
       "2021-03-18": 10,
       "2021-03-17": 27,
@@ -472,7 +473,7 @@
       "2021-03-10": 431,
       "2021-03-09": 266,
       "2021-03-08": 177,
-      "2021-03-07": 62
+      "2021-03-07": 49
     }
   },
   {
