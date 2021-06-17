@@ -244,7 +244,7 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/lppm.ut.ac.id",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -571,7 +571,7 @@
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-06-17": 838,
+      "2021-06-17": 856,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
       "2021-06-14": 1440,
