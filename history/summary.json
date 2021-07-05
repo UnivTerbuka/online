@@ -31,7 +31,7 @@
     "time": 2190,
     "timeDay": 1578,
     "timeWeek": 1829,
-    "timeMonth": 2299,
+    "timeMonth": 2325,
     "timeYear": 2190,
     "dailyMinutesDown": {
       "2021-06-26": 22,
@@ -92,7 +92,7 @@
     "time": 3459,
     "timeDay": 1418,
     "timeWeek": 1595,
-    "timeMonth": 2238,
+    "timeMonth": 2263,
     "timeYear": 3459,
     "dailyMinutesDown": {
       "2021-06-24": 33,
@@ -149,7 +149,7 @@
     "time": 3355,
     "timeDay": 2386,
     "timeWeek": 2127,
-    "timeMonth": 2585,
+    "timeMonth": 2580,
     "timeYear": 3355,
     "dailyMinutesDown": {
       "2021-06-28": 10,
@@ -182,7 +182,7 @@
     "time": 1788,
     "timeDay": 1440,
     "timeWeek": 1707,
-    "timeMonth": 1476,
+    "timeMonth": 1496,
     "timeYear": 1788,
     "dailyMinutesDown": {
       "2021-06-24": 31,
@@ -212,7 +212,7 @@
     "time": 1602,
     "timeDay": 1139,
     "timeWeek": 1072,
-    "timeMonth": 1206,
+    "timeMonth": 1223,
     "timeYear": 1602,
     "dailyMinutesDown": {
       "2021-06-24": 31,
@@ -242,7 +242,7 @@
     "time": 1113,
     "timeDay": 464,
     "timeWeek": 839,
-    "timeMonth": 1019,
+    "timeMonth": 1028,
     "timeYear": 1113,
     "dailyMinutesDown": {}
   },
@@ -260,7 +260,7 @@
     "time": 2895,
     "timeDay": 3455,
     "timeWeek": 2384,
-    "timeMonth": 2728,
+    "timeMonth": 2717,
     "timeYear": 2895,
     "dailyMinutesDown": {}
   },
@@ -278,7 +278,7 @@
     "time": 2839,
     "timeDay": 3172,
     "timeWeek": 5709,
-    "timeMonth": 5360,
+    "timeMonth": 5403,
     "timeYear": 2839,
     "dailyMinutesDown": {
       "2021-07-02": 191,
@@ -322,7 +322,7 @@
     "time": 1779,
     "timeDay": 2194,
     "timeWeek": 1604,
-    "timeMonth": 1592,
+    "timeMonth": 1622,
     "timeYear": 1779,
     "dailyMinutesDown": {
       "2021-06-24": 19,
@@ -352,7 +352,7 @@
     "time": 3069,
     "timeDay": 1766,
     "timeWeek": 2114,
-    "timeMonth": 2388,
+    "timeMonth": 2396,
     "timeYear": 3069,
     "dailyMinutesDown": {
       "2021-06-24": 45,
@@ -383,7 +383,7 @@
     "time": 2152,
     "timeDay": 1255,
     "timeWeek": 1816,
-    "timeMonth": 2038,
+    "timeMonth": 2076,
     "timeYear": 2152,
     "dailyMinutesDown": {
       "2021-06-24": 17,
@@ -478,7 +478,7 @@
     "time": 770,
     "timeDay": 489,
     "timeWeek": 483,
-    "timeMonth": 797,
+    "timeMonth": 809,
     "timeYear": 770,
     "dailyMinutesDown": {}
   },
@@ -496,7 +496,7 @@
     "time": 1372,
     "timeDay": 348,
     "timeWeek": 1258,
-    "timeMonth": 1453,
+    "timeMonth": 1441,
     "timeYear": 1372,
     "dailyMinutesDown": {}
   },
@@ -514,7 +514,7 @@
     "time": 2211,
     "timeDay": 1387,
     "timeWeek": 2291,
-    "timeMonth": 2405,
+    "timeMonth": 2420,
     "timeYear": 2211,
     "dailyMinutesDown": {
       "2021-07-04": 88,
@@ -579,18 +579,19 @@
     "icon": "https://favicons.githubusercontent.com/promise.ut.ac.id",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "70.11%",
+    "uptime": "70.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.11%",
+    "uptimeYear": "70.09%",
     "time": 4591,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-07-04": 1400,
+      "2021-07-05": 26,
+      "2021-07-04": 1440,
       "2021-07-03": 1440,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
