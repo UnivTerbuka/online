@@ -173,11 +173,11 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "icon": "https://favicons.githubusercontent.com/tmk.ut.ac.id",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.16%",
     "time": 1788,
     "timeDay": 2375,
@@ -185,6 +185,7 @@
     "timeMonth": 1491,
     "timeYear": 1788,
     "dailyMinutesDown": {
+      "2021-07-07": 4,
       "2021-06-24": 31,
       "2021-05-16": 6,
       "2021-03-15": 475,
@@ -195,7 +196,7 @@
       "2021-03-10": 357,
       "2021-03-09": 330,
       "2021-03-08": 227,
-      "2021-03-07": 258
+      "2021-03-07": 251
     }
   },
   {
@@ -315,18 +316,19 @@
     "url": "http://utradio.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/utradio.ut.ac.id",
     "slug": "ut-radio",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.22%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.23%",
     "time": 1778,
     "timeDay": 884,
     "timeWeek": 1027,
     "timeMonth": 1576,
     "timeYear": 1778,
     "dailyMinutesDown": {
+      "2021-07-07": 3,
       "2021-06-24": 19,
       "2021-05-07": 9,
       "2021-03-15": 453,
@@ -337,7 +339,7 @@
       "2021-03-10": 363,
       "2021-03-09": 280,
       "2021-03-08": 184,
-      "2021-03-07": 255
+      "2021-03-07": 235
     }
   },
   {
@@ -376,18 +378,19 @@
     "url": "http://karil.ut.ac.id/pendas/",
     "icon": "https://favicons.githubusercontent.com/karil.ut.ac.id",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
-    "status": "up",
-    "uptime": "69.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "69.34%",
+    "status": "down",
+    "uptime": "69.35%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "69.35%",
     "time": 2150,
     "timeDay": 875,
     "timeWeek": 1034,
     "timeMonth": 2042,
     "timeYear": 2150,
     "dailyMinutesDown": {
+      "2021-07-07": 3,
       "2021-06-24": 17,
       "2021-05-23": 33,
       "2021-05-07": 1185,
@@ -463,7 +466,7 @@
       "2021-02-26": 591,
       "2021-02-25": 644,
       "2021-02-24": 708,
-      "2021-02-23": 178
+      "2021-02-23": 151
     }
   },
   {
@@ -471,7 +474,7 @@
     "url": "http://karil.ut.ac.id/nonpendas/",
     "icon": "https://favicons.githubusercontent.com/karil.ut.ac.id",
     "slug": "sistem-unggah-karil-program-fe-fhisip-fmipa-fkip-non-pendas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -507,11 +510,11 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "97.97%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "87.99%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "87.98%",
     "uptimeYear": "97.97%",
     "time": 2218,
     "timeDay": 5762,
@@ -519,7 +522,7 @@
     "timeMonth": 2550,
     "timeYear": 2218,
     "dailyMinutesDown": {
-      "2021-07-07": 48,
+      "2021-07-07": 51,
       "2021-07-06": 38,
       "2021-07-05": 17,
       "2021-07-04": 88,
@@ -573,8 +576,7 @@
       "2021-05-03": 71,
       "2021-05-02": 78,
       "2021-05-01": 127,
-      "2021-04-30": 34,
-      "2021-04-29": 15
+      "2021-04-30": 34
     }
   },
   {
@@ -594,7 +596,7 @@
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-07-07": 1138,
+      "2021-07-07": 1157,
       "2021-07-06": 1440,
       "2021-07-05": 1440,
       "2021-07-04": 1440,
