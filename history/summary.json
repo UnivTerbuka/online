@@ -22,19 +22,19 @@
     "url": "https://sia.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/sia.ut.ac.id",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "74.69%",
+    "uptimeDay": "74.65%",
     "uptimeWeek": "96.38%",
-    "uptimeMonth": "98.99%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.37%",
-    "time": 2198,
-    "timeDay": 987,
-    "timeWeek": 1316,
-    "timeMonth": 2003,
-    "timeYear": 2198,
+    "time": 2194,
+    "timeDay": 961,
+    "timeWeek": 1282,
+    "timeMonth": 1976,
+    "timeYear": 2194,
     "dailyMinutesDown": {
-      "2021-08-08": 365,
+      "2021-08-08": 366,
       "2021-07-31": 37,
       "2021-07-30": 11,
       "2021-07-25": 11,
@@ -80,7 +80,7 @@
       "2020-11-24": 8,
       "2020-11-23": 30,
       "2020-11-22": 244,
-      "2020-11-21": 252
+      "2020-11-21": 236
     }
   },
   {
@@ -541,7 +541,7 @@
     "time": 2216,
     "timeDay": 948,
     "timeWeek": 1519,
-    "timeMonth": 2172,
+    "timeMonth": 2182,
     "timeYear": 2216,
     "dailyMinutesDown": {
       "2021-08-07": 32,
@@ -607,7 +607,7 @@
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-08-08": 827,
+      "2021-08-08": 836,
       "2021-08-07": 1440,
       "2021-08-06": 1440,
       "2021-08-05": 1440,
