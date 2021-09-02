@@ -290,11 +290,11 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/moocs.ut.ac.id",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "88.55%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "96.28%",
+    "uptimeDay": "88.39%",
+    "uptimeWeek": "95.32%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "98.28%",
     "time": 2987,
     "timeDay": 1984,
@@ -302,6 +302,7 @@
     "timeMonth": 5248,
     "timeYear": 2987,
     "dailyMinutesDown": {
+      "2021-09-02": 2,
       "2021-09-01": 165,
       "2021-08-31": 52,
       "2021-08-29": 174,
@@ -351,7 +352,7 @@
       "2021-03-15": 453,
       "2021-03-14": 247,
       "2021-03-13": 272,
-      "2021-03-12": 191
+      "2021-03-12": 175
     }
   },
   {
@@ -625,7 +626,7 @@
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-09-02": 181,
+      "2021-09-02": 208,
       "2021-09-01": 1440,
       "2021-08-31": 1440,
       "2021-08-30": 1440,
