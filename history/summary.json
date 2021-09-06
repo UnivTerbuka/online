@@ -227,8 +227,8 @@
     "status": "down",
     "uptime": "98.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "45.64%",
-    "uptimeMonth": "87.49%",
+    "uptimeWeek": "45.51%",
+    "uptimeMonth": "87.46%",
     "uptimeYear": "98.04%",
     "time": 1585,
     "timeDay": 0,
@@ -236,7 +236,7 @@
     "timeMonth": 959,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2021-09-06": 470,
+      "2021-09-06": 483,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
@@ -295,11 +295,11 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/moocs.ut.ac.id",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "92.13%",
-    "uptimeWeek": "94.76%",
-    "uptimeMonth": "96.22%",
+    "uptimeDay": "91.93%",
+    "uptimeWeek": "94.73%",
+    "uptimeMonth": "96.21%",
     "uptimeYear": "98.29%",
     "time": 3004,
     "timeDay": 6505,
@@ -307,7 +307,7 @@
     "timeMonth": 5001,
     "timeYear": 3004,
     "dailyMinutesDown": {
-      "2021-09-06": 113,
+      "2021-09-06": 116,
       "2021-09-03": 186,
       "2021-09-02": 12,
       "2021-09-01": 165,
@@ -358,7 +358,7 @@
       "2021-05-21": 108,
       "2021-03-15": 453,
       "2021-03-14": 247,
-      "2021-03-13": 195
+      "2021-03-13": 176
     }
   },
   {
@@ -630,7 +630,7 @@
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-09-06": 472,
+      "2021-09-06": 486,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
