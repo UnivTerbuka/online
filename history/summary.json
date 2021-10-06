@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 3251,
     "timeDay": 2382,
-    "timeWeek": 2037,
+    "timeWeek": 2049,
     "timeMonth": 6462,
     "timeYear": 3251,
     "dailyMinutesDown": {}
@@ -228,18 +228,18 @@
     "icon": "https://favicons.githubusercontent.com/hallo-ut.ut.ac.id",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "88.79%",
+    "uptime": "88.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.79%",
+    "uptimeYear": "88.78%",
     "time": 1585,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2021-10-06": 649,
+      "2021-10-06": 693,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
@@ -319,7 +319,7 @@
     "time": 2879,
     "timeDay": 2674,
     "timeWeek": 2696,
-    "timeMonth": 2736,
+    "timeMonth": 2707,
     "timeYear": 2879,
     "dailyMinutesDown": {}
   },
@@ -608,11 +608,11 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "58.42%",
-    "uptimeWeek": "87.98%",
-    "uptimeMonth": "95.19%",
+    "uptimeDay": "58.17%",
+    "uptimeWeek": "87.94%",
+    "uptimeMonth": "95.21%",
     "uptimeYear": "99.54%",
     "time": 2203,
     "timeDay": 2315,
@@ -620,7 +620,7 @@
     "timeMonth": 2001,
     "timeYear": 2203,
     "dailyMinutesDown": {
-      "2021-10-06": 401,
+      "2021-10-06": 405,
       "2021-10-05": 222,
       "2021-10-04": 73,
       "2021-10-03": 162,
@@ -644,8 +644,7 @@
       "2021-09-11": 99,
       "2021-09-10": 37,
       "2021-09-09": 16,
-      "2021-09-08": 116,
-      "2021-09-07": 13
+      "2021-09-08": 116
     }
   },
   {
@@ -665,7 +664,7 @@
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-10-06": 651,
+      "2021-10-06": 696,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
