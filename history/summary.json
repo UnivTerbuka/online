@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2021-10-07": 1302,
+      "2021-10-07": 1315,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
@@ -320,7 +320,7 @@
     "time": 2877,
     "timeDay": 2586,
     "timeWeek": 2725,
-    "timeMonth": 2682,
+    "timeMonth": 2696,
     "timeYear": 2877,
     "dailyMinutesDown": {}
   },
@@ -607,11 +607,11 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "56.84%",
-    "uptimeWeek": "80.39%",
-    "uptimeMonth": "94.35%",
+    "uptimeDay": "56.66%",
+    "uptimeWeek": "80.36%",
+    "uptimeMonth": "94.36%",
     "uptimeYear": "99.46%",
     "time": 2204,
     "timeDay": 2426,
@@ -619,7 +619,7 @@
     "timeMonth": 2070,
     "timeYear": 2204,
     "dailyMinutesDown": {
-      "2021-10-07": 589,
+      "2021-10-07": 592,
       "2021-10-06": 750,
       "2021-10-05": 222,
       "2021-10-04": 73,
@@ -632,8 +632,7 @@
       "2021-09-27": 69,
       "2021-09-24": 29,
       "2021-09-22": 41,
-      "2021-09-21": 21,
-      "2021-09-20": 9
+      "2021-09-21": 21
     }
   },
   {
@@ -653,7 +652,7 @@
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-10-07": 1304,
+      "2021-10-07": 1317,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
