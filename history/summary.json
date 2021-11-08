@@ -199,11 +199,11 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "icon": "https://favicons.githubusercontent.com/tmk.ut.ac.id",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.46%",
     "time": 1760,
     "timeDay": 989,
@@ -211,6 +211,7 @@
     "timeMonth": 1235,
     "timeYear": 1760,
     "dailyMinutesDown": {
+      "2021-11-08": 3,
       "2021-11-01": 36,
       "2021-09-01": 10,
       "2021-07-07": 11,
@@ -224,7 +225,7 @@
       "2021-03-10": 357,
       "2021-03-09": 330,
       "2021-03-08": 227,
-      "2021-03-07": 205
+      "2021-03-07": 169
     }
   },
   {
@@ -244,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2021-11-08": 828,
+      "2021-11-08": 858,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
@@ -650,13 +651,13 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "88.54%",
-    "uptimeWeek": "91.85%",
+    "uptimeWeek": "91.90%",
     "uptimeMonth": "96.08%",
     "uptimeYear": "99.66%",
     "time": 2201,
     "timeDay": 1613,
-    "timeWeek": 1692,
-    "timeMonth": 2157,
+    "timeWeek": 1705,
+    "timeMonth": 2156,
     "timeYear": 2201,
     "dailyMinutesDown": {
       "2021-11-08": 130,
@@ -699,7 +700,7 @@
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-11-08": 830,
+      "2021-11-08": 862,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
