@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2021-11-15": 270,
+      "2021-11-15": 296,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -363,7 +363,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2888,
-    "timeDay": 3338,
+    "timeDay": 4263,
     "timeWeek": 3195,
     "timeMonth": 2973,
     "timeYear": 2888,
@@ -376,7 +376,7 @@
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "95.73%",
+    "uptimeDay": "97.54%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "98.73%",
@@ -653,11 +653,11 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "95.79%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "95.81%",
     "uptimeYear": "99.64%",
     "time": 2204,
     "timeDay": 4425,
@@ -665,7 +665,7 @@
     "timeMonth": 1744,
     "timeYear": 2204,
     "dailyMinutesDown": {
-      "2021-11-15": 31,
+      "2021-11-15": 34,
       "2021-11-14": 42,
       "2021-11-13": 108,
       "2021-11-12": 55,
@@ -684,7 +684,7 @@
       "2021-10-30": 110,
       "2021-10-29": 71,
       "2021-10-28": 51,
-      "2021-10-27": 117
+      "2021-10-27": 106
     }
   },
   {
@@ -704,7 +704,7 @@
     "timeMonth": 0,
     "timeYear": 4591,
     "dailyMinutesDown": {
-      "2021-11-15": 273,
+      "2021-11-15": 299,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
