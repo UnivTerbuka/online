@@ -25,7 +25,7 @@
     "status": "up",
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.80%",
+    "uptimeWeek": "89.15%",
     "uptimeMonth": "90.05%",
     "uptimeYear": "98.64%",
     "time": 2276,
@@ -165,10 +165,10 @@
     "icon": "https://favicons.githubusercontent.com/mahasiswa.ut.ac.id",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "down",
-    "uptime": "98.23%",
+    "uptime": "98.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "39.78%",
-    "uptimeMonth": "86.14%",
+    "uptimeWeek": "39.43%",
+    "uptimeMonth": "86.06%",
     "uptimeYear": "98.19%",
     "time": 3236,
     "timeDay": 0,
@@ -176,7 +176,7 @@
     "timeMonth": 2220,
     "timeYear": 3176,
     "dailyMinutesDown": {
-      "2021-11-28": 890,
+      "2021-11-28": 926,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
@@ -254,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2021-11-28": 891,
+      "2021-11-28": 926,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
@@ -678,11 +678,11 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "96.46%",
-    "uptimeWeek": "96.59%",
-    "uptimeMonth": "95.75%",
+    "uptimeDay": "96.29%",
+    "uptimeWeek": "96.57%",
+    "uptimeMonth": "95.77%",
     "uptimeYear": "99.65%",
     "time": 2181,
     "timeDay": 1787,
@@ -690,7 +690,7 @@
     "timeMonth": 1882,
     "timeYear": 2188,
     "dailyMinutesDown": {
-      "2021-11-28": 51,
+      "2021-11-28": 53,
       "2021-11-27": 71,
       "2021-11-26": 32,
       "2021-11-25": 55,
@@ -712,7 +712,7 @@
       "2021-11-09": 124,
       "2021-11-08": 171,
       "2021-11-07": 139,
-      "2021-11-06": 74
+      "2021-11-06": 62
     }
   },
   {
@@ -732,7 +732,7 @@
     "timeMonth": 0,
     "timeYear": 4305,
     "dailyMinutesDown": {
-      "2021-11-28": 893,
+      "2021-11-28": 928,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
