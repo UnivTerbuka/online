@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2075,
-    "timeYear": 2967,
+    "timeYear": 2966,
     "dailyMinutesDown": {}
   },
   {
@@ -165,7 +165,7 @@
     "uptime": "96.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.56%",
+    "uptimeMonth": "66.54%",
     "uptimeYear": "96.56%",
     "time": 3132,
     "timeDay": 0,
@@ -173,7 +173,7 @@
     "timeMonth": 2270,
     "timeYear": 3089,
     "dailyMinutesDown": {
-      "2021-12-04": 828,
+      "2021-12-04": 836,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
@@ -257,7 +257,7 @@
     "timeMonth": 0,
     "timeYear": 1544,
     "dailyMinutesDown": {
-      "2021-12-04": 828,
+      "2021-12-04": 837,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
@@ -397,7 +397,7 @@
     "timeDay": 4159,
     "timeWeek": 3295,
     "timeMonth": 3071,
-    "timeYear": 2775,
+    "timeYear": 2774,
     "dailyMinutesDown": {}
   },
   {
@@ -415,7 +415,7 @@
     "timeDay": 6231,
     "timeWeek": 5395,
     "timeMonth": 5405,
-    "timeYear": 3298,
+    "timeYear": 3299,
     "dailyMinutesDown": {
       "2021-12-04": 67,
       "2021-12-02": 45,
@@ -494,7 +494,7 @@
     "timeDay": 749,
     "timeWeek": 1003,
     "timeMonth": 1040,
-    "timeYear": 1696,
+    "timeYear": 1697,
     "dailyMinutesDown": {
       "2021-11-28": 12,
       "2021-11-27": 8,
@@ -667,7 +667,7 @@
     "url": "http://staff.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/staff.ut.ac.id",
     "slug": "situs-web-berbagi-ilmu-oleh-staff-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -740,9 +740,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4012,
+    "timeYear": 4006,
     "dailyMinutesDown": {
-      "2021-12-04": 830,
+      "2021-12-04": 838,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
