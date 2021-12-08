@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2067,
-    "timeYear": 2948,
+    "timeYear": 2947,
     "dailyMinutesDown": {}
   },
   {
@@ -162,7 +162,7 @@
     "uptime": "95.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.00%",
+    "uptimeMonth": "53.94%",
     "uptimeYear": "95.51%",
     "time": 3094,
     "timeDay": 0,
@@ -170,7 +170,7 @@
     "timeMonth": 2312,
     "timeYear": 3070,
     "dailyMinutesDown": {
-      "2021-12-08": 569,
+      "2021-12-08": 597,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
@@ -256,9 +256,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1556,
+    "timeYear": 1557,
     "dailyMinutesDown": {
-      "2021-12-08": 570,
+      "2021-12-08": 597,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
@@ -402,7 +402,7 @@
     "timeDay": 1306,
     "timeWeek": 3406,
     "timeMonth": 3233,
-    "timeYear": 2781,
+    "timeYear": 2782,
     "dailyMinutesDown": {}
   },
   {
@@ -410,19 +410,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/moocs.ut.ac.id",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "98.07%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "98.05%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "98.92%",
-    "time": 3297,
-    "timeDay": 7649,
-    "timeWeek": 6854,
-    "timeMonth": 5720,
-    "timeYear": 3341,
+    "time": 3304,
+    "timeDay": 9877,
+    "timeWeek": 7339,
+    "timeMonth": 5867,
+    "timeYear": 3348,
     "dailyMinutesDown": {
-      "2021-12-08": 20,
+      "2021-12-08": 22,
       "2021-12-06": 63,
       "2021-12-04": 67,
       "2021-12-02": 45,
@@ -481,8 +481,7 @@
       "2021-09-14": 117,
       "2021-09-13": 9,
       "2021-09-11": 49,
-      "2021-09-10": 79,
-      "2021-09-09": 15
+      "2021-09-10": 79
     }
   },
   {
@@ -492,7 +491,7 @@
     "slug": "ut-radio",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "3.67%",
+    "uptimeDay": "5.57%",
     "uptimeWeek": "68.36%",
     "uptimeMonth": "92.67%",
     "uptimeYear": "98.92%",
@@ -500,7 +499,7 @@
     "timeDay": 747,
     "timeWeek": 841,
     "timeMonth": 959,
-    "timeYear": 1691,
+    "timeYear": 1692,
     "dailyMinutesDown": {
       "2021-12-08": 518,
       "2021-12-07": 1440,
@@ -563,7 +562,7 @@
     "icon": "https://favicons.githubusercontent.com/karil.ut.ac.id",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
-    "uptime": "81.67%",
+    "uptime": "81.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -669,7 +668,7 @@
     "timeDay": 516,
     "timeWeek": 483,
     "timeMonth": 490,
-    "timeYear": 704,
+    "timeYear": 705,
     "dailyMinutesDown": {}
   },
   {
@@ -740,7 +739,7 @@
     "icon": "https://favicons.githubusercontent.com/promise.ut.ac.id",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "41.40%",
+    "uptime": "41.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -751,7 +750,7 @@
     "timeMonth": 0,
     "timeYear": 3900,
     "dailyMinutesDown": {
-      "2021-12-08": 572,
+      "2021-12-08": 599,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
