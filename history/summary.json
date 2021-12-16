@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2046,
-    "timeYear": 2872,
+    "timeYear": 2871,
     "dailyMinutesDown": {}
   },
   {
@@ -156,15 +156,15 @@
     "uptime": "93.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.51%",
-    "uptimeYear": "93.31%",
+    "uptimeMonth": "27.41%",
+    "uptimeYear": "93.30%",
     "time": 3047,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2539,
     "timeYear": 3004,
     "dailyMinutesDown": {
-      "2021-12-16": 654,
+      "2021-12-16": 697,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
@@ -253,14 +253,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.75%",
+    "uptimeYear": "70.74%",
     "time": 1542,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1534,
     "dailyMinutesDown": {
-      "2021-12-16": 654,
+      "2021-12-16": 698,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
@@ -412,7 +412,7 @@
     "timeDay": 3060,
     "timeWeek": 2992,
     "timeMonth": 3149,
-    "timeYear": 2815,
+    "timeYear": 2816,
     "dailyMinutesDown": {}
   },
   {
@@ -430,7 +430,7 @@
     "timeDay": 2979,
     "timeWeek": 5598,
     "timeMonth": 5725,
-    "timeYear": 3412,
+    "timeYear": 3413,
     "dailyMinutesDown": {
       "2021-12-14": 26,
       "2021-12-12": 66,
@@ -508,7 +508,7 @@
     "timeDay": 786,
     "timeWeek": 1642,
     "timeMonth": 1134,
-    "timeYear": 1683,
+    "timeYear": 1684,
     "dailyMinutesDown": {
       "2021-12-09": 39,
       "2021-12-08": 518,
@@ -545,7 +545,7 @@
     "timeDay": 1465,
     "timeWeek": 1729,
     "timeMonth": 1860,
-    "timeYear": 2692,
+    "timeYear": 2691,
     "dailyMinutesDown": {
       "2021-12-06": 14,
       "2021-10-26": 17,
@@ -581,7 +581,7 @@
     "timeDay": 1003,
     "timeWeek": 1807,
     "timeMonth": 1453,
-    "timeYear": 2069,
+    "timeYear": 2070,
     "dailyMinutesDown": {
       "2021-09-21": 18,
       "2021-07-07": 9,
@@ -704,11 +704,11 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "90.12%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "95.48%",
+    "uptimeDay": "89.88%",
+    "uptimeWeek": "94.82%",
+    "uptimeMonth": "95.50%",
     "uptimeYear": "99.62%",
     "time": 2161,
     "timeDay": 1355,
@@ -716,7 +716,7 @@
     "timeMonth": 1974,
     "timeYear": 2163,
     "dailyMinutesDown": {
-      "2021-12-16": 114,
+      "2021-12-16": 117,
       "2021-12-15": 37,
       "2021-12-14": 112,
       "2021-12-13": 85,
@@ -741,8 +741,7 @@
       "2021-11-24": 43,
       "2021-11-23": 72,
       "2021-11-22": 19,
-      "2021-11-21": 9,
-      "2021-11-20": 11
+      "2021-11-21": 9
     }
   },
   {
@@ -755,14 +754,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "36.47%",
+    "uptimeYear": "36.46%",
     "time": 3887,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3844,
     "dailyMinutesDown": {
-      "2021-12-16": 656,
+      "2021-12-16": 701,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
