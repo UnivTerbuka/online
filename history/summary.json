@@ -89,7 +89,7 @@
     "uptime": "90.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
-    "uptimeMonth": "67.58%",
+    "uptimeMonth": "67.61%",
     "uptimeYear": "93.52%",
     "time": 2730,
     "timeDay": 1380,
@@ -247,14 +247,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.81%",
+    "uptimeYear": "87.80%",
     "time": 1623,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1605,
     "dailyMinutesDown": {
-      "2022-02-11": 812,
+      "2022-02-11": 826,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2022-02-11": 812,
+      "2022-02-11": 826,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
@@ -562,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 3883,
     "dailyMinutesDown": {
-      "2022-02-11": 813,
+      "2022-02-11": 826,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
@@ -878,11 +878,11 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "82.08%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "96.86%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "81.93%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "96.85%",
     "uptimeYear": "99.58%",
     "time": 2132,
     "timeDay": 2206,
@@ -890,7 +890,7 @@
     "timeMonth": 2291,
     "timeYear": 2123,
     "dailyMinutesDown": {
-      "2022-02-11": 249,
+      "2022-02-11": 251,
       "2022-02-10": 57,
       "2022-02-09": 10,
       "2022-02-07": 33,
@@ -929,7 +929,7 @@
       "2021-12-31": 35,
       "2021-12-30": 91,
       "2021-12-29": 78,
-      "2021-12-28": 110
+      "2021-12-28": 75
     }
   },
   {
@@ -949,7 +949,7 @@
     "timeMonth": 0,
     "timeYear": 3669,
     "dailyMinutesDown": {
-      "2022-02-11": 814,
+      "2022-02-11": 827,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
