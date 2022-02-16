@@ -14,7 +14,7 @@
     "timeDay": 1704,
     "timeWeek": 2391,
     "timeMonth": 2096,
-    "timeYear": 2684,
+    "timeYear": 2685,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://sia.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/sia.ut.ac.id",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "25.65%",
-    "uptimeWeek": "62.22%",
-    "uptimeMonth": "83.03%",
-    "uptimeYear": "96.15%",
-    "time": 2155,
-    "timeDay": 1186,
-    "timeWeek": 1111,
-    "timeMonth": 1476,
-    "timeYear": 2212,
+    "status": "down",
+    "uptime": "96.90%",
+    "uptimeDay": "25.61%",
+    "uptimeWeek": "62.21%",
+    "uptimeMonth": "83.05%",
+    "uptimeYear": "96.16%",
+    "time": 2158,
+    "timeDay": 1296,
+    "timeWeek": 1140,
+    "timeMonth": 1497,
+    "timeYear": 2216,
     "dailyMinutesDown": {
-      "2022-02-16": 922,
+      "2022-02-16": 923,
       "2022-02-15": 898,
       "2022-02-14": 1113,
       "2022-02-13": 842,
@@ -71,8 +71,7 @@
       "2021-06-26": 22,
       "2021-06-24": 35,
       "2021-06-05": 61,
-      "2021-05-27": 26,
-      "2021-05-14": 26
+      "2021-05-27": 26
     }
   },
   {
@@ -84,7 +83,7 @@
     "uptime": "90.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.87%",
+    "uptimeMonth": "84.89%",
     "uptimeYear": "93.52%",
     "time": 2721,
     "timeDay": 1285,
@@ -247,9 +246,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1600,
+    "timeYear": 1597,
     "dailyMinutesDown": {
-      "2022-02-16": 1187,
+      "2022-02-16": 1198,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
@@ -331,9 +330,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1397,
+    "timeYear": 1398,
     "dailyMinutesDown": {
-      "2022-02-16": 1187,
+      "2022-02-16": 1198,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
@@ -547,7 +546,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3113,
+    "timeYear": 3114,
     "dailyMinutesDown": {}
   },
   {
@@ -565,9 +564,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3998,
+    "timeYear": 4001,
     "dailyMinutesDown": {
-      "2022-02-16": 1187,
+      "2022-02-16": 1198,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
@@ -688,7 +687,7 @@
     "timeDay": 805,
     "timeWeek": 1183,
     "timeMonth": 1228,
-    "timeYear": 1522,
+    "timeYear": 1523,
     "dailyMinutesDown": {
       "2022-01-12": 26,
       "2021-12-20": 26,
@@ -764,7 +763,7 @@
     "timeDay": 882,
     "timeWeek": 1454,
     "timeMonth": 1432,
-    "timeYear": 1895,
+    "timeYear": 1887,
     "dailyMinutesDown": {
       "2022-01-12": 19,
       "2021-12-17": 16,
@@ -862,7 +861,7 @@
     "timeDay": 464,
     "timeWeek": 511,
     "timeMonth": 485,
-    "timeYear": 668,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   },
   {
@@ -960,9 +959,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3702,
+    "timeYear": 3705,
     "dailyMinutesDown": {
-      "2022-02-16": 1188,
+      "2022-02-16": 1199,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
