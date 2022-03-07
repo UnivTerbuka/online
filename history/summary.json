@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2700,
-    "timeDay": 1944,
-    "timeWeek": 2088,
-    "timeMonth": 2136,
+    "time": 2698,
+    "timeDay": 1906,
+    "timeWeek": 2017,
+    "timeMonth": 2123,
     "timeYear": 2688,
     "dailyMinutesDown": {}
   },
@@ -28,9 +28,9 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "86.16%",
     "uptimeYear": "95.98%",
-    "time": 2056,
-    "timeDay": 1539,
-    "timeWeek": 1367,
+    "time": 2058,
+    "timeDay": 1430,
+    "timeWeek": 1354,
     "timeMonth": 1292,
     "timeYear": 1981,
     "dailyMinutesDown": {
@@ -73,16 +73,16 @@
     "icon": "https://favicons.githubusercontent.com/elearning.ut.ac.id",
     "slug": "e-learning-universitas-terbuka",
     "status": "up",
-    "uptime": "90.77%",
+    "uptime": "90.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.84%",
     "time": 2518,
-    "timeDay": 1604,
-    "timeWeek": 1617,
-    "timeMonth": 1555,
-    "timeYear": 2608,
+    "timeDay": 1531,
+    "timeWeek": 1469,
+    "timeMonth": 1560,
+    "timeYear": 2607,
     "dailyMinutesDown": {
       "2022-02-05": 75,
       "2022-01-28": 25,
@@ -145,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.62%",
-    "time": 2772,
-    "timeDay": 2033,
-    "timeWeek": 2089,
-    "timeMonth": 2265,
-    "timeYear": 2770,
+    "time": 2770,
+    "timeDay": 1892,
+    "timeWeek": 2040,
+    "timeMonth": 2251,
+    "timeYear": 2768,
     "dailyMinutesDown": {
       "2022-02-04": 18,
       "2022-01-27": 9,
@@ -225,18 +225,19 @@
     "icon": "https://favicons.githubusercontent.com/tmk.ut.ac.id",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "down",
-    "uptime": "85.57%",
+    "uptime": "85.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "81.40%",
+    "uptimeYear": "81.38%",
     "time": 1511,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1477,
+    "timeYear": 1474,
     "dailyMinutesDown": {
-      "2022-03-06": 1374,
+      "2022-03-07": 39,
+      "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
@@ -317,8 +318,7 @@
       "2021-03-11": 206,
       "2021-03-10": 357,
       "2021-03-09": 330,
-      "2021-03-08": 227,
-      "2021-03-07": 77
+      "2021-03-08": 227
     }
   },
   {
@@ -327,18 +327,19 @@
     "icon": "https://favicons.githubusercontent.com/hallo-ut.ut.ac.id",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "60.20%",
+    "uptime": "60.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "48.69%",
+    "uptimeYear": "48.67%",
     "time": 1326,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1296,
+    "timeYear": 1281,
     "dailyMinutesDown": {
-      "2022-03-06": 1375,
+      "2022-03-07": 39,
+      "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
@@ -533,8 +534,7 @@
       "2021-03-11": 200,
       "2021-03-10": 351,
       "2021-03-09": 299,
-      "2021-03-08": 196,
-      "2021-03-07": 250
+      "2021-03-08": 196
     }
   },
   {
@@ -552,7 +552,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1114,
+    "timeYear": 1111,
     "dailyMinutesDown": {}
   },
   {
@@ -570,7 +570,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3073,
+    "timeYear": 3069,
     "dailyMinutesDown": {}
   },
   {
@@ -579,18 +579,19 @@
     "icon": "https://favicons.githubusercontent.com/moocs.ut.ac.id",
     "slug": "program-sertifikat-terbuka-online",
     "status": "down",
-    "uptime": "85.65%",
+    "uptime": "85.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "81.50%",
+    "uptimeYear": "81.48%",
     "time": 4566,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4745,
+    "timeYear": 4755,
     "dailyMinutesDown": {
-      "2022-03-06": 1375,
+      "2022-03-07": 40,
+      "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
@@ -725,11 +726,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.91%",
-    "time": 1505,
-    "timeDay": 932,
-    "timeWeek": 1098,
-    "timeMonth": 1170,
-    "timeYear": 1483,
+    "time": 1495,
+    "timeDay": 861,
+    "timeWeek": 1035,
+    "timeMonth": 1129,
+    "timeYear": 1484,
     "dailyMinutesDown": {
       "2022-03-04": 32,
       "2022-01-12": 26,
@@ -750,8 +751,7 @@
       "2021-03-11": 186,
       "2021-03-10": 363,
       "2021-03-09": 280,
-      "2021-03-08": 184,
-      "2021-03-07": 70
+      "2021-03-08": 184
     }
   },
   {
@@ -765,11 +765,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 2402,
-    "timeDay": 1454,
-    "timeWeek": 1930,
-    "timeMonth": 2235,
-    "timeYear": 2400,
+    "time": 2400,
+    "timeDay": 1412,
+    "timeWeek": 1506,
+    "timeMonth": 2225,
+    "timeYear": 2401,
     "dailyMinutesDown": {
       "2022-01-12": 24,
       "2021-12-06": 14,
@@ -787,8 +787,7 @@
       "2021-03-11": 177,
       "2021-03-10": 354,
       "2021-03-09": 271,
-      "2021-03-08": 181,
-      "2021-03-07": 53
+      "2021-03-08": 181
     }
   },
   {
@@ -801,12 +800,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "83.03%",
-    "time": 1744,
-    "timeDay": 1004,
-    "timeWeek": 1527,
-    "timeMonth": 1882,
-    "timeYear": 1636,
+    "uptimeYear": "83.05%",
+    "time": 1725,
+    "timeDay": 965,
+    "timeWeek": 1167,
+    "timeMonth": 1848,
+    "timeYear": 1634,
     "dailyMinutesDown": {
       "2022-02-18": 15,
       "2022-01-12": 19,
@@ -875,8 +874,7 @@
       "2021-03-11": 1440,
       "2021-03-10": 1440,
       "2021-03-09": 1440,
-      "2021-03-08": 1440,
-      "2021-03-07": 1440
+      "2021-03-08": 1440
     }
   },
   {
@@ -891,8 +889,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 511,
-    "timeWeek": 506,
+    "timeDay": 492,
+    "timeWeek": 504,
     "timeMonth": 502,
     "timeYear": 619,
     "dailyMinutesDown": {}
@@ -908,11 +906,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1679,
-    "timeDay": 1413,
-    "timeWeek": 561,
-    "timeMonth": 1047,
-    "timeYear": 1761,
+    "time": 1682,
+    "timeDay": 2113,
+    "timeWeek": 889,
+    "timeMonth": 1137,
+    "timeYear": 1759,
     "dailyMinutesDown": {}
   },
   {
@@ -927,10 +925,10 @@
     "uptimeMonth": "96.82%",
     "uptimeYear": "99.49%",
     "time": 2172,
-    "timeDay": 1456,
-    "timeWeek": 3098,
-    "timeMonth": 3281,
-    "timeYear": 2164,
+    "timeDay": 1450,
+    "timeWeek": 3085,
+    "timeMonth": 3248,
+    "timeYear": 2160,
     "dailyMinutesDown": {
       "2022-03-06": 29,
       "2022-03-05": 35,
@@ -996,14 +994,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "14.41%",
+    "uptimeYear": "14.39%",
     "time": 4111,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4372,
+    "timeYear": 4377,
     "dailyMinutesDown": {
-      "2022-03-06": 1376,
+      "2022-03-07": 41,
+      "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
@@ -1321,8 +1320,7 @@
       "2021-03-11": 155,
       "2021-03-10": 327,
       "2021-03-09": 216,
-      "2021-03-08": 168,
-      "2021-03-07": 265
+      "2021-03-08": 168
     }
   }
 ]
