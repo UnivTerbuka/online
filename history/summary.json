@@ -232,7 +232,7 @@
     "timeMonth": 0,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2022-06-12": 57,
+      "2022-06-12": 71,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2022-06-12": 58,
+      "2022-06-12": 71,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -755,14 +755,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.91%",
+    "uptimeYear": "54.90%",
     "time": 5099,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 5644,
     "dailyMinutesDown": {
-      "2022-06-12": 58,
+      "2022-06-12": 71,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -1025,7 +1025,7 @@
     "slug": "tracer-studi-universitas-terbuka",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "83.77%",
+    "uptimeDay": "84.67%",
     "uptimeWeek": "94.41%",
     "uptimeMonth": "90.57%",
     "uptimeYear": "98.51%",
@@ -1139,10 +1139,10 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "99.50%",
     "time": 2136,
@@ -1151,6 +1151,7 @@
     "timeMonth": 1709,
     "timeYear": 2148,
     "dailyMinutesDown": {
+      "2022-06-12": 1,
       "2022-06-11": 11,
       "2022-06-09": 34,
       "2022-06-07": 9,
@@ -1204,7 +1205,7 @@
       "2022-04-09": 23,
       "2022-04-08": 9,
       "2022-04-07": 17,
-      "2022-04-06": 26
+      "2022-04-06": 13
     }
   },
   {
@@ -1224,7 +1225,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-12": 59,
+      "2022-06-12": 72,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
