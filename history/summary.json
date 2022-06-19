@@ -224,7 +224,7 @@
     "icon": "https://favicons.githubusercontent.com/tmk.ut.ac.id",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "down",
-    "uptime": "70.03%",
+    "uptime": "70.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2022-06-19": 557,
+      "2022-06-19": 575,
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
@@ -432,7 +432,7 @@
     "timeMonth": 0,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2022-06-19": 557,
+      "2022-06-19": 575,
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
@@ -779,7 +779,7 @@
     "timeMonth": 0,
     "timeYear": 5638,
     "dailyMinutesDown": {
-      "2022-06-19": 558,
+      "2022-06-19": 575,
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
@@ -1166,19 +1166,19 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/repository.ut.ac.id",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "98.34%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "98.33%",
     "uptimeMonth": "98.24%",
-    "uptimeYear": "99.47%",
-    "time": 2140,
+    "uptimeYear": "99.48%",
+    "time": 2141,
     "timeDay": 870,
     "timeWeek": 1871,
     "timeMonth": 1971,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2022-06-19": 66,
+      "2022-06-19": 67,
       "2022-06-18": 22,
       "2022-06-17": 21,
       "2022-06-16": 10,
@@ -1229,8 +1229,7 @@
       "2022-04-19": 51,
       "2022-04-17": 34,
       "2022-04-16": 738,
-      "2022-04-15": 56,
-      "2022-04-14": 11
+      "2022-04-15": 56
     }
   },
   {
@@ -1250,7 +1249,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-19": 559,
+      "2022-06-19": 575,
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
