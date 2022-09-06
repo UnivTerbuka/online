@@ -4,17 +4,17 @@
     "url": "https://www.ut.ac.id/",
     "icon": "https://favicons.githubusercontent.com/www.ut.ac.id",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3223,
-    "timeDay": 2025,
-    "timeWeek": 3197,
-    "timeMonth": 2805,
-    "timeYear": 3534,
+    "timeDay": 2015,
+    "timeWeek": 3150,
+    "timeMonth": 2788,
+    "timeYear": 3530,
     "dailyMinutesDown": {}
   },
   {
@@ -249,7 +249,7 @@
     "timeMonth": 0,
     "timeYear": 1273,
     "dailyMinutesDown": {
-      "2022-09-06": 1212,
+      "2022-09-06": 1233,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -522,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-06": 1212,
+      "2022-09-06": 1233,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -942,7 +942,7 @@
     "timeMonth": 0,
     "timeYear": 5871,
     "dailyMinutesDown": {
-      "2022-09-06": 1212,
+      "2022-09-06": 1234,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -1515,7 +1515,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-06": 1213,
+      "2022-09-06": 1234,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
