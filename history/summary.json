@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3229,
-    "timeDay": 1919,
+    "timeDay": 1902,
     "timeWeek": 2616,
     "timeMonth": 2694,
     "timeYear": 3507,
@@ -239,18 +239,19 @@
     "icon": "https://favicons.githubusercontent.com/tmk.ut.ac.id",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "down",
-    "uptime": "61.42%",
+    "uptime": "61.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.20%",
+    "uptimeYear": "31.18%",
     "time": 1386,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2022-09-07": 1391,
+      "2022-09-08": 63,
+      "2022-09-07": 1440,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
@@ -513,7 +514,7 @@
     "icon": "https://favicons.githubusercontent.com/hallo-ut.ut.ac.id",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "43.21%",
+    "uptime": "43.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -524,7 +525,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-07": 1391,
+      "2022-09-08": 63,
+      "2022-09-07": 1440,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
@@ -887,8 +889,7 @@
       "2021-09-12": 1440,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
-      "2021-09-09": 1440,
-      "2021-09-08": 1440
+      "2021-09-09": 1440
     }
   },
   {
@@ -933,18 +934,19 @@
     "icon": "https://favicons.githubusercontent.com/moocs.ut.ac.id",
     "slug": "program-sertifikat-terbuka-online",
     "status": "down",
-    "uptime": "61.48%",
+    "uptime": "61.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.82%",
+    "uptimeYear": "30.80%",
     "time": 5666,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 5842,
     "dailyMinutesDown": {
-      "2022-09-07": 1391,
+      "2022-09-08": 64,
+      "2022-09-07": 1440,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
@@ -1519,7 +1521,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-07": 1392,
+      "2022-09-08": 64,
+      "2022-09-07": 1440,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
@@ -1882,8 +1885,7 @@
       "2021-09-12": 1440,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
-      "2021-09-09": 1440,
-      "2021-09-08": 1440
+      "2021-09-09": 1440
     }
   }
 ]
