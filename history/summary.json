@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 3241,
     "timeDay": 2457,
-    "timeWeek": 2420,
-    "timeMonth": 2182,
+    "timeWeek": 2423,
+    "timeMonth": 2103,
     "timeYear": 3161,
     "dailyMinutesDown": {}
   },
@@ -30,7 +30,7 @@
     "uptimeYear": "98.82%",
     "time": 2048,
     "timeDay": 1723,
-    "timeWeek": 1993,
+    "timeWeek": 2019,
     "timeMonth": 2294,
     "timeYear": 2056,
     "dailyMinutesDown": {
@@ -83,7 +83,7 @@
     "uptimeYear": "93.60%",
     "time": 2051,
     "timeDay": 1471,
-    "timeWeek": 7490,
+    "timeWeek": 8066,
     "timeMonth": 3872,
     "timeYear": 2102,
     "dailyMinutesDown": {
@@ -155,11 +155,11 @@
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
-    "uptimeMonth": "98.90%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "98.85%",
     "time": 3064,
     "timeDay": 2696,
-    "timeWeek": 2424,
+    "timeWeek": 2448,
     "timeMonth": 2120,
     "timeYear": 2936,
     "dailyMinutesDown": {
@@ -201,18 +201,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "down",
-    "uptime": "57.15%",
+    "uptime": "57.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.78%",
+    "uptimeYear": "17.76%",
     "time": 1331,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2022-10-26": 1389,
+      "2022-10-27": 63,
+      "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
@@ -535,7 +536,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 1389,
+      "2022-10-27": 63,
+      "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
@@ -898,8 +900,7 @@
       "2021-10-31": 1440,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
-      "2021-10-28": 1440,
-      "2021-10-27": 1440
+      "2021-10-28": 1440
     }
   },
   {
@@ -948,14 +949,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.52%",
+    "uptimeYear": "17.50%",
     "time": 5808,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 6031,
     "dailyMinutesDown": {
-      "2022-10-26": 1390,
+      "2022-10-27": 63,
+      "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
@@ -1293,8 +1295,7 @@
       "2021-11-01": 148,
       "2021-10-31": 19,
       "2021-10-30": 47,
-      "2021-10-29": 81,
-      "2021-10-27": 87
+      "2021-10-29": 81
     }
   },
   {
@@ -1310,7 +1311,7 @@
     "uptimeYear": "98.96%",
     "time": 1213,
     "timeDay": 1101,
-    "timeWeek": 1147,
+    "timeWeek": 1168,
     "timeMonth": 1021,
     "timeYear": 1145,
     "dailyMinutesDown": {
@@ -1345,7 +1346,7 @@
     "uptimeYear": "98.26%",
     "time": 2192,
     "timeDay": 2616,
-    "timeWeek": 2603,
+    "timeWeek": 2597,
     "timeMonth": 2312,
     "timeYear": 2011,
     "dailyMinutesDown": {
@@ -1408,7 +1409,7 @@
     "uptimeYear": "99.62%",
     "time": 1551,
     "timeDay": 1225,
-    "timeWeek": 1870,
+    "timeWeek": 1925,
     "timeMonth": 1583,
     "timeYear": 1495,
     "dailyMinutesDown": {
@@ -1438,7 +1439,7 @@
     "uptimeYear": "100.00%",
     "time": 656,
     "timeDay": 494,
-    "timeWeek": 1117,
+    "timeWeek": 1205,
     "timeMonth": 627,
     "timeYear": 665,
     "dailyMinutesDown": {}
@@ -1456,7 +1457,7 @@
     "uptimeYear": "100.00%",
     "time": 1528,
     "timeDay": 1005,
-    "timeWeek": 1041,
+    "timeWeek": 1082,
     "timeMonth": 1208,
     "timeYear": 1448,
     "dailyMinutesDown": {}
@@ -1474,7 +1475,7 @@
     "uptimeYear": "99.51%",
     "time": 1961,
     "timeDay": 970,
-    "timeWeek": 1011,
+    "timeWeek": 991,
     "timeMonth": 999,
     "timeYear": 1951,
     "dailyMinutesDown": {
@@ -1564,7 +1565,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 1390,
+      "2022-10-27": 63,
+      "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
@@ -1927,8 +1929,7 @@
       "2021-10-31": 1440,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
-      "2021-10-28": 1440,
-      "2021-10-27": 1440
+      "2021-10-28": 1440
     }
   }
 ]
