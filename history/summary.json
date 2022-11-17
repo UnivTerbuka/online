@@ -13,7 +13,7 @@
     "time": 3240,
     "timeDay": 2223,
     "timeWeek": 2098,
-    "timeMonth": 2290,
+    "timeMonth": 2308,
     "timeYear": 3170,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 2026,
     "timeDay": 1503,
     "timeWeek": 1578,
-    "timeMonth": 1733,
+    "timeMonth": 1738,
     "timeYear": 2026,
     "dailyMinutesDown": {
       "2022-10-25": 39,
@@ -84,7 +84,7 @@
     "time": 2028,
     "timeDay": 1242,
     "timeWeek": 1398,
-    "timeMonth": 3238,
+    "timeMonth": 3295,
     "timeYear": 2083,
     "dailyMinutesDown": {
       "2022-11-13": 31,
@@ -161,7 +161,7 @@
     "time": 3067,
     "timeDay": 1989,
     "timeWeek": 2034,
-    "timeMonth": 2186,
+    "timeMonth": 2200,
     "timeYear": 2939,
     "dailyMinutesDown": {
       "2022-10-25": 39,
@@ -206,14 +206,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.06%",
+    "uptimeYear": "12.04%",
     "time": 1288,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1273,
     "dailyMinutesDown": {
-      "2022-11-16": 1388,
+      "2022-11-17": 56,
+      "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
@@ -544,7 +545,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "39.04%",
+    "uptime": "39.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -555,7 +556,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-16": 1388,
+      "2022-11-17": 56,
+      "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
@@ -918,8 +920,7 @@
       "2021-11-21": 1440,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
-      "2021-11-18": 1440,
-      "2021-11-17": 1440
+      "2021-11-18": 1440
     }
   },
   {
@@ -964,18 +965,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
     "status": "down",
-    "uptime": "55.55%",
+    "uptime": "55.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.92%",
+    "uptimeYear": "11.90%",
     "time": 6141,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 6013,
     "dailyMinutesDown": {
-      "2022-11-16": 1389,
+      "2022-11-17": 57,
+      "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
@@ -1337,9 +1339,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
     "time": 1202,
-    "timeDay": 1003,
+    "timeDay": 1171,
     "timeWeek": 989,
-    "timeMonth": 1004,
+    "timeMonth": 1012,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2022-10-01": 16,
@@ -1372,9 +1374,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "98.26%",
     "time": 2175,
-    "timeDay": 2145,
+    "timeDay": 2397,
     "timeWeek": 2235,
-    "timeMonth": 2257,
+    "timeMonth": 2272,
     "timeYear": 2008,
     "dailyMinutesDown": {
       "2022-11-14": 10,
@@ -1436,9 +1438,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 1526,
-    "timeDay": 1058,
+    "timeDay": 1126,
     "timeWeek": 1085,
-    "timeMonth": 1247,
+    "timeMonth": 1258,
     "timeYear": 1476,
     "dailyMinutesDown": {
       "2022-10-13": 36,
@@ -1466,9 +1468,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
-    "timeDay": 487,
+    "timeDay": 468,
     "timeWeek": 1181,
-    "timeMonth": 786,
+    "timeMonth": 797,
     "timeYear": 676,
     "dailyMinutesDown": {}
   },
@@ -1486,7 +1488,7 @@
     "time": 1506,
     "timeDay": 0,
     "timeWeek": 921,
-    "timeMonth": 1001,
+    "timeMonth": 1012,
     "timeYear": 1387,
     "dailyMinutesDown": {}
   },
@@ -1502,9 +1504,9 @@
     "uptimeMonth": "97.53%",
     "uptimeYear": "99.47%",
     "time": 1938,
-    "timeDay": 930,
+    "timeDay": 924,
     "timeWeek": 963,
-    "timeMonth": 1160,
+    "timeMonth": 1163,
     "timeYear": 1945,
     "dailyMinutesDown": {
       "2022-11-16": 33,
@@ -1588,7 +1590,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-16": 1389,
+      "2022-11-17": 57,
+      "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
@@ -1951,8 +1954,7 @@
       "2021-11-21": 1440,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
-      "2021-11-18": 1440,
-      "2021-11-17": 1440
+      "2021-11-18": 1440
     }
   }
 ]
