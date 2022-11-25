@@ -199,10 +199,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "55.10%",
+    "uptime": "55.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "22.69%",
-    "uptimeMonth": "3.31%",
+    "uptimeWeek": "23.55%",
+    "uptimeMonth": "3.51%",
     "uptimeYear": "10.29%",
     "time": 1280,
     "timeDay": 1080,
@@ -559,7 +559,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-24": 1436,
+      "2022-11-25": 83,
+      "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
@@ -922,8 +923,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   },
   {
@@ -968,9 +968,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
-    "uptime": "55.04%",
-    "uptimeDay": "48.17%",
-    "uptimeWeek": "6.88%",
+    "uptime": "55.05%",
+    "uptimeDay": "54.20%",
+    "uptimeWeek": "7.74%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "9.89%",
     "time": 5960,
@@ -1329,8 +1329,7 @@
       "2021-11-30": 86,
       "2021-11-28": 38,
       "2021-11-27": 24,
-      "2021-11-26": 15,
-      "2021-11-25": 49
+      "2021-11-26": 15
     }
   },
   {
@@ -1503,19 +1502,20 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ut.ac.id.ico",
     "slug": "universitas-terbuka-repository",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "99.50%",
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "93.04%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "99.48%",
     "time": 1945,
-    "timeDay": 909,
-    "timeWeek": 2208,
-    "timeMonth": 1358,
-    "timeYear": 1945,
+    "timeDay": 974,
+    "timeWeek": 2154,
+    "timeMonth": 1356,
+    "timeYear": 1944,
     "dailyMinutesDown": {
-      "2022-11-24": 15,
+      "2022-11-25": 83,
+      "2022-11-24": 17,
       "2022-11-23": 11,
       "2022-11-22": 41,
       "2022-11-21": 13,
@@ -1596,7 +1596,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-24": 1437,
+      "2022-11-25": 84,
+      "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
@@ -1959,8 +1960,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   }
 ]
