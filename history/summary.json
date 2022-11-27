@@ -198,10 +198,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "55.22%",
+    "uptime": "55.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.09%",
-    "uptimeMonth": "9.85%",
+    "uptimeWeek": "51.85%",
+    "uptimeMonth": "10.02%",
     "uptimeYear": "10.29%",
     "time": 1281,
     "timeDay": 873,
@@ -547,7 +547,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "38.51%",
+    "uptime": "38.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -558,7 +558,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-26": 1420,
+      "2022-11-27": 56,
+      "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
@@ -921,8 +922,7 @@
       "2021-12-01": 1440,
       "2021-11-30": 1440,
       "2021-11-29": 1440,
-      "2021-11-28": 1440,
-      "2021-11-27": 1440
+      "2021-11-28": 1440
     }
   },
   {
@@ -967,10 +967,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
-    "uptime": "55.18%",
+    "uptime": "55.19%",
     "uptimeDay": "83.50%",
-    "uptimeWeek": "28.36%",
-    "uptimeMonth": "4.62%",
+    "uptimeWeek": "29.12%",
+    "uptimeMonth": "4.79%",
     "uptimeYear": "9.77%",
     "time": 5817,
     "timeDay": 3959,
@@ -1328,8 +1328,7 @@
       "2021-12-04": 67,
       "2021-12-02": 45,
       "2021-11-30": 86,
-      "2021-11-28": 38,
-      "2021-11-27": 24
+      "2021-11-28": 38
     }
   },
   {
@@ -1363,8 +1362,7 @@
       "2021-12-08": 518,
       "2021-12-07": 1440,
       "2021-12-06": 1231,
-      "2021-11-28": 12,
-      "2021-11-27": 8
+      "2021-11-28": 12
     }
   },
   {
@@ -1585,7 +1583,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/promise.ut.ac.id.ico",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "21.50%",
+    "uptime": "21.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1596,7 +1594,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-26": 1420,
+      "2022-11-27": 57,
+      "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
@@ -1959,8 +1958,7 @@
       "2021-12-01": 1440,
       "2021-11-30": 1440,
       "2021-11-29": 1440,
-      "2021-11-28": 1440,
-      "2021-11-27": 1440
+      "2021-11-28": 1440
     }
   }
 ]
