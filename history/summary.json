@@ -200,7 +200,7 @@
     "uptime": "55.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "21.64%",
+    "uptimeMonth": "21.71%",
     "uptimeYear": "10.31%",
     "time": 1272,
     "timeDay": 984,
@@ -556,7 +556,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 823,
+      "2022-11-30": 853,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -964,25 +964,25 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "71.40%",
-    "uptimeWeek": "73.85%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "71.65%",
+    "uptimeWeek": "73.93%",
+    "uptimeMonth": "94.00%",
     "uptimeYear": "99.50%",
-    "time": 5541,
-    "timeDay": 4017,
+    "time": 5551,
+    "timeDay": 4019,
     "timeWeek": 4390,
     "timeMonth": 4390,
-    "timeYear": 5218,
+    "timeYear": 5223,
     "dailyMinutesDown": {
-      "2022-11-30": 195,
+      "2022-11-30": 197,
       "2022-11-29": 578,
       "2022-11-28": 604,
       "2022-11-27": 382,
       "2022-11-26": 237,
       "2022-11-25": 461,
-      "2022-11-24": 182
+      "2022-11-24": 172
     }
   },
   {
@@ -1153,11 +1153,11 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ut.ac.id.ico",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "97.83%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "97.82%",
     "uptimeYear": "99.48%",
     "time": 1940,
     "timeDay": 940,
@@ -1165,7 +1165,7 @@
     "timeMonth": 1554,
     "timeYear": 1938,
     "dailyMinutesDown": {
-      "2022-11-30": 12,
+      "2022-11-30": 14,
       "2022-11-29": 92,
       "2022-11-28": 61,
       "2022-11-27": 16,
@@ -1227,7 +1227,7 @@
       "2022-09-05": 23,
       "2022-09-03": 45,
       "2022-09-02": 31,
-      "2022-08-31": 41
+      "2022-08-31": 13
     }
   },
   {
@@ -1247,7 +1247,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 824,
+      "2022-11-30": 854,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
