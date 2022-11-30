@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sia.ut.ac.id.ico",
     "slug": "sistem-informasi-akademik-ut",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -139,8 +139,7 @@
       "2021-12-31": 1362,
       "2021-12-23": 23,
       "2021-12-17": 69,
-      "2021-12-03": 17,
-      "2021-11-30": 34
+      "2021-12-03": 17
     }
   },
   {
@@ -198,10 +197,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "55.40%",
+    "uptime": "55.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.76%",
-    "uptimeMonth": "19.67%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "19.88%",
     "uptimeYear": "10.31%",
     "time": 1272,
     "timeDay": 984,
@@ -557,7 +556,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 1400,
+      "2022-11-30": 53,
+      "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
@@ -920,8 +920,7 @@
       "2021-12-04": 1440,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
-      "2021-12-01": 1440,
-      "2021-11-30": 1440
+      "2021-12-01": 1440
     }
   },
   {
@@ -967,9 +966,9 @@
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
     "uptime": "55.35%",
-    "uptimeDay": "59.65%",
-    "uptimeWeek": "55.52%",
-    "uptimeMonth": "10.87%",
+    "uptimeDay": "63.66%",
+    "uptimeWeek": "56.44%",
+    "uptimeMonth": "11.08%",
     "uptimeYear": "9.65%",
     "time": 5624,
     "timeDay": 4635,
@@ -1483,7 +1482,7 @@
     "slug": "universitas-terbuka-repository",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "93.35%",
+    "uptimeDay": "97.34%",
     "uptimeWeek": "96.95%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "99.48%",
@@ -1491,7 +1490,7 @@
     "timeDay": 943,
     "timeWeek": 1799,
     "timeMonth": 1567,
-    "timeYear": 1939,
+    "timeYear": 1940,
     "dailyMinutesDown": {
       "2022-11-29": 92,
       "2022-11-28": 61,
@@ -1575,7 +1574,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-29": 1401,
+      "2022-11-30": 54,
+      "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
@@ -1938,8 +1938,7 @@
       "2021-12-04": 1440,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
-      "2021-12-01": 1440,
-      "2021-11-30": 1440
+      "2021-12-01": 1440
     }
   }
 ]
