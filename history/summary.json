@@ -200,7 +200,7 @@
     "uptime": "55.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.58%",
+    "uptimeMonth": "29.73%",
     "uptimeYear": "10.31%",
     "time": 1270,
     "timeDay": 1029,
@@ -545,7 +545,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "38.25%",
+    "uptime": "38.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -556,7 +556,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-01": 1421,
+      "2022-12-02": 48,
+      "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
@@ -919,8 +920,7 @@
       "2021-12-06": 1440,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
-      "2021-12-03": 1440,
-      "2021-12-02": 1440
+      "2021-12-03": 1440
     }
   },
   {
@@ -972,7 +972,7 @@
     "uptimeYear": "99.51%",
     "time": 5305,
     "timeDay": 3963,
-    "timeWeek": 4357,
+    "timeWeek": 4365,
     "timeMonth": 4394,
     "timeYear": 5145,
     "dailyMinutesDown": {
@@ -1156,12 +1156,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "96.46%",
-    "uptimeWeek": "96.39%",
+    "uptimeWeek": "96.92%",
     "uptimeMonth": "97.87%",
     "uptimeYear": "99.48%",
     "time": 1938,
     "timeDay": 903,
-    "timeWeek": 1679,
+    "timeWeek": 1718,
     "timeMonth": 1363,
     "timeYear": 1936,
     "dailyMinutesDown": {
@@ -1246,7 +1246,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-01": 1421,
+      "2022-12-02": 49,
+      "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
@@ -1609,8 +1610,7 @@
       "2021-12-06": 1440,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
-      "2021-12-03": 1440,
-      "2021-12-02": 1440
+      "2021-12-03": 1440
     }
   }
 ]
