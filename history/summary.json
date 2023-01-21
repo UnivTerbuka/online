@@ -528,7 +528,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-21": 1187,
+      "2023-01-21": 1200,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
@@ -936,19 +936,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "95.45%",
-    "uptimeWeek": "73.34%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "73.33%",
     "uptimeMonth": "93.45%",
     "uptimeYear": "99.01%",
-    "time": 4994,
+    "time": 5000,
     "timeDay": 4121,
     "timeWeek": 6855,
     "timeMonth": 5868,
     "timeYear": 4648,
     "dailyMinutesDown": {
-      "2023-01-21": 66,
+      "2023-01-21": 68,
       "2023-01-20": 73,
       "2023-01-19": 76,
       "2023-01-18": 33,
@@ -964,7 +964,7 @@
       "2022-12-04": 395,
       "2022-12-03": 397,
       "2022-12-02": 370,
-      "2022-12-01": 353
+      "2022-12-01": 344
     }
   },
   {
@@ -1072,7 +1072,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/karil.ut.ac.id.ico",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
-    "uptime": "91.05%",
+    "uptime": "91.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.93%",
@@ -1231,7 +1231,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-21": 1188,
+      "2023-01-21": 1201,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
