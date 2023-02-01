@@ -22,19 +22,19 @@
     "url": "https://sia.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/sia.ut.ac.id.ico",
     "slug": "sistem-informasi-akademik-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "99.05%",
-    "time": 2005,
-    "timeDay": 2179,
-    "timeWeek": 2487,
-    "timeMonth": 1674,
-    "timeYear": 1760,
+    "uptimeYear": "99.06%",
+    "time": 2003,
+    "timeDay": 1702,
+    "timeWeek": 2349,
+    "timeMonth": 1652,
+    "timeYear": 1757,
     "dailyMinutesDown": {
-      "2023-02-01": 11,
+      "2023-02-01": 12,
       "2023-01-31": 22,
       "2023-01-30": 26,
       "2023-01-26": 11,
@@ -82,7 +82,7 @@
       "2022-03-03": 11,
       "2022-02-18": 881,
       "2022-02-17": 1109,
-      "2022-02-16": 1077
+      "2022-02-16": 1029
     }
   },
   {
@@ -533,7 +533,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 888,
+      "2023-02-01": 899,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -1255,7 +1255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 889,
+      "2023-02-01": 900,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
