@@ -527,7 +527,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "34.57%",
+    "uptime": "34.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -538,7 +538,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-18": 1248,
+      "2023-02-18": 1280,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -946,19 +946,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "95.87%",
+    "uptimeDay": "94.99%",
+    "uptimeWeek": "95.32%",
+    "uptimeMonth": "95.89%",
     "uptimeYear": "99.66%",
-    "time": 5721,
+    "time": 5723,
     "timeDay": 7161,
     "timeWeek": 7213,
     "timeMonth": 7129,
     "timeYear": 5648,
     "dailyMinutesDown": {
-      "2023-02-18": 58,
+      "2023-02-18": 60,
       "2023-02-17": 42,
       "2023-02-16": 52,
       "2023-02-15": 48,
@@ -980,7 +980,7 @@
       "2023-01-30": 86,
       "2023-01-29": 73,
       "2023-01-28": 77,
-      "2023-01-27": 38
+      "2023-01-27": 29
     }
   },
   {
@@ -1273,7 +1273,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-18": 1249,
+      "2023-02-18": 1281,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
