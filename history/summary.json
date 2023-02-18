@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3152,
-    "timeDay": 1918,
+    "timeDay": 1827,
     "timeWeek": 1937,
     "timeMonth": 2948,
     "timeYear": 3128,
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 1754,
     "timeDay": 1453,
     "timeWeek": 2536,
     "timeMonth": 1865,
-    "timeYear": 1895,
+    "timeYear": 1896,
     "dailyMinutesDown": {
       "2023-02-16": 16,
       "2023-02-10": 17,
@@ -85,8 +85,7 @@
       "2022-04-30": 25,
       "2022-04-16": 722,
       "2022-03-29": 11,
-      "2022-03-03": 11,
-      "2022-02-18": 881
+      "2022-03-03": 11
     }
   },
   {
@@ -149,12 +148,12 @@
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.21%",
     "time": 2958,
-    "timeDay": 2004,
+    "timeDay": 2063,
     "timeWeek": 2001,
     "timeMonth": 2620,
     "timeYear": 2876,
@@ -209,12 +208,12 @@
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
     "uptime": "59.17%",
-    "uptimeDay": "99.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "22.27%",
+    "uptimeYear": "22.29%",
     "time": 1221,
-    "timeDay": 1030,
+    "timeDay": 964,
     "timeWeek": 1083,
     "timeMonth": 1182,
     "timeYear": 1139,
@@ -519,8 +518,7 @@
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
-      "2022-02-19": 1440,
-      "2022-02-18": 1440
+      "2022-02-19": 1440
     }
   },
   {
@@ -540,7 +538,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-17": 1388,
+      "2023-02-18": 48,
+      "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
@@ -903,8 +902,7 @@
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
-      "2022-02-19": 1440,
-      "2022-02-18": 1440
+      "2022-02-19": 1440
     }
   },
   {
@@ -937,7 +935,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3456,
-    "timeDay": 3005,
+    "timeDay": 3349,
     "timeWeek": 3170,
     "timeMonth": 3725,
     "timeYear": 3566,
@@ -950,12 +948,12 @@
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.53%",
+    "uptimeDay": "97.09%",
     "uptimeWeek": "95.07%",
     "uptimeMonth": "95.89%",
     "uptimeYear": "99.66%",
     "time": 5724,
-    "timeDay": 8609,
+    "timeDay": 9548,
     "timeWeek": 7042,
     "timeMonth": 7115,
     "timeYear": 5630,
@@ -992,15 +990,15 @@
     "slug": "ut-radio",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.49%",
     "time": 1183,
-    "timeDay": 1294,
+    "timeDay": 1230,
     "timeWeek": 1378,
     "timeMonth": 1407,
-    "timeYear": 1165,
+    "timeYear": 1166,
     "dailyMinutesDown": {
       "2023-02-16": 8,
       "2023-02-15": 7,
@@ -1040,15 +1038,15 @@
     "slug": "tracer-studi-universitas-terbuka",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.21%",
     "time": 2267,
-    "timeDay": 2243,
+    "timeDay": 2094,
     "timeWeek": 2341,
     "timeMonth": 2640,
-    "timeYear": 2142,
+    "timeYear": 2144,
     "dailyMinutesDown": {
       "2023-02-16": 7,
       "2023-02-15": 7,
@@ -1119,15 +1117,15 @@
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
     "uptime": "91.39%",
-    "uptimeDay": "99.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.58%",
     "time": 1409,
-    "timeDay": 1046,
+    "timeDay": 973,
     "timeWeek": 1116,
     "timeMonth": 1122,
-    "timeYear": 1378,
+    "timeYear": 1366,
     "dailyMinutesDown": {
       "2023-02-16": 7,
       "2023-02-15": 7,
@@ -1153,8 +1151,7 @@
       "2022-05-11": 115,
       "2022-05-10": 954,
       "2022-04-30": 22,
-      "2022-04-16": 717,
-      "2022-02-18": 15
+      "2022-04-16": 717
     }
   },
   {
@@ -1169,10 +1166,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 652,
-    "timeDay": 434,
+    "timeDay": 406,
     "timeWeek": 460,
     "timeMonth": 577,
-    "timeYear": 690,
+    "timeYear": 691,
     "dailyMinutesDown": {}
   },
   {
@@ -1190,7 +1187,7 @@
     "timeDay": 1805,
     "timeWeek": 675,
     "timeMonth": 769,
-    "timeYear": 1093,
+    "timeYear": 1095,
     "dailyMinutesDown": {}
   },
   {
@@ -1200,15 +1197,15 @@
     "slug": "universitas-terbuka-repository",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "98.21%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "99.70%",
     "time": 1931,
-    "timeDay": 6140,
-    "timeWeek": 1694,
+    "timeDay": 7818,
+    "timeWeek": 1767,
     "timeMonth": 2011,
-    "timeYear": 1853,
+    "timeYear": 1854,
     "dailyMinutesDown": {
       "2023-02-17": 20,
       "2023-02-16": 31,
@@ -1276,7 +1273,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-17": 1389,
+      "2023-02-18": 49,
+      "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
@@ -1639,8 +1637,7 @@
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
-      "2022-02-19": 1440,
-      "2022-02-18": 1440
+      "2022-02-19": 1440
     }
   }
 ]
