@@ -222,7 +222,7 @@
     "uptimeDay": "98.39%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "28.57%",
+    "uptimeYear": "28.60%",
     "time": 1184,
     "timeDay": 1222,
     "timeWeek": 1175,
@@ -532,7 +532,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-13": 78,
+      "2023-03-13": 232,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
@@ -931,7 +931,7 @@
     "time": 3467,
     "timeDay": 2342,
     "timeWeek": 3295,
-    "timeMonth": 3268,
+    "timeMonth": 3277,
     "timeYear": 3497,
     "dailyMinutesDown": {}
   },
@@ -940,18 +940,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "97.05%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "97.09%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "99.65%",
-    "time": 5944,
+    "time": 5949,
     "timeDay": 6824,
-    "timeWeek": 7584,
+    "timeWeek": 7291,
     "timeMonth": 7187,
     "timeYear": 5924,
     "dailyMinutesDown": {
+      "2023-03-13": 2,
       "2023-03-12": 58,
       "2023-03-11": 9,
       "2023-03-10": 21,
@@ -980,7 +981,7 @@
       "2023-02-14": 48,
       "2023-02-13": 105,
       "2023-02-12": 90,
-      "2023-02-11": 29
+      "2023-02-11": 19
     }
   },
   {
@@ -1275,7 +1276,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/promise.ut.ac.id.ico",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "18.79%",
+    "uptime": "18.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1286,7 +1287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-13": 79,
+      "2023-03-13": 232,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
