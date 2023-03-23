@@ -31,7 +31,7 @@
     "time": 1786,
     "timeDay": 1684,
     "timeWeek": 1601,
-    "timeMonth": 2221,
+    "timeMonth": 2242,
     "timeYear": 1966,
     "dailyMinutesDown": {
       "2023-03-22": 22,
@@ -106,7 +106,7 @@
     "time": 2085,
     "timeDay": 1366,
     "timeWeek": 2203,
-    "timeMonth": 2761,
+    "timeMonth": 2793,
     "timeYear": 2179,
     "dailyMinutesDown": {
       "2023-03-20": 35,
@@ -171,7 +171,7 @@
     "time": 2722,
     "timeDay": 2230,
     "timeWeek": 1855,
-    "timeMonth": 1982,
+    "timeMonth": 1986,
     "timeYear": 2800,
     "dailyMinutesDown": {
       "2023-03-20": 113,
@@ -536,7 +536,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-23": 1388,
+      "2023-03-23": 1401,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -1005,7 +1005,7 @@
     "timeDay": 1664,
     "timeWeek": 1518,
     "timeMonth": 1592,
-    "timeYear": 1208,
+    "timeYear": 1209,
     "dailyMinutesDown": {
       "2023-03-20": 7,
       "2023-03-18": 8,
@@ -1062,7 +1062,7 @@
     "timeDay": 2679,
     "timeWeek": 2483,
     "timeMonth": 2428,
-    "timeYear": 2111,
+    "timeYear": 2113,
     "dailyMinutesDown": {
       "2023-03-20": 7,
       "2023-03-18": 7,
@@ -1149,7 +1149,7 @@
     "timeDay": 1367,
     "timeWeek": 1197,
     "timeMonth": 1411,
-    "timeYear": 1342,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2023-03-20": 6,
       "2023-03-18": 7,
@@ -1203,7 +1203,7 @@
     "timeDay": 518,
     "timeWeek": 494,
     "timeMonth": 472,
-    "timeYear": 680,
+    "timeYear": 681,
     "dailyMinutesDown": {}
   },
   {
@@ -1221,7 +1221,7 @@
     "timeDay": 541,
     "timeWeek": 985,
     "timeMonth": 932,
-    "timeYear": 1056,
+    "timeYear": 1057,
     "dailyMinutesDown": {}
   },
   {
@@ -1229,19 +1229,19 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ut.ac.id.ico",
     "slug": "universitas-terbuka-repository",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "90.96%",
-    "uptimeWeek": "95.55%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "90.14%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.69%",
     "time": 1908,
-    "timeDay": 3260,
-    "timeWeek": 1823,
-    "timeMonth": 1803,
+    "timeDay": 3056,
+    "timeWeek": 1810,
+    "timeMonth": 1799,
     "timeYear": 1799,
     "dailyMinutesDown": {
-      "2023-03-23": 130,
+      "2023-03-23": 142,
       "2023-03-22": 40,
       "2023-03-21": 72,
       "2023-03-20": 108,
@@ -1301,7 +1301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-23": 1389,
+      "2023-03-23": 1402,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
