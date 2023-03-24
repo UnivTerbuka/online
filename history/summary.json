@@ -232,7 +232,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "31.55%",
+    "uptimeYear": "31.57%",
     "time": 1178,
     "timeDay": 1312,
     "timeWeek": 1181,
@@ -515,8 +515,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   },
   {
@@ -536,7 +535,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-23": 1401,
+      "2023-03-24": 45,
+      "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -899,8 +899,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   },
   {
@@ -947,13 +946,13 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "96.94%",
+    "uptimeWeek": "96.73%",
+    "uptimeMonth": "96.97%",
     "uptimeYear": "99.64%",
     "time": 6053,
     "timeDay": 3996,
-    "timeWeek": 6951,
-    "timeMonth": 7013,
+    "timeWeek": 7045,
+    "timeMonth": 7033,
     "timeYear": 6019,
     "dailyMinutesDown": {
       "2023-03-22": 37,
@@ -1130,8 +1129,7 @@
       "2022-04-03": 15,
       "2022-03-31": 9,
       "2022-03-30": 38,
-      "2022-03-25": 24,
-      "2022-03-24": 132
+      "2022-03-25": 24
     }
   },
   {
@@ -1140,7 +1138,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/karil.ut.ac.id.ico",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
-    "uptime": "91.75%",
+    "uptime": "91.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.68%",
@@ -1231,12 +1229,12 @@
     "slug": "universitas-terbuka-repository",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "90.14%",
+    "uptimeDay": "91.17%",
     "uptimeWeek": "95.44%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "99.69%",
     "time": 1908,
-    "timeDay": 3056,
+    "timeDay": 3302,
     "timeWeek": 1810,
     "timeMonth": 1799,
     "timeYear": 1799,
@@ -1290,7 +1288,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/promise.ut.ac.id.ico",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "18.55%",
+    "uptime": "18.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1301,7 +1299,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-23": 1402,
+      "2023-03-24": 45,
+      "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -1664,8 +1663,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   }
 ]
