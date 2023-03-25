@@ -98,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/elearning.ut.ac.id.ico",
     "slug": "e-learning-universitas-terbuka",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "99.32%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.38%",
@@ -538,7 +538,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 630,
+      "2023-03-25": 662,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
@@ -946,19 +946,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.68%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "96.78%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "99.64%",
     "time": 6054,
-    "timeDay": 5194,
-    "timeWeek": 6896,
-    "timeMonth": 6965,
-    "timeYear": 6033,
+    "timeDay": 6803,
+    "timeWeek": 6988,
+    "timeMonth": 7031,
+    "timeYear": 6050,
     "dailyMinutesDown": {
-      "2023-03-25": 38,
+      "2023-03-25": 39,
       "2023-03-24": 122,
       "2023-03-22": 37,
       "2023-03-21": 19,
@@ -989,7 +989,7 @@
       "2023-02-23": 237,
       "2023-02-22": 68,
       "2023-02-21": 53,
-      "2023-02-20": 39
+      "2023-02-20": 18
     }
   },
   {
@@ -1245,7 +1245,7 @@
     "timeDay": 5241,
     "timeWeek": 2252,
     "timeMonth": 1960,
-    "timeYear": 1816,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2023-03-25": 14,
       "2023-03-24": 17,
@@ -1309,7 +1309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 630,
+      "2023-03-25": 663,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
