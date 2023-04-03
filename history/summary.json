@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2908,
-    "timeDay": 2245,
-    "timeWeek": 2266,
-    "timeMonth": 2048,
+    "time": 2907,
+    "timeDay": 2049,
+    "timeWeek": 2222,
+    "timeMonth": 2054,
     "timeYear": 3025,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.57%",
-    "time": 1804,
-    "timeDay": 4880,
-    "timeWeek": 2426,
-    "timeMonth": 1903,
-    "timeYear": 1954,
+    "time": 1805,
+    "timeDay": 1593,
+    "timeWeek": 2372,
+    "timeMonth": 1906,
+    "timeYear": 1952,
     "dailyMinutesDown": {
       "2023-03-22": 22,
       "2023-03-19": 42,
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.36%",
-    "time": 2082,
-    "timeDay": 1359,
-    "timeWeek": 1395,
-    "timeMonth": 1706,
-    "timeYear": 2183,
+    "time": 2080,
+    "timeDay": 1330,
+    "timeWeek": 1330,
+    "timeMonth": 1705,
+    "timeYear": 2180,
     "dailyMinutesDown": {
       "2023-03-24": 23,
       "2023-03-20": 35,
@@ -151,8 +151,7 @@
       "2022-05-03": 51,
       "2022-04-30": 25,
       "2022-04-18": 209,
-      "2022-04-16": 721,
-      "2022-04-03": 383
+      "2022-04-16": 721
     }
   },
   {
@@ -167,9 +166,9 @@
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.34%",
     "time": 2733,
-    "timeDay": 2164,
-    "timeWeek": 2192,
-    "timeMonth": 2022,
+    "timeDay": 2042,
+    "timeWeek": 2164,
+    "timeMonth": 2028,
     "timeYear": 2790,
     "dailyMinutesDown": {
       "2023-03-31": 71,
@@ -228,15 +227,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "61.25%",
+    "uptime": "61.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "34.26%",
-    "time": 1167,
-    "timeDay": 1195,
-    "timeWeek": 1178,
-    "timeMonth": 1162,
+    "uptimeYear": "34.28%",
+    "time": 1168,
+    "timeDay": 1201,
+    "timeWeek": 1166,
+    "timeMonth": 1166,
     "timeYear": 1144,
     "dailyMinutesDown": {
       "2023-03-31": 68,
@@ -509,8 +508,7 @@
       "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
-      "2022-04-04": 1440,
-      "2022-04-03": 1440
+      "2022-04-04": 1440
     }
   },
   {
@@ -530,7 +528,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-02": 1370,
+      "2023-04-03": 44,
+      "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -893,8 +892,7 @@
       "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
-      "2022-04-04": 1440,
-      "2022-04-03": 1440
+      "2022-04-04": 1440
     }
   },
   {
@@ -908,7 +906,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1495,
+    "time": 1328,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -926,11 +924,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3432,
-    "timeDay": 2598,
-    "timeWeek": 3314,
-    "timeMonth": 3359,
-    "timeYear": 3485,
+    "time": 3422,
+    "timeDay": 2292,
+    "timeWeek": 3157,
+    "timeMonth": 3363,
+    "timeYear": 3481,
     "dailyMinutesDown": {}
   },
   {
@@ -940,15 +938,15 @@
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "94.58%",
+    "uptimeDay": "95.21%",
     "uptimeWeek": "95.71%",
     "uptimeMonth": "96.31%",
     "uptimeYear": "99.69%",
-    "time": 6137,
-    "timeDay": 6784,
-    "timeWeek": 6968,
-    "timeMonth": 6901,
-    "timeYear": 6102,
+    "time": 6122,
+    "timeDay": 7231,
+    "timeWeek": 6965,
+    "timeMonth": 6899,
+    "timeYear": 6098,
     "dailyMinutesDown": {
       "2023-04-02": 69,
       "2023-04-01": 136,
@@ -992,11 +990,11 @@
     "uptimeWeek": "99.06%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.44%",
-    "time": 1232,
-    "timeDay": 1598,
-    "timeWeek": 1507,
-    "timeMonth": 1472,
-    "timeYear": 1220,
+    "time": 1233,
+    "timeDay": 1514,
+    "timeWeek": 1508,
+    "timeMonth": 1475,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2023-03-31": 64,
       "2023-03-29": 31,
@@ -1053,11 +1051,11 @@
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "98.21%",
-    "time": 2146,
-    "timeDay": 2687,
-    "timeWeek": 2559,
-    "timeMonth": 2466,
-    "timeYear": 2125,
+    "time": 2148,
+    "timeDay": 2464,
+    "timeWeek": 2535,
+    "timeMonth": 2475,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2023-03-31": 62,
       "2023-03-29": 31,
@@ -1125,8 +1123,7 @@
       "2022-04-16": 717,
       "2022-04-13": 39,
       "2022-04-06": 144,
-      "2022-04-05": 633,
-      "2022-04-03": 15
+      "2022-04-05": 633
     }
   },
   {
@@ -1141,9 +1138,9 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.53%",
     "time": 1396,
-    "timeDay": 1254,
-    "timeWeek": 1628,
-    "timeMonth": 1495,
+    "timeDay": 1090,
+    "timeWeek": 1160,
+    "timeMonth": 1387,
     "timeYear": 1336,
     "dailyMinutesDown": {
       "2023-03-31": 61,
@@ -1198,11 +1195,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 645,
-    "timeDay": 529,
-    "timeWeek": 490,
+    "time": 644,
+    "timeDay": 449,
+    "timeWeek": 485,
     "timeMonth": 480,
-    "timeYear": 678,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   },
   {
@@ -1216,11 +1213,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1278,
-    "timeDay": 536,
-    "timeWeek": 553,
-    "timeMonth": 865,
-    "timeYear": 1021,
+    "time": 1276,
+    "timeDay": 1100,
+    "timeWeek": 668,
+    "timeMonth": 885,
+    "timeYear": 1014,
     "dailyMinutesDown": {}
   },
   {
@@ -1234,10 +1231,10 @@
     "uptimeWeek": "96.80%",
     "uptimeMonth": "97.06%",
     "uptimeYear": "99.68%",
-    "time": 1898,
-    "timeDay": 944,
-    "timeWeek": 2934,
-    "timeMonth": 2182,
+    "time": 1897,
+    "timeDay": 898,
+    "timeWeek": 2929,
+    "timeMonth": 2183,
     "timeYear": 1820,
     "dailyMinutesDown": {
       "2023-04-02": 20,
@@ -1301,7 +1298,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-02": 1371,
+      "2023-04-03": 44,
+      "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -1664,8 +1662,7 @@
       "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
-      "2022-04-04": 1440,
-      "2022-04-03": 1440
+      "2022-04-04": 1440
     }
   }
 ]
