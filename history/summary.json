@@ -530,7 +530,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-03": 254,
+      "2023-04-03": 270,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -1231,19 +1231,19 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ut.ac.id.ico",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "96.99%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "96.98%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.68%",
     "time": 1898,
-    "timeDay": 976,
-    "timeWeek": 2568,
-    "timeMonth": 2177,
-    "timeYear": 1820,
+    "timeDay": 892,
+    "timeWeek": 2519,
+    "timeMonth": 2167,
+    "timeYear": 1818,
     "dailyMinutesDown": {
-      "2023-04-03": 13,
+      "2023-04-03": 14,
       "2023-04-02": 20,
       "2023-04-01": 41,
       "2023-03-31": 76,
@@ -1284,7 +1284,7 @@
       "2023-02-19": 21,
       "2023-02-18": 12,
       "2023-02-17": 20,
-      "2023-02-16": 31
+      "2023-02-16": 6
     }
   },
   {
@@ -1304,7 +1304,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-03": 254,
+      "2023-04-03": 271,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
