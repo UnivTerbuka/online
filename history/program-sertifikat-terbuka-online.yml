@@ -1,7 +1,7 @@
 url: http://moocs.ut.ac.id/
-status: up
-code: 200
-responseTime: 3884
-lastUpdated: 2023-04-12T15:22:12.058Z
+status: down
+code: 500
+responseTime: 16903
+lastUpdated: 2023-04-12T15:55:22.546Z
 startTime: Sat Nov 21 2020 10:37:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
