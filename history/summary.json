@@ -14,7 +14,7 @@
     "timeDay": 2073,
     "timeWeek": 2168,
     "timeMonth": 2071,
-    "timeYear": 2998,
+    "timeYear": 3000,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 4822,
     "timeWeek": 2115,
     "timeMonth": 2094,
-    "timeYear": 1968,
+    "timeYear": 1969,
     "dailyMinutesDown": {
       "2023-03-22": 22,
       "2023-03-19": 42,
@@ -241,7 +241,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "37.52%",
+    "uptimeYear": "37.54%",
     "time": 1160,
     "timeDay": 1094,
     "timeWeek": 1156,
@@ -513,8 +513,7 @@
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
-      "2022-04-16": 1440,
-      "2022-04-15": 1440
+      "2022-04-16": 1440
     }
   },
   {
@@ -523,7 +522,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "32.39%",
+    "uptime": "32.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -534,7 +533,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-14": 1387,
+      "2023-04-15": 45,
+      "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -897,8 +897,7 @@
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
-      "2022-04-16": 1440,
-      "2022-04-15": 1440
+      "2022-04-16": 1440
     }
   },
   {
@@ -948,7 +947,7 @@
     "uptimeWeek": "96.75%",
     "uptimeMonth": "96.40%",
     "uptimeYear": "99.70%",
-    "time": 6126,
+    "time": 6101,
     "timeDay": 9030,
     "timeWeek": 6656,
     "timeMonth": 6655,
@@ -1064,7 +1063,7 @@
     "timeDay": 2364,
     "timeWeek": 2492,
     "timeMonth": 2469,
-    "timeYear": 2142,
+    "timeYear": 2143,
     "dailyMinutesDown": {
       "2023-04-12": 7,
       "2023-04-08": 12,
@@ -1213,7 +1212,7 @@
     "timeDay": 465,
     "timeWeek": 476,
     "timeMonth": 479,
-    "timeYear": 669,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   },
   {
@@ -1231,7 +1230,7 @@
     "timeDay": 2313,
     "timeWeek": 1566,
     "timeMonth": 980,
-    "timeYear": 983,
+    "timeYear": 976,
     "dailyMinutesDown": {}
   },
   {
@@ -1308,7 +1307,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-14": 1388,
+      "2023-04-15": 46,
+      "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -1671,8 +1671,7 @@
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
-      "2022-04-16": 1440,
-      "2022-04-15": 1440
+      "2022-04-16": 1440
     }
   }
 ]
