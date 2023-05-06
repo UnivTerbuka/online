@@ -14,7 +14,7 @@
     "timeDay": 2271,
     "timeWeek": 2161,
     "timeMonth": 2174,
-    "timeYear": 2928,
+    "timeYear": 2929,
     "dailyMinutesDown": {}
   },
   {
@@ -106,7 +106,7 @@
     "timeDay": 8503,
     "timeWeek": 5020,
     "timeMonth": 3375,
-    "timeYear": 2292,
+    "timeYear": 2294,
     "dailyMinutesDown": {
       "2023-05-05": 38,
       "2023-05-03": 31,
@@ -178,7 +178,7 @@
     "timeDay": 2301,
     "timeWeek": 2132,
     "timeMonth": 2140,
-    "timeYear": 2739,
+    "timeYear": 2741,
     "dailyMinutesDown": {
       "2023-05-03": 10,
       "2023-04-30": 20,
@@ -248,11 +248,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "62.71%",
+    "uptime": "62.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.39%",
-    "uptimeYear": "43.24%",
+    "uptimeYear": "43.26%",
     "time": 1174,
     "timeDay": 1329,
     "timeWeek": 1171,
@@ -513,8 +513,7 @@
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
-      "2022-05-07": 1440,
-      "2022-05-06": 1440
+      "2022-05-07": 1440
     }
   },
   {
@@ -534,7 +533,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-05": 1387,
+      "2023-05-06": 41,
+      "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
@@ -897,8 +897,7 @@
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
-      "2022-05-07": 1440,
-      "2022-05-06": 1440
+      "2022-05-07": 1440
     }
   },
   {
@@ -1001,7 +1000,7 @@
     "timeDay": 1594,
     "timeWeek": 1530,
     "timeMonth": 1502,
-    "timeYear": 1253,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2023-05-03": 8,
       "2023-04-30": 16,
@@ -1077,7 +1076,7 @@
     "timeDay": 2678,
     "timeWeek": 2499,
     "timeMonth": 2507,
-    "timeYear": 2199,
+    "timeYear": 2200,
     "dailyMinutesDown": {
       "2023-05-03": 7,
       "2023-04-30": 16,
@@ -1161,7 +1160,7 @@
     "timeDay": 1270,
     "timeWeek": 1185,
     "timeMonth": 1264,
-    "timeYear": 1310,
+    "timeYear": 1311,
     "dailyMinutesDown": {
       "2023-05-03": 7,
       "2023-04-30": 15,
@@ -1252,7 +1251,7 @@
     "timeDay": 601,
     "timeWeek": 688,
     "timeMonth": 882,
-    "timeYear": 920,
+    "timeYear": 922,
     "dailyMinutesDown": {}
   },
   {
@@ -1270,7 +1269,7 @@
     "timeDay": 1312,
     "timeWeek": 965,
     "timeMonth": 1150,
-    "timeYear": 1726,
+    "timeYear": 1727,
     "dailyMinutesDown": {
       "2023-05-04": 21,
       "2023-05-03": 6,
@@ -1317,7 +1316,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/promise.ut.ac.id.ico",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "17.66%",
+    "uptime": "17.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1328,7 +1327,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-05": 1388,
+      "2023-05-06": 41,
+      "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
@@ -1691,8 +1691,7 @@
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
-      "2022-05-07": 1440,
-      "2022-05-06": 1440
+      "2022-05-07": 1440
     }
   }
 ]
