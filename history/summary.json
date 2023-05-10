@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2836,
-    "timeDay": 2463,
-    "timeWeek": 2234,
-    "timeMonth": 2207,
-    "timeYear": 2928,
+    "timeDay": 2317,
+    "timeWeek": 2276,
+    "timeMonth": 2218,
+    "timeYear": 2920,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.70%",
-    "time": 1907,
-    "timeDay": 1597,
-    "timeWeek": 1954,
-    "timeMonth": 2543,
-    "timeYear": 1895,
+    "time": 1909,
+    "timeDay": 1683,
+    "timeWeek": 1751,
+    "timeMonth": 2539,
+    "timeYear": 1888,
     "dailyMinutesDown": {
       "2023-05-07": 11,
       "2023-05-06": 11,
@@ -89,8 +89,7 @@
       "2022-05-30": 34,
       "2022-05-25": 27,
       "2022-05-21": 19,
-      "2022-05-12": 18,
-      "2022-05-10": 295
+      "2022-05-12": 18
     }
   },
   {
@@ -105,10 +104,10 @@
     "uptimeMonth": "98.87%",
     "uptimeYear": "99.46%",
     "time": 2224,
-    "timeDay": 1330,
-    "timeWeek": 4828,
-    "timeMonth": 3266,
-    "timeYear": 2269,
+    "timeDay": 1388,
+    "timeWeek": 4835,
+    "timeMonth": 3268,
+    "timeYear": 2261,
     "dailyMinutesDown": {
       "2023-05-06": 9,
       "2023-05-05": 38,
@@ -162,8 +161,7 @@
       "2022-05-29": 41,
       "2022-05-27": 19,
       "2022-05-26": 9,
-      "2022-05-23": 43,
-      "2022-05-10": 210
+      "2022-05-23": 43
     }
   },
   {
@@ -178,10 +176,10 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.54%",
     "time": 2670,
-    "timeDay": 2288,
-    "timeWeek": 2197,
-    "timeMonth": 2171,
-    "timeYear": 2739,
+    "timeDay": 2271,
+    "timeWeek": 2238,
+    "timeMonth": 2154,
+    "timeYear": 2733,
     "dailyMinutesDown": {
       "2023-05-09": 17,
       "2023-05-07": 10,
@@ -253,16 +251,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "62.86%",
+    "uptime": "62.89%",
     "uptimeDay": "98.87%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "44.19%",
-    "time": 1176,
-    "timeDay": 1274,
-    "timeWeek": 1223,
-    "timeMonth": 1213,
-    "timeYear": 1159,
+    "uptimeYear": "44.34%",
+    "time": 1177,
+    "timeDay": 1284,
+    "timeWeek": 1240,
+    "timeMonth": 1221,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2023-05-09": 16,
       "2023-05-07": 9,
@@ -517,8 +515,7 @@
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
-      "2022-05-11": 1440,
-      "2022-05-10": 1440
+      "2022-05-11": 1440
     }
   },
   {
@@ -527,7 +524,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "31.51%",
+    "uptime": "31.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -538,7 +535,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-09": 650,
+      "2023-05-10": 44,
+      "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -901,8 +899,7 @@
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
-      "2022-05-11": 1440,
-      "2022-05-10": 1440
+      "2022-05-11": 1440
     }
   },
   {
@@ -934,11 +931,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3356,
-    "timeDay": 2739,
-    "timeWeek": 2810,
-    "timeMonth": 2731,
-    "timeYear": 3373,
+    "time": 3355,
+    "timeDay": 2659,
+    "timeWeek": 2800,
+    "timeMonth": 2759,
+    "timeYear": 3371,
     "dailyMinutesDown": {}
   },
   {
@@ -948,15 +945,15 @@
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "97.32%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "97.36%",
     "uptimeYear": "99.75%",
-    "time": 6141,
-    "timeDay": 8023,
-    "timeWeek": 6875,
-    "timeMonth": 6369,
-    "timeYear": 6116,
+    "time": 6143,
+    "timeDay": 6956,
+    "timeWeek": 6999,
+    "timeMonth": 6397,
+    "timeYear": 6114,
     "dailyMinutesDown": {
       "2023-05-09": 25,
       "2023-05-08": 49,
@@ -1003,11 +1000,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.52%",
-    "time": 1258,
-    "timeDay": 1547,
-    "timeWeek": 1563,
-    "timeMonth": 1527,
-    "timeYear": 1260,
+    "time": 1260,
+    "timeDay": 1700,
+    "timeWeek": 1610,
+    "timeMonth": 1535,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2023-05-09": 14,
       "2023-05-07": 7,
@@ -1067,8 +1064,7 @@
       "2022-10-01": 16,
       "2022-08-15": 14,
       "2022-06-30": 33,
-      "2022-05-11": 240,
-      "2022-05-10": 1071
+      "2022-05-11": 240
     }
   },
   {
@@ -1082,11 +1078,11 @@
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.74%",
-    "time": 2188,
-    "timeDay": 2629,
-    "timeWeek": 2621,
-    "timeMonth": 2544,
-    "timeYear": 2210,
+    "time": 2189,
+    "timeDay": 2743,
+    "timeWeek": 2689,
+    "timeMonth": 2559,
+    "timeYear": 2213,
     "dailyMinutesDown": {
       "2023-05-09": 14,
       "2023-05-07": 7,
@@ -1167,11 +1163,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.61%",
-    "time": 1379,
-    "timeDay": 1207,
-    "timeWeek": 1224,
-    "timeMonth": 1187,
-    "timeYear": 1312,
+    "time": 1378,
+    "timeDay": 1268,
+    "timeWeek": 1245,
+    "timeMonth": 1190,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2023-05-09": 13,
       "2023-05-07": 6,
@@ -1228,8 +1224,7 @@
       "2022-10-01": 15,
       "2022-06-30": 32,
       "2022-06-27": 46,
-      "2022-05-11": 115,
-      "2022-05-10": 954
+      "2022-05-11": 115
     }
   },
   {
@@ -1244,9 +1239,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 495,
-    "timeWeek": 943,
-    "timeMonth": 590,
+    "timeDay": 520,
+    "timeWeek": 950,
+    "timeMonth": 592,
     "timeYear": 640,
     "dailyMinutesDown": {}
   },
@@ -1261,11 +1256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1210,
-    "timeDay": 507,
-    "timeWeek": 930,
-    "timeMonth": 888,
-    "timeYear": 927,
+    "time": 1207,
+    "timeDay": 645,
+    "timeWeek": 992,
+    "timeMonth": 881,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   },
   {
@@ -1275,14 +1270,14 @@
     "slug": "universitas-terbuka-repository",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "99.78%",
-    "time": 1756,
-    "timeDay": 978,
-    "timeWeek": 954,
-    "timeMonth": 1131,
+    "time": 1755,
+    "timeDay": 1067,
+    "timeWeek": 980,
+    "timeMonth": 1136,
     "timeYear": 1719,
     "dailyMinutesDown": {
       "2023-05-09": 23,
@@ -1331,7 +1326,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/promise.ut.ac.id.ico",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "17.59%",
+    "uptime": "17.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1342,7 +1337,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-09": 651,
+      "2023-05-10": 44,
+      "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -1705,8 +1701,7 @@
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
-      "2022-05-11": 1440,
-      "2022-05-10": 1440
+      "2022-05-11": 1440
     }
   }
 ]
