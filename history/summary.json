@@ -538,7 +538,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 1358,
+      "2023-05-11": 1372,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -928,17 +928,17 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/lppm.ut.ac.id.ico",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3354,
-    "timeDay": 2941,
-    "timeWeek": 2723,
-    "timeMonth": 2768,
-    "timeYear": 3368,
+    "time": 3357,
+    "timeDay": 3084,
+    "timeWeek": 2775,
+    "timeMonth": 2778,
+    "timeYear": 3369,
     "dailyMinutesDown": {}
   },
   {
@@ -946,10 +946,10 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "95.45%",
-    "uptimeWeek": "97.39%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "97.37%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "99.76%",
     "time": 6127,
@@ -958,7 +958,7 @@
     "timeMonth": 6376,
     "timeYear": 6127,
     "dailyMinutesDown": {
-      "2023-05-11": 66,
+      "2023-05-11": 68,
       "2023-05-10": 10,
       "2023-05-09": 25,
       "2023-05-08": 49,
@@ -989,7 +989,7 @@
       "2023-04-13": 45,
       "2023-04-12": 94,
       "2023-04-11": 20,
-      "2023-04-09": 32
+      "2023-04-09": 18
     }
   },
   {
@@ -1340,7 +1340,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 1359,
+      "2023-05-11": 1372,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
