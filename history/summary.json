@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2821,
-    "timeDay": 2105,
-    "timeWeek": 2137,
-    "timeMonth": 2180,
-    "timeYear": 2825,
+    "timeDay": 2077,
+    "timeWeek": 2148,
+    "timeMonth": 2184,
+    "timeYear": 2826,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.76%",
-    "time": 1933,
-    "timeDay": 2356,
-    "timeWeek": 2312,
-    "timeMonth": 2122,
+    "time": 1934,
+    "timeDay": 1686,
+    "timeWeek": 2324,
+    "timeMonth": 2125,
     "timeYear": 1819,
     "dailyMinutesDown": {
       "2023-05-23": 11,
@@ -89,8 +89,7 @@
       "2022-06-26": 10,
       "2022-06-02": 7,
       "2022-06-01": 27,
-      "2022-05-30": 34,
-      "2022-05-25": 27
+      "2022-05-30": 34
     }
   },
   {
@@ -105,9 +104,9 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.49%",
     "time": 2312,
-    "timeDay": 1436,
-    "timeWeek": 1541,
-    "timeMonth": 3449,
+    "timeDay": 1467,
+    "timeWeek": 1568,
+    "timeMonth": 3452,
     "timeYear": 2301,
     "dailyMinutesDown": {
       "2023-05-22": 24,
@@ -180,10 +179,10 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.69%",
-    "time": 2655,
-    "timeDay": 2057,
-    "timeWeek": 2134,
-    "timeMonth": 2156,
+    "time": 2654,
+    "timeDay": 2087,
+    "timeWeek": 2148,
+    "timeMonth": 2162,
     "timeYear": 2679,
     "dailyMinutesDown": {
       "2023-05-24": 10,
@@ -264,15 +263,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "63.53%",
+    "uptime": "63.54%",
     "uptimeDay": "99.36%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "48.39%",
-    "time": 1156,
-    "timeDay": 1102,
-    "timeWeek": 1174,
-    "timeMonth": 1186,
+    "uptimeYear": "48.42%",
+    "time": 1157,
+    "timeDay": 1148,
+    "timeWeek": 1192,
+    "timeMonth": 1192,
     "timeYear": 1163,
     "dailyMinutesDown": {
       "2023-05-24": 9,
@@ -525,8 +524,7 @@
       "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
-      "2022-05-26": 1440,
-      "2022-05-25": 1440
+      "2022-05-26": 1440
     }
   },
   {
@@ -546,7 +544,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-24": 1351,
+      "2023-05-25": 44,
+      "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -909,8 +908,7 @@
       "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
-      "2022-05-26": 1440,
-      "2022-05-25": 1440
+      "2022-05-26": 1440
     }
   },
   {
@@ -943,9 +941,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3419,
-    "timeDay": 3525,
-    "timeWeek": 4333,
-    "timeMonth": 3319,
+    "timeDay": 3235,
+    "timeWeek": 4361,
+    "timeMonth": 3326,
     "timeYear": 3419,
     "dailyMinutesDown": {}
   },
@@ -956,15 +954,15 @@
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "95.46%",
+    "uptimeDay": "96.13%",
     "uptimeWeek": "95.70%",
     "uptimeMonth": "95.63%",
     "uptimeYear": "99.64%",
-    "time": 6170,
-    "timeDay": 6932,
-    "timeWeek": 6685,
-    "timeMonth": 6649,
-    "timeYear": 6170,
+    "time": 6167,
+    "timeDay": 7374,
+    "timeWeek": 6690,
+    "timeMonth": 6622,
+    "timeYear": 6167,
     "dailyMinutesDown": {
       "2023-05-24": 56,
       "2023-05-23": 58,
@@ -1006,11 +1004,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.74%",
-    "time": 1266,
-    "timeDay": 1396,
-    "timeWeek": 1496,
+    "time": 1267,
+    "timeDay": 1412,
+    "timeWeek": 1507,
     "timeMonth": 1525,
-    "timeYear": 1257,
+    "timeYear": 1259,
     "dailyMinutesDown": {
       "2023-05-24": 7,
       "2023-05-23": 9,
@@ -1096,10 +1094,10 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.77%",
     "time": 2220,
-    "timeDay": 2361,
-    "timeWeek": 2511,
-    "timeMonth": 2522,
-    "timeYear": 2260,
+    "timeDay": 2305,
+    "timeWeek": 2535,
+    "timeMonth": 2525,
+    "timeYear": 2262,
     "dailyMinutesDown": {
       "2023-05-24": 7,
       "2023-05-23": 8,
@@ -1186,11 +1184,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.80%",
-    "time": 1391,
-    "timeDay": 1128,
-    "timeWeek": 2708,
-    "timeMonth": 1595,
-    "timeYear": 1305,
+    "time": 1392,
+    "timeDay": 1153,
+    "timeWeek": 2712,
+    "timeMonth": 1599,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2023-05-24": 7,
       "2023-05-23": 8,
@@ -1273,9 +1271,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 629,
-    "timeDay": 454,
-    "timeWeek": 473,
-    "timeMonth": 578,
+    "timeDay": 460,
+    "timeWeek": 478,
+    "timeMonth": 579,
     "timeYear": 595,
     "dailyMinutesDown": {}
   },
@@ -1291,10 +1289,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1147,
-    "timeDay": 593,
-    "timeWeek": 532,
-    "timeMonth": 640,
-    "timeYear": 923,
+    "timeDay": 2292,
+    "timeWeek": 790,
+    "timeMonth": 699,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   },
   {
@@ -1309,9 +1307,9 @@
     "uptimeMonth": "98.30%",
     "uptimeYear": "99.79%",
     "time": 1729,
-    "timeDay": 1073,
-    "timeWeek": 2211,
-    "timeMonth": 1597,
+    "timeDay": 1093,
+    "timeWeek": 2215,
+    "timeMonth": 1598,
     "timeYear": 1730,
     "dailyMinutesDown": {
       "2023-05-24": 6,
@@ -1372,7 +1370,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-24": 1352,
+      "2023-05-25": 45,
+      "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -1735,8 +1734,7 @@
       "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
-      "2022-05-26": 1440,
-      "2022-05-25": 1440
+      "2022-05-26": 1440
     }
   }
 ]
