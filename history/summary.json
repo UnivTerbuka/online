@@ -14,7 +14,7 @@
     "timeDay": 1953,
     "timeWeek": 2097,
     "timeMonth": 2173,
-    "timeYear": 2723,
+    "timeYear": 2724,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 10483,
     "timeWeek": 4040,
     "timeMonth": 2593,
-    "timeYear": 1874,
+    "timeYear": 1875,
     "dailyMinutesDown": {
       "2023-05-25": 17,
       "2023-05-23": 11,
@@ -108,7 +108,7 @@
     "timeDay": 1423,
     "timeWeek": 1574,
     "timeMonth": 3562,
-    "timeYear": 2300,
+    "timeYear": 2301,
     "dailyMinutesDown": {
       "2023-05-22": 24,
       "2023-05-20": 9,
@@ -184,7 +184,7 @@
     "timeDay": 2109,
     "timeWeek": 2132,
     "timeMonth": 2166,
-    "timeYear": 2589,
+    "timeYear": 2591,
     "dailyMinutesDown": {
       "2023-05-25": 27,
       "2023-05-24": 10,
@@ -264,11 +264,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
-    "uptime": "63.57%",
+    "uptime": "63.58%",
     "uptimeDay": "98.22%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "48.67%",
+    "uptimeYear": "48.68%",
     "time": 1160,
     "timeDay": 1110,
     "timeWeek": 1174,
@@ -546,7 +546,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-25": 1387,
+      "2023-05-25": 1439,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
@@ -954,19 +954,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "95.61%",
-    "uptimeYear": "99.63%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "95.68%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "99.64%",
     "time": 6174,
     "timeDay": 7078,
     "timeWeek": 6617,
     "timeMonth": 6649,
     "timeYear": 6174,
     "dailyMinutesDown": {
-      "2023-05-25": 62,
+      "2023-05-25": 64,
       "2023-05-24": 56,
       "2023-05-23": 58,
       "2023-05-22": 70,
@@ -991,7 +991,7 @@
       "2023-05-03": 75,
       "2023-05-02": 27,
       "2023-05-01": 29,
-      "2023-04-30": 58
+      "2023-04-30": 40
     }
   },
   {
@@ -1009,7 +1009,7 @@
     "timeDay": 1452,
     "timeWeek": 1474,
     "timeMonth": 1521,
-    "timeYear": 1260,
+    "timeYear": 1261,
     "dailyMinutesDown": {
       "2023-05-25": 20,
       "2023-05-24": 7,
@@ -1099,7 +1099,7 @@
     "timeDay": 2419,
     "timeWeek": 2492,
     "timeMonth": 2520,
-    "timeYear": 2263,
+    "timeYear": 2265,
     "dailyMinutesDown": {
       "2023-05-25": 19,
       "2023-05-24": 7,
@@ -1189,7 +1189,7 @@
     "timeDay": 2853,
     "timeWeek": 2954,
     "timeMonth": 1693,
-    "timeYear": 1316,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2023-05-25": 19,
       "2023-05-24": 7,
@@ -1312,7 +1312,7 @@
     "timeDay": 998,
     "timeWeek": 2108,
     "timeMonth": 1576,
-    "timeYear": 1725,
+    "timeYear": 1726,
     "dailyMinutesDown": {
       "2023-05-25": 66,
       "2023-05-24": 6,
@@ -1371,7 +1371,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-25": 1388,
+      "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
