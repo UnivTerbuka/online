@@ -349,7 +349,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "30.41%",
+    "uptime": "30.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -360,7 +360,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-10": 1395,
+      "2023-06-11": 57,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -723,8 +724,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   },
   {
@@ -771,12 +771,12 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "98.16%",
-    "uptimeWeek": "96.01%",
+    "uptimeWeek": "96.21%",
     "uptimeMonth": "94.95%",
     "uptimeYear": "99.58%",
     "time": 6269,
     "timeDay": 10244,
-    "timeWeek": 7606,
+    "timeWeek": 7350,
     "timeMonth": 6962,
     "timeYear": 6269,
     "dailyMinutesDown": {
@@ -1127,12 +1127,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.41%",
+    "uptimeWeek": "96.61%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "99.75%",
     "time": 1757,
     "timeDay": 1188,
-    "timeWeek": 2787,
+    "timeWeek": 2843,
     "timeMonth": 2224,
     "timeYear": 1761,
     "dailyMinutesDown": {
@@ -1195,7 +1195,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-10": 1396,
+      "2023-06-11": 58,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -1558,8 +1559,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   }
 ]
