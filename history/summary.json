@@ -171,16 +171,16 @@
     "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.29%",
-    "uptimeMonth": "94.25%",
-    "uptimeYear": "99.29%",
+    "uptimeWeek": "76.95%",
+    "uptimeMonth": "94.17%",
+    "uptimeYear": "99.28%",
     "time": 2657,
     "timeDay": 0,
     "timeWeek": 2234,
     "timeMonth": 2165,
     "timeYear": 2597,
     "dailyMinutesDown": {
-      "2023-06-12": 1387,
+      "2023-06-12": 1421,
       "2023-06-11": 862,
       "2023-06-09": 10,
       "2023-06-08": 31,
@@ -359,7 +359,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-12": 1387,
+      "2023-06-12": 1422,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -767,19 +767,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "92.18%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "96.30%",
+    "uptimeDay": "92.13%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "99.69%",
-    "time": 6287,
-    "timeDay": 7342,
-    "timeWeek": 7797,
-    "timeMonth": 6982,
-    "timeYear": 6278,
+    "time": 6299,
+    "timeDay": 8512,
+    "timeWeek": 8025,
+    "timeMonth": 7034,
+    "timeYear": 6287,
     "dailyMinutesDown": {
-      "2023-06-12": 113,
+      "2023-06-12": 114,
       "2023-06-11": 41,
       "2023-06-10": 26,
       "2023-06-09": 35,
@@ -805,7 +805,7 @@
       "2023-05-20": 88,
       "2023-05-19": 55,
       "2023-05-18": 62,
-      "2023-05-17": 58
+      "2023-05-17": 50
     }
   },
   {
@@ -823,7 +823,7 @@
     "timeDay": 1602,
     "timeWeek": 1638,
     "timeMonth": 1527,
-    "timeYear": 1291,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2023-06-09": 8,
       "2023-06-08": 26,
@@ -915,7 +915,7 @@
     "timeDay": 2488,
     "timeWeek": 3475,
     "timeMonth": 2679,
-    "timeYear": 2351,
+    "timeYear": 2353,
     "dailyMinutesDown": {
       "2023-06-09": 7,
       "2023-06-08": 26,
@@ -1097,7 +1097,7 @@
     "timeDay": 527,
     "timeWeek": 1007,
     "timeMonth": 679,
-    "timeYear": 615,
+    "timeYear": 604,
     "dailyMinutesDown": {}
   },
   {
@@ -1133,7 +1133,7 @@
     "timeDay": 3950,
     "timeWeek": 3076,
     "timeMonth": 2372,
-    "timeYear": 1759,
+    "timeYear": 1760,
     "dailyMinutesDown": {
       "2023-06-12": 44,
       "2023-06-09": 43,
@@ -1194,7 +1194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-12": 1388,
+      "2023-06-12": 1423,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
