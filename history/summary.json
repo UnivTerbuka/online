@@ -169,18 +169,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mahasiswa.ut.ac.id.ico",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "down",
-    "uptime": "99.72%",
+    "uptime": "99.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.95%",
-    "uptimeMonth": "94.17%",
-    "uptimeYear": "99.28%",
+    "uptimeWeek": "76.42%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "99.27%",
     "time": 2657,
     "timeDay": 0,
     "timeWeek": 2234,
     "timeMonth": 2165,
     "timeYear": 2597,
     "dailyMinutesDown": {
-      "2023-06-12": 1421,
+      "2023-06-13": 34,
+      "2023-06-12": 1440,
       "2023-06-11": 862,
       "2023-06-09": 10,
       "2023-06-08": 31,
@@ -359,7 +360,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-12": 1422,
+      "2023-06-13": 34,
+      "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -722,8 +724,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1440,
-      "2022-06-13": 1440
+      "2022-06-14": 1440
     }
   },
   {
@@ -767,19 +768,20 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "92.13%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "96.32%",
-    "uptimeYear": "99.69%",
-    "time": 6299,
-    "timeDay": 8512,
-    "timeWeek": 8025,
-    "timeMonth": 7034,
+    "uptimeDay": "88.53%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "96.20%",
+    "uptimeYear": "99.68%",
+    "time": 6302,
+    "timeDay": 8294,
+    "timeWeek": 7988,
+    "timeMonth": 7031,
     "timeYear": 6287,
     "dailyMinutesDown": {
-      "2023-06-12": 114,
+      "2023-06-13": 34,
+      "2023-06-12": 132,
       "2023-06-11": 41,
       "2023-06-10": 26,
       "2023-06-09": 35,
@@ -1194,7 +1196,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-12": 1423,
+      "2023-06-13": 35,
+      "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -1557,8 +1560,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1440,
-      "2022-06-13": 1440
+      "2022-06-14": 1440
     }
   }
 ]
