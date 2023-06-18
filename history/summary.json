@@ -168,18 +168,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mahasiswa.ut.ac.id.ico",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "down",
-    "uptime": "99.19%",
+    "uptime": "99.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.92%",
-    "uptimeMonth": "77.89%",
-    "uptimeYear": "97.91%",
+    "uptimeWeek": "5.17%",
+    "uptimeMonth": "77.72%",
+    "uptimeYear": "97.89%",
     "time": 2656,
     "timeDay": 0,
     "timeWeek": 1850,
     "timeMonth": 2153,
     "timeYear": 2602,
     "dailyMinutesDown": {
-      "2023-06-17": 1421,
+      "2023-06-18": 57,
+      "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
@@ -360,7 +361,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-17": 1421,
+      "2023-06-18": 57,
+      "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
@@ -723,8 +725,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
-      "2022-06-19": 1440,
-      "2022-06-18": 1440
+      "2022-06-19": 1440
     }
   },
   {
@@ -770,12 +771,12 @@
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "94.02%",
+    "uptimeDay": "94.64%",
     "uptimeWeek": "94.19%",
     "uptimeMonth": "96.31%",
     "uptimeYear": "99.69%",
     "time": 6332,
-    "timeDay": 6396,
+    "timeDay": 6605,
     "timeWeek": 7473,
     "timeMonth": 7214,
     "timeYear": 6332,
@@ -1180,7 +1181,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-17": 1422,
+      "2023-06-18": 58,
+      "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
@@ -1543,8 +1545,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
-      "2022-06-19": 1440,
-      "2022-06-18": 1440
+      "2022-06-19": 1440
     }
   }
 ]
