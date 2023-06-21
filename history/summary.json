@@ -173,15 +173,16 @@
     "uptime": "98.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.04%",
-    "uptimeYear": "97.08%",
+    "uptimeMonth": "67.91%",
+    "uptimeYear": "97.07%",
     "time": 2659,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2146,
     "timeYear": 2607,
     "dailyMinutesDown": {
-      "2023-06-20": 1435,
+      "2023-06-21": 52,
+      "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -268,7 +269,7 @@
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.59%",
+    "uptimeDay": "95.23%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.74%",
@@ -366,7 +367,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-20": 1435,
+      "2023-06-21": 52,
+      "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -729,8 +731,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -776,13 +777,13 @@
     "slug": "program-sertifikat-terbuka-online",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "90.74%",
-    "uptimeWeek": "94.39%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "94.41%",
     "uptimeMonth": "96.44%",
     "uptimeYear": "99.70%",
     "time": 6396,
     "timeDay": 8120,
-    "timeWeek": 7898,
+    "timeWeek": 7958,
     "timeMonth": 7435,
     "timeYear": 6381,
     "dailyMinutesDown": {
@@ -818,7 +819,7 @@
     "slug": "ut-radio",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "94.71%",
+    "uptimeDay": "95.23%",
     "uptimeWeek": "98.50%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.78%",
@@ -907,7 +908,7 @@
     "slug": "tracer-studi-universitas-terbuka",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "94.74%",
+    "uptimeDay": "95.22%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.78%",
@@ -995,7 +996,7 @@
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "94.77%",
+    "uptimeDay": "95.22%",
     "uptimeWeek": "98.58%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.79%",
@@ -1120,7 +1121,7 @@
     "slug": "universitas-terbuka-repository",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.08%",
+    "uptimeDay": "94.46%",
     "uptimeWeek": "97.31%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "99.74%",
@@ -1186,7 +1187,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-20": 1435,
+      "2023-06-21": 53,
+      "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -1549,8 +1551,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   }
 ]
