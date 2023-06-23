@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2837,
     "timeDay": 2627,
-    "timeWeek": 2272,
+    "timeWeek": 2301,
     "timeMonth": 2185,
     "timeYear": 2719,
     "dailyMinutesDown": {}
@@ -172,8 +172,8 @@
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "83.87%",
-    "uptimeWeek": "11.98%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "13.04%",
     "uptimeMonth": "64.37%",
     "uptimeYear": "96.78%",
     "time": 2661,
@@ -271,12 +271,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "98.81%",
-    "uptimeWeek": "98.37%",
+    "uptimeWeek": "98.46%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.74%",
     "time": 1169,
     "timeDay": 1382,
-    "timeWeek": 1173,
+    "timeWeek": 1180,
     "timeMonth": 1194,
     "timeYear": 1169,
     "dailyMinutesDown": {
@@ -368,7 +368,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-22": 1392,
+      "2023-06-23": 58,
+      "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
@@ -731,8 +732,7 @@
       "2022-06-27": 1440,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
-      "2022-06-24": 1440,
-      "2022-06-23": 1440
+      "2022-06-24": 1440
     }
   },
   {
@@ -766,7 +766,7 @@
     "uptimeYear": "100.00%",
     "time": 3370,
     "timeDay": 3105,
-    "timeWeek": 3679,
+    "timeWeek": 3747,
     "timeMonth": 3125,
     "timeYear": 3370,
     "dailyMinutesDown": {}
@@ -779,12 +779,12 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "93.70%",
-    "uptimeWeek": "93.83%",
+    "uptimeWeek": "93.91%",
     "uptimeMonth": "96.55%",
     "uptimeYear": "99.71%",
     "time": 6432,
     "timeDay": 10062,
-    "timeWeek": 8347,
+    "timeWeek": 8411,
     "timeMonth": 7627,
     "timeYear": 6432,
     "dailyMinutesDown": {
@@ -819,12 +819,12 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "98.94%",
-    "uptimeWeek": "98.51%",
+    "uptimeWeek": "98.59%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.77%",
     "time": 1303,
     "timeDay": 1974,
-    "timeWeek": 1595,
+    "timeWeek": 1621,
     "timeMonth": 1565,
     "timeYear": 1312,
     "dailyMinutesDown": {
@@ -908,12 +908,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "98.97%",
-    "uptimeWeek": "98.55%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.78%",
     "time": 2235,
     "timeDay": 3522,
-    "timeWeek": 2578,
+    "timeWeek": 2587,
     "timeMonth": 2742,
     "timeYear": 2399,
     "dailyMinutesDown": {
@@ -996,12 +996,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "99.00%",
-    "uptimeWeek": "98.59%",
+    "uptimeWeek": "98.65%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.79%",
     "time": 1356,
     "timeDay": 1386,
-    "timeWeek": 1157,
+    "timeWeek": 1170,
     "timeMonth": 1357,
     "timeYear": 1309,
     "dailyMinutesDown": {
@@ -1090,7 +1090,7 @@
     "uptimeYear": "100.00%",
     "time": 651,
     "timeDay": 523,
-    "timeWeek": 479,
+    "timeWeek": 485,
     "timeMonth": 658,
     "timeYear": 601,
     "dailyMinutesDown": {}
@@ -1121,12 +1121,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "96.68%",
-    "uptimeWeek": "97.65%",
+    "uptimeWeek": "97.70%",
     "uptimeMonth": "97.64%",
     "uptimeYear": "99.74%",
     "time": 1759,
     "timeDay": 985,
-    "timeWeek": 1044,
+    "timeWeek": 1048,
     "timeMonth": 2051,
     "timeYear": 1754,
     "dailyMinutesDown": {
@@ -1187,7 +1187,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-22": 1393,
+      "2023-06-23": 59,
+      "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
@@ -1550,8 +1551,7 @@
       "2022-06-27": 1440,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
-      "2022-06-24": 1440,
-      "2022-06-23": 1440
+      "2022-06-24": 1440
     }
   }
 ]
