@@ -367,7 +367,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-03": 57,
+      "2023-07-03": 161,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -775,18 +775,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "95.36%",
-    "uptimeWeek": "95.35%",
-    "uptimeMonth": "96.97%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "97.00%",
     "uptimeYear": "99.75%",
-    "time": 6565,
-    "timeDay": 7697,
-    "timeWeek": 7821,
-    "timeMonth": 8066,
-    "timeYear": 6565,
+    "time": 6573,
+    "timeDay": 8528,
+    "timeWeek": 7971,
+    "timeMonth": 8101,
+    "timeYear": 6573,
     "dailyMinutesDown": {
+      "2023-07-03": 1,
       "2023-07-02": 66,
       "2023-07-01": 66,
       "2023-06-30": 51,
@@ -804,8 +805,7 @@
       "2023-06-18": 89,
       "2023-06-17": 78,
       "2023-06-16": 107,
-      "2023-06-15": 37,
-      "2023-06-14": 18
+      "2023-06-15": 37
     }
   },
   {
@@ -1190,7 +1190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-03": 58,
+      "2023-07-03": 162,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
