@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2831,
     "timeDay": 2202,
-    "timeWeek": 2229,
+    "timeWeek": 2241,
     "timeMonth": 2510,
     "timeYear": 2741,
     "dailyMinutesDown": {}
@@ -170,12 +170,12 @@
     "status": "up",
     "uptime": "98.78%",
     "uptimeDay": "99.31%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "66.26%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "66.52%",
     "uptimeYear": "96.78%",
     "time": 2664,
     "timeDay": 2540,
-    "timeWeek": 2678,
+    "timeWeek": 2735,
     "timeMonth": 2889,
     "timeYear": 2651,
     "dailyMinutesDown": {
@@ -270,12 +270,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "99.34%",
-    "uptimeWeek": "99.57%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.74%",
     "time": 1168,
     "timeDay": 1077,
-    "timeWeek": 1227,
+    "timeWeek": 1229,
     "timeMonth": 1187,
     "timeYear": 1170,
     "dailyMinutesDown": {
@@ -358,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "29.43%",
+    "uptime": "29.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -369,7 +369,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-11": 1388,
+      "2023-07-12": 59,
+      "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
@@ -732,8 +733,7 @@
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
-      "2022-07-13": 1440,
-      "2022-07-12": 1440
+      "2022-07-13": 1440
     }
   },
   {
@@ -767,7 +767,7 @@
     "uptimeYear": "100.00%",
     "time": 3376,
     "timeDay": 3754,
-    "timeWeek": 3604,
+    "timeWeek": 3684,
     "timeMonth": 3424,
     "timeYear": 3376,
     "dailyMinutesDown": {}
@@ -780,12 +780,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "94.30%",
-    "uptimeWeek": "96.57%",
+    "uptimeWeek": "96.65%",
     "uptimeMonth": "96.93%",
     "uptimeYear": "99.74%",
     "time": 6589,
     "timeDay": 7034,
-    "timeWeek": 6435,
+    "timeWeek": 6503,
     "timeMonth": 7921,
     "timeYear": 6584,
     "dailyMinutesDown": {
@@ -821,12 +821,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "99.47%",
-    "uptimeWeek": "99.64%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.78%",
     "time": 1304,
     "timeDay": 1459,
-    "timeWeek": 1537,
+    "timeWeek": 1540,
     "timeMonth": 1571,
     "timeYear": 1339,
     "dailyMinutesDown": {
@@ -913,12 +913,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "99.50%",
-    "uptimeWeek": "99.66%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.79%",
     "time": 2253,
     "timeDay": 2389,
-    "timeWeek": 2597,
+    "timeWeek": 2579,
     "timeMonth": 2639,
     "timeYear": 2441,
     "dailyMinutesDown": {
@@ -1004,12 +1004,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "99.53%",
-    "uptimeWeek": "99.67%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.80%",
     "time": 1387,
     "timeDay": 1106,
-    "timeWeek": 1218,
+    "timeWeek": 1225,
     "timeMonth": 1167,
     "timeYear": 1302,
     "dailyMinutesDown": {
@@ -1101,7 +1101,7 @@
     "uptimeYear": "100.00%",
     "time": 644,
     "timeDay": 477,
-    "timeWeek": 483,
+    "timeWeek": 485,
     "timeMonth": 673,
     "timeYear": 602,
     "dailyMinutesDown": {}
@@ -1132,12 +1132,12 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "96.49%",
-    "uptimeWeek": "97.46%",
+    "uptimeWeek": "97.52%",
     "uptimeMonth": "97.66%",
     "uptimeYear": "99.70%",
     "time": 1811,
     "timeDay": 987,
-    "timeWeek": 2916,
+    "timeWeek": 2972,
     "timeMonth": 2178,
     "timeYear": 1785,
     "dailyMinutesDown": {
@@ -1201,7 +1201,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-11": 1388,
+      "2023-07-12": 60,
+      "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
@@ -1564,8 +1565,7 @@
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
-      "2022-07-13": 1440,
-      "2022-07-12": 1440
+      "2022-07-13": 1440
     }
   }
 ]
