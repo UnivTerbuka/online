@@ -14,7 +14,7 @@
     "timeDay": 2176,
     "timeWeek": 2321,
     "timeMonth": 2537,
-    "timeYear": 2561,
+    "timeYear": 2544,
     "dailyMinutesDown": {}
   },
   {
@@ -173,13 +173,13 @@
     "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
-    "uptimeMonth": "80.92%",
+    "uptimeMonth": "81.38%",
     "uptimeYear": "96.80%",
     "time": 2666,
     "timeDay": 2122,
     "timeWeek": 2264,
     "timeMonth": 2755,
-    "timeYear": 2555,
+    "timeYear": 2547,
     "dailyMinutesDown": {
       "2023-07-12": 33,
       "2023-07-11": 10,
@@ -371,7 +371,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-16": 642,
+      "2023-07-16": 843,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
@@ -779,19 +779,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.75%",
     "time": 6613,
     "timeDay": 8888,
-    "timeWeek": 7730,
+    "timeWeek": 7646,
     "timeMonth": 7949,
     "timeYear": 6613,
     "dailyMinutesDown": {
-      "2023-07-16": 10,
+      "2023-07-16": 12,
       "2023-07-15": 10,
       "2023-07-14": 30,
       "2023-07-13": 46,
@@ -813,8 +813,7 @@
       "2023-06-27": 35,
       "2023-06-26": 72,
       "2023-06-25": 52,
-      "2023-06-24": 65,
-      "2023-06-23": 10
+      "2023-06-24": 65
     }
   },
   {
@@ -1132,12 +1131,12 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.03%",
+    "uptimeWeek": "98.14%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.70%",
     "time": 1813,
     "timeDay": 1111,
-    "timeWeek": 2706,
+    "timeWeek": 1957,
     "timeMonth": 1988,
     "timeYear": 1778,
     "dailyMinutesDown": {
@@ -1201,7 +1200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-16": 643,
+      "2023-07-16": 844,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
