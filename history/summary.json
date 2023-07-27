@@ -4,17 +4,17 @@
     "url": "https://www.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ut.ac.id.ico",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2860,
-    "timeDay": 2603,
-    "timeWeek": 3839,
-    "timeMonth": 3104,
-    "timeYear": 2449,
+    "timeDay": 2377,
+    "timeWeek": 3741,
+    "timeMonth": 3082,
+    "timeYear": 2448,
     "dailyMinutesDown": {}
   },
   {
@@ -366,7 +366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-27": 679,
+      "2023-07-27": 691,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -774,11 +774,11 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "93.83%",
-    "uptimeMonth": "96.59%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "93.81%",
+    "uptimeMonth": "96.61%",
     "uptimeYear": "99.72%",
     "time": 6671,
     "timeDay": 8689,
@@ -786,7 +786,7 @@
     "timeMonth": 7465,
     "timeYear": 6671,
     "dailyMinutesDown": {
-      "2023-07-27": 32,
+      "2023-07-27": 34,
       "2023-07-26": 56,
       "2023-07-25": 33,
       "2023-07-24": 189,
@@ -806,8 +806,7 @@
       "2023-07-10": 10,
       "2023-07-09": 82,
       "2023-07-08": 51,
-      "2023-07-07": 34,
-      "2023-07-06": 9
+      "2023-07-07": 34
     }
   },
   {
@@ -1190,7 +1189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-27": 680,
+      "2023-07-27": 692,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
