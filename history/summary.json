@@ -366,7 +366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-27": 699,
+      "2023-07-27": 809,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -765,7 +765,7 @@
     "time": 3347,
     "timeDay": 2656,
     "timeWeek": 3110,
-    "timeMonth": 3143,
+    "timeMonth": 3144,
     "timeYear": 3347,
     "dailyMinutesDown": {}
   },
@@ -774,11 +774,11 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "93.74%",
-    "uptimeMonth": "96.59%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "96.62%",
     "uptimeYear": "99.72%",
     "time": 6669,
     "timeDay": 8222,
@@ -786,7 +786,7 @@
     "timeMonth": 7451,
     "timeYear": 6669,
     "dailyMinutesDown": {
-      "2023-07-27": 41,
+      "2023-07-27": 43,
       "2023-07-26": 56,
       "2023-07-25": 33,
       "2023-07-24": 189,
@@ -806,7 +806,7 @@
       "2023-07-10": 10,
       "2023-07-09": 82,
       "2023-07-08": 51,
-      "2023-07-07": 34
+      "2023-07-07": 18
     }
   },
   {
@@ -1121,12 +1121,12 @@
     "uptime": "99.90%",
     "uptimeDay": "97.14%",
     "uptimeWeek": "97.97%",
-    "uptimeMonth": "97.77%",
+    "uptimeMonth": "97.85%",
     "uptimeYear": "99.72%",
     "time": 1810,
     "timeDay": 1032,
     "timeWeek": 1609,
-    "timeMonth": 1787,
+    "timeMonth": 1799,
     "timeYear": 1787,
     "dailyMinutesDown": {
       "2023-07-27": 25,
@@ -1178,7 +1178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/promise.ut.ac.id.ico",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "16.17%",
+    "uptime": "16.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1189,7 +1189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-27": 700,
+      "2023-07-27": 810,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
