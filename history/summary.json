@@ -268,9 +268,9 @@
     "slug": "aplikasi-tugas-mata-kuliah",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.76%",
     "time": 1174,
     "timeDay": 1396,
@@ -278,7 +278,7 @@
     "timeMonth": 1203,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2023-08-01": 29,
+      "2023-08-01": 65,
       "2023-07-30": 9,
       "2023-07-29": 19,
       "2023-07-26": 9,
@@ -366,7 +366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-01": 732,
+      "2023-08-01": 768,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
@@ -774,11 +774,11 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "96.76%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "99.73%",
     "time": 6670,
     "timeDay": 6495,
@@ -786,7 +786,7 @@
     "timeMonth": 7270,
     "timeYear": 6670,
     "dailyMinutesDown": {
-      "2023-08-01": 72,
+      "2023-08-01": 74,
       "2023-07-31": 59,
       "2023-07-30": 41,
       "2023-07-29": 57,
@@ -806,7 +806,7 @@
       "2023-07-15": 10,
       "2023-07-14": 30,
       "2023-07-13": 46,
-      "2023-07-12": 27
+      "2023-07-12": 19
     }
   },
   {
@@ -1191,7 +1191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-01": 732,
+      "2023-08-01": 768,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
