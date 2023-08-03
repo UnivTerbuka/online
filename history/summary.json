@@ -4,13 +4,13 @@
     "url": "https://www.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ut.ac.id.ico",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2740,
+    "time": 2732,
     "timeDay": 1812,
     "timeWeek": 2595,
     "timeMonth": 3091,
@@ -169,18 +169,19 @@
     "url": "https://mahasiswa.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/mahasiswa.ut.ac.id.ico",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "96.81%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "96.82%",
     "time": 2659,
     "timeDay": 1826,
     "timeWeek": 2193,
     "timeMonth": 2533,
     "timeYear": 2273,
     "dailyMinutesDown": {
+      "2023-08-03": 5,
       "2023-08-02": 21,
       "2023-08-01": 40,
       "2023-07-30": 10,
@@ -257,8 +258,7 @@
       "2023-04-05": 23,
       "2023-04-04": 27,
       "2023-04-03": 33,
-      "2023-03-31": 71,
-      "2023-03-29": 33
+      "2023-03-31": 71
     }
   },
   {
@@ -266,11 +266,11 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "99.73%",
     "time": 1174,
     "timeDay": 1065,
@@ -278,6 +278,7 @@
     "timeMonth": 1207,
     "timeYear": 1174,
     "dailyMinutesDown": {
+      "2023-08-03": 5,
       "2023-08-02": 21,
       "2023-08-01": 195,
       "2023-07-30": 9,
@@ -345,8 +346,7 @@
       "2023-04-12": 9,
       "2023-04-08": 14,
       "2023-04-07": 33,
-      "2023-04-06": 35,
-      "2023-04-05": 13
+      "2023-04-06": 35
     }
   },
   {
@@ -366,7 +366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-03": 1349,
+      "2023-08-03": 1365,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -774,19 +774,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "95.68%",
-    "uptimeWeek": "95.63%",
-    "uptimeMonth": "96.82%",
-    "uptimeYear": "99.73%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "99.74%",
     "time": 6667,
     "timeDay": 5347,
     "timeWeek": 6658,
     "timeMonth": 7138,
     "timeYear": 6667,
     "dailyMinutesDown": {
-      "2023-08-03": 62,
+      "2023-08-03": 65,
       "2023-08-02": 60,
       "2023-08-01": 134,
       "2023-07-31": 59,
@@ -803,7 +803,7 @@
       "2023-07-20": 44,
       "2023-07-19": 29,
       "2023-07-18": 169,
-      "2023-07-17": 79
+      "2023-07-17": 59
     }
   },
   {
@@ -811,18 +811,19 @@
     "url": "http://utradio.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/utradio.ut.ac.id.ico",
     "slug": "ut-radio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.79%",
-    "time": 1348,
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.80%",
+    "time": 1349,
     "timeDay": 1141,
     "timeWeek": 2019,
     "timeMonth": 1745,
     "timeYear": 1396,
     "dailyMinutesDown": {
+      "2023-08-03": 3,
       "2023-08-02": 19,
       "2023-08-01": 31,
       "2023-07-30": 8,
@@ -892,7 +893,7 @@
       "2023-04-07": 28,
       "2023-04-06": 29,
       "2023-04-05": 19,
-      "2023-04-04": 22
+      "2023-04-04": 8
     }
   },
   {
@@ -900,10 +901,10 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/tracer.lppm.ut.ac.id.ico",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.80%",
     "time": 2365,
@@ -912,6 +913,7 @@
     "timeMonth": 2849,
     "timeYear": 2552,
     "dailyMinutesDown": {
+      "2023-08-03": 2,
       "2023-08-02": 19,
       "2023-08-01": 28,
       "2023-07-30": 7,
@@ -981,7 +983,7 @@
       "2023-04-08": 12,
       "2023-04-07": 27,
       "2023-04-06": 28,
-      "2023-04-05": 18
+      "2023-04-05": 11
     }
   },
   {
@@ -989,18 +991,19 @@
     "url": "http://karil.ut.ac.id/pendas/",
     "icon": "https://icons.duckduckgo.com/ip3/karil.ut.ac.id.ico",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.81%",
-    "time": 1345,
+    "time": 1346,
     "timeDay": 962,
     "timeWeek": 1210,
     "timeMonth": 1280,
     "timeYear": 1303,
     "dailyMinutesDown": {
+      "2023-08-03": 2,
       "2023-08-02": 18,
       "2023-08-01": 27,
       "2023-07-30": 7,
@@ -1070,7 +1073,7 @@
       "2023-04-07": 26,
       "2023-04-06": 26,
       "2023-04-05": 17,
-      "2023-04-04": 20
+      "2023-04-04": 7
     }
   },
   {
@@ -1078,7 +1081,7 @@
     "url": "http://karil.ut.ac.id/nonpendas/",
     "icon": "https://icons.duckduckgo.com/ip3/karil.ut.ac.id.ico",
     "slug": "sistem-unggah-karil-program-fe-fhisip-fmipa-fkip-non-pendas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1114,10 +1117,10 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ut.ac.id.ico",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "98.75%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "99.73%",
     "time": 1799,
@@ -1126,7 +1129,7 @@
     "timeMonth": 1805,
     "timeYear": 1752,
     "dailyMinutesDown": {
-      "2023-08-03": 24,
+      "2023-08-03": 25,
       "2023-08-02": 17,
       "2023-08-01": 23,
       "2023-07-30": 17,
@@ -1168,7 +1171,7 @@
       "2023-06-20": 85,
       "2023-06-19": 24,
       "2023-06-18": 20,
-      "2023-06-17": 22
+      "2023-06-17": 16
     }
   },
   {
@@ -1188,7 +1191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-03": 1350,
+      "2023-08-03": 1366,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
