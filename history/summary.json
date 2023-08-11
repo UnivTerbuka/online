@@ -358,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "28.54%",
+    "uptime": "28.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -369,7 +369,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 37,
+      "2023-08-11": 179,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -767,7 +767,7 @@
     "uptimeYear": "100.00%",
     "time": 3367,
     "timeDay": 2883,
-    "timeWeek": 3111,
+    "timeWeek": 3046,
     "timeMonth": 3319,
     "timeYear": 3367,
     "dailyMinutesDown": {}
@@ -1124,18 +1124,19 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ut.ac.id.ico",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "98.87%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.75%",
-    "time": 1758,
-    "timeDay": 1103,
-    "timeWeek": 1102,
-    "timeMonth": 1372,
-    "timeYear": 1746,
+    "time": 1757,
+    "timeDay": 1009,
+    "timeWeek": 1088,
+    "timeMonth": 1367,
+    "timeYear": 1745,
     "dailyMinutesDown": {
+      "2023-08-11": 1,
       "2023-08-10": 11,
       "2023-08-09": 11,
       "2023-08-08": 16,
@@ -1179,7 +1180,7 @@
       "2023-06-27": 45,
       "2023-06-26": 12,
       "2023-06-25": 37,
-      "2023-06-24": 43
+      "2023-06-24": 25
     }
   },
   {
@@ -1199,7 +1200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 38,
+      "2023-08-11": 180,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
