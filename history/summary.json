@@ -14,7 +14,7 @@
     "timeDay": 2141,
     "timeWeek": 4234,
     "timeMonth": 3408,
-    "timeYear": 2507,
+    "timeYear": 2492,
     "dailyMinutesDown": {}
   },
   {
@@ -99,11 +99,11 @@
     "url": "https://elearning.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.ut.ac.id.ico",
     "slug": "e-learning-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "95.61%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.50%",
     "time": 2237,
     "timeDay": 1773,
@@ -111,7 +111,7 @@
     "timeMonth": 1740,
     "timeYear": 2369,
     "dailyMinutesDown": {
-      "2023-08-15": 63,
+      "2023-08-15": 65,
       "2023-08-14": 9,
       "2023-07-12": 41,
       "2023-06-23": 20,
@@ -163,8 +163,7 @@
       "2022-10-23": 115,
       "2022-10-03": 83,
       "2022-09-12": 258,
-      "2022-09-05": 60,
-      "2022-08-18": 23
+      "2022-09-05": 60
     }
   },
   {
@@ -373,7 +372,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-15": 527,
+      "2023-08-15": 599,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -781,19 +780,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "95.05%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "99.74%",
-    "time": 6725,
-    "timeDay": 6278,
-    "timeWeek": 8042,
-    "timeMonth": 7370,
-    "timeYear": 6725,
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "95.04%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "99.75%",
+    "time": 6731,
+    "timeDay": 8063,
+    "timeWeek": 8210,
+    "timeMonth": 7407,
+    "timeYear": 6731,
     "dailyMinutesDown": {
-      "2023-08-15": 18,
+      "2023-08-15": 19,
       "2023-08-14": 166,
       "2023-08-13": 45,
       "2023-08-12": 110,
@@ -812,7 +811,7 @@
       "2023-07-30": 41,
       "2023-07-29": 57,
       "2023-07-28": 29,
-      "2023-07-27": 50
+      "2023-07-27": 41
     }
   },
   {
@@ -830,7 +829,7 @@
     "timeDay": 1641,
     "timeWeek": 4887,
     "timeMonth": 2407,
-    "timeYear": 1490,
+    "timeYear": 1491,
     "dailyMinutesDown": {
       "2023-08-14": 44,
       "2023-08-13": 7,
@@ -915,7 +914,7 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.60%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.79%",
     "time": 2450,
@@ -1208,7 +1207,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-15": 527,
+      "2023-08-15": 600,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
