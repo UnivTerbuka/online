@@ -372,7 +372,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-23": 37,
+      "2023-08-23": 275,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -762,7 +762,7 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/lppm.ut.ac.id.ico",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -789,7 +789,7 @@
     "time": 6712,
     "timeDay": 3185,
     "timeWeek": 3355,
-    "timeMonth": 7233,
+    "timeMonth": 7187,
     "timeYear": 6712,
     "dailyMinutesDown": {
       "2023-08-15": 46,
@@ -1207,7 +1207,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-23": 38,
+      "2023-08-23": 276,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
