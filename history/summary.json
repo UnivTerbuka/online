@@ -4,7 +4,7 @@
     "url": "https://www.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ut.ac.id.ico",
     "slug": "universitas-terbuka-making-higher-education-open-to-all",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -367,7 +367,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-17": 41,
+      "2023-09-17": 219,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -1202,7 +1202,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-17": 42,
+      "2023-09-17": 219,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
