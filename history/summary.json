@@ -14,7 +14,7 @@
     "timeDay": 6641,
     "timeWeek": 3194,
     "timeMonth": 3802,
-    "timeYear": 2544,
+    "timeYear": 2546,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,19 @@
     "url": "https://elearning.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.ut.ac.id.ico",
     "slug": "e-learning-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "99.43%",
-    "time": 2235,
-    "timeDay": 6598,
-    "timeWeek": 3455,
-    "timeMonth": 2178,
-    "timeYear": 2361,
+    "time": 2241,
+    "timeDay": 5804,
+    "timeWeek": 3584,
+    "timeMonth": 2231,
+    "timeYear": 2366,
     "dailyMinutesDown": {
+      "2023-09-27": 1,
       "2023-09-25": 71,
       "2023-09-21": 39,
       "2023-09-14": 117,
@@ -158,7 +159,7 @@
       "2023-02-13": 10,
       "2023-02-12": 9,
       "2023-02-11": 33,
-      "2023-02-10": 32
+      "2023-02-10": 22
     }
   },
   {
@@ -357,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "27.24%",
+    "uptime": "27.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -368,7 +369,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-27": 210,
+      "2023-09-27": 891,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
@@ -1196,7 +1197,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/promise.ut.ac.id.ico",
     "slug": "promise-ut",
     "status": "down",
-    "uptime": "15.21%",
+    "uptime": "15.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1207,7 +1208,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-27": 211,
+      "2023-09-27": 892,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
