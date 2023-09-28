@@ -14,7 +14,7 @@
     "timeDay": 2216,
     "timeWeek": 3401,
     "timeMonth": 3800,
-    "timeYear": 2547,
+    "timeYear": 2548,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 12083,
     "timeWeek": 5844,
     "timeMonth": 3400,
-    "timeYear": 2219,
+    "timeYear": 2221,
     "dailyMinutesDown": {
       "2023-09-21": 58,
       "2023-08-16": 22,
@@ -105,7 +105,7 @@
     "timeDay": 6387,
     "timeWeek": 4331,
     "timeMonth": 2296,
-    "timeYear": 2372,
+    "timeYear": 2375,
     "dailyMinutesDown": {
       "2023-09-27": 30,
       "2023-09-25": 71,
@@ -176,7 +176,7 @@
     "timeDay": 6839,
     "timeWeek": 3474,
     "timeMonth": 2763,
-    "timeYear": 2367,
+    "timeYear": 2368,
     "dailyMinutesDown": {
       "2023-09-21": 58,
       "2023-08-14": 109,
@@ -368,7 +368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-28": 1387,
+      "2023-09-28": 1400,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -758,17 +758,17 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/lppm.ut.ac.id.ico",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3477,
-    "timeDay": 3038,
-    "timeWeek": 4599,
-    "timeMonth": 4161,
-    "timeYear": 3477,
+    "time": 3476,
+    "timeDay": 2779,
+    "timeWeek": 4453,
+    "timeMonth": 4133,
+    "timeYear": 3476,
     "dailyMinutesDown": {}
   },
   {
@@ -826,7 +826,7 @@
     "timeDay": 2214,
     "timeWeek": 1779,
     "timeMonth": 1721,
-    "timeYear": 1551,
+    "timeYear": 1553,
     "dailyMinutesDown": {
       "2023-09-21": 55,
       "2023-08-14": 44,
@@ -918,7 +918,7 @@
     "timeDay": 2723,
     "timeWeek": 2659,
     "timeMonth": 2620,
-    "timeYear": 2599,
+    "timeYear": 2600,
     "dailyMinutesDown": {
       "2023-09-21": 54,
       "2023-08-14": 98,
@@ -1010,7 +1010,7 @@
     "timeDay": 1474,
     "timeWeek": 1838,
     "timeMonth": 1348,
-    "timeYear": 1305,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2023-09-21": 54,
       "2023-08-13": 6,
@@ -1103,7 +1103,7 @@
     "timeDay": 518,
     "timeWeek": 481,
     "timeMonth": 474,
-    "timeYear": 602,
+    "timeYear": 603,
     "dailyMinutesDown": {}
   },
   {
@@ -1121,7 +1121,7 @@
     "timeDay": 302,
     "timeWeek": 1672,
     "timeMonth": 920,
-    "timeYear": 911,
+    "timeYear": 913,
     "dailyMinutesDown": {}
   },
   {
@@ -1139,7 +1139,7 @@
     "timeDay": 1250,
     "timeWeek": 1223,
     "timeMonth": 1157,
-    "timeYear": 1718,
+    "timeYear": 1719,
     "dailyMinutesDown": {
       "2023-09-21": 52,
       "2023-08-15": 16,
@@ -1207,7 +1207,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-28": 1388,
+      "2023-09-28": 1400,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
