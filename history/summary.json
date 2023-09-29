@@ -176,7 +176,7 @@
     "timeDay": 6839,
     "timeWeek": 3474,
     "timeMonth": 2763,
-    "timeYear": 2368,
+    "timeYear": 2370,
     "dailyMinutesDown": {
       "2023-09-21": 58,
       "2023-08-14": 109,
@@ -357,7 +357,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "27.18%",
+    "uptime": "27.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -368,7 +368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-29": 931,
+      "2023-09-29": 1381,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
@@ -758,17 +758,17 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/lppm.ut.ac.id.ico",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3476,
-    "timeDay": 2953,
-    "timeWeek": 4395,
-    "timeMonth": 4123,
-    "timeYear": 3476,
+    "time": 3474,
+    "timeDay": 2996,
+    "timeWeek": 4037,
+    "timeMonth": 4094,
+    "timeYear": 3474,
     "dailyMinutesDown": {}
   },
   {
@@ -1121,7 +1121,7 @@
     "timeDay": 302,
     "timeWeek": 1672,
     "timeMonth": 920,
-    "timeYear": 913,
+    "timeYear": 912,
     "dailyMinutesDown": {}
   },
   {
@@ -1207,7 +1207,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-29": 932,
+      "2023-09-29": 1382,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
