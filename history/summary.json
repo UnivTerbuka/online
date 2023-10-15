@@ -370,7 +370,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-15": 1340,
+      "2023-10-15": 1354,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -769,7 +769,7 @@
     "time": 3502,
     "timeDay": 2211,
     "timeWeek": 4188,
-    "timeMonth": 3867,
+    "timeMonth": 3887,
     "timeYear": 3502,
     "dailyMinutesDown": {}
   },
@@ -820,18 +820,19 @@
     "url": "http://utradio.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/utradio.ut.ac.id.ico",
     "slug": "ut-radio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.78%",
-    "time": 1471,
+    "time": 1472,
     "timeDay": 1578,
     "timeWeek": 2218,
     "timeMonth": 1819,
     "timeYear": 1583,
     "dailyMinutesDown": {
+      "2023-10-15": 3,
       "2023-10-12": 28,
       "2023-09-21": 55,
       "2023-08-14": 44,
@@ -904,7 +905,7 @@
       "2023-04-20": 8,
       "2023-04-18": 8,
       "2023-04-17": 29,
-      "2023-04-16": 22
+      "2023-04-16": 8
     }
   },
   {
@@ -912,10 +913,10 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/tracer.lppm.ut.ac.id.ico",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.77%",
     "time": 2570,
@@ -924,7 +925,7 @@
     "timeMonth": 2843,
     "timeYear": 2624,
     "dailyMinutesDown": {
-      "2023-10-15": 22,
+      "2023-10-15": 24,
       "2023-10-12": 28,
       "2023-09-21": 54,
       "2023-08-14": 98,
@@ -996,8 +997,7 @@
       "2023-04-22": 14,
       "2023-04-21": 26,
       "2023-04-20": 7,
-      "2023-04-18": 7,
-      "2023-04-17": 6
+      "2023-04-18": 7
     }
   },
   {
@@ -1134,18 +1134,19 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ut.ac.id.ico",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.74%",
-    "time": 1713,
+    "time": 1714,
     "timeDay": 1091,
     "timeWeek": 1089,
     "timeMonth": 1180,
     "timeYear": 1734,
     "dailyMinutesDown": {
+      "2023-10-15": 1,
       "2023-09-21": 52,
       "2023-08-15": 16,
       "2023-08-14": 18,
@@ -1191,8 +1192,7 @@
       "2023-07-02": 57,
       "2023-07-01": 51,
       "2023-06-29": 22,
-      "2023-06-28": 6,
-      "2023-06-27": 34
+      "2023-06-28": 6
     }
   },
   {
@@ -1212,7 +1212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-15": 1341,
+      "2023-10-15": 1355,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
