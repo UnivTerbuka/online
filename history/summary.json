@@ -94,18 +94,19 @@
     "url": "https://elearning.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.ut.ac.id.ico",
     "slug": "e-learning-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.64%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.43%",
-    "time": 2293,
+    "time": 2295,
     "timeDay": 1188,
     "timeWeek": 2958,
     "timeMonth": 2759,
     "timeYear": 2379,
     "dailyMinutesDown": {
+      "2023-10-15": 1,
       "2023-10-12": 10,
       "2023-09-29": 9,
       "2023-09-27": 30,
@@ -156,8 +157,7 @@
       "2023-02-23": 10,
       "2023-02-22": 342,
       "2023-02-21": 13,
-      "2023-02-20": 67,
-      "2023-02-13": 10
+      "2023-02-20": 67
     }
   },
   {
@@ -369,7 +369,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-15": 42,
+      "2023-10-15": 396,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -1209,7 +1209,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-15": 43,
+      "2023-10-15": 398,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
