@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2681,
     "timeDay": 8148,
-    "timeWeek": 4434,
+    "timeWeek": 4712,
     "timeMonth": 4394,
     "timeYear": 2692,
     "dailyMinutesDown": {}
@@ -96,18 +96,19 @@
     "url": "https://elearning.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.ut.ac.id.ico",
     "slug": "e-learning-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.44%",
-    "time": 2233,
+    "time": 2234,
     "timeDay": 6619,
     "timeWeek": 3881,
     "timeMonth": 3341,
     "timeYear": 2433,
     "dailyMinutesDown": {
+      "2023-10-23": 1,
       "2023-10-22": 9,
       "2023-10-19": 49,
       "2023-10-15": 9,
@@ -159,7 +160,7 @@
       "2023-02-26": 10,
       "2023-02-25": 25,
       "2023-02-23": 10,
-      "2023-02-22": 331
+      "2023-02-22": 321
     }
   },
   {
@@ -370,7 +371,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-23": 39,
+      "2023-10-23": 233,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
@@ -768,7 +769,7 @@
     "uptimeYear": "100.00%",
     "time": 3547,
     "timeDay": 2493,
-    "timeWeek": 4917,
+    "timeWeek": 5019,
     "timeMonth": 4313,
     "timeYear": 3547,
     "dailyMinutesDown": {}
@@ -1136,12 +1137,12 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.74%",
     "time": 1708,
     "timeDay": 1282,
-    "timeWeek": 1206,
+    "timeWeek": 1243,
     "timeMonth": 1425,
     "timeYear": 1745,
     "dailyMinutesDown": {
@@ -1211,7 +1212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-23": 41,
+      "2023-10-23": 234,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
