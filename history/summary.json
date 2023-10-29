@@ -263,18 +263,19 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "96.06%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "96.05%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.65%",
     "time": 1296,
-    "timeDay": 1161,
+    "timeDay": 1075,
     "timeWeek": 2639,
     "timeMonth": 2354,
     "timeYear": 1296,
     "dailyMinutesDown": {
+      "2023-10-29": 1,
       "2023-10-28": 64,
       "2023-10-26": 63,
       "2023-10-23": 270,
@@ -347,7 +348,7 @@
       "2023-04-28": 9,
       "2023-04-25": 10,
       "2023-04-22": 18,
-      "2023-04-21": 32
+      "2023-04-21": 18
     }
   },
   {
@@ -356,7 +357,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "26.43%",
+    "uptime": "26.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -367,7 +368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-29": 42,
+      "2023-10-29": 717,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
@@ -1208,7 +1209,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-29": 42,
+      "2023-10-29": 718,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
