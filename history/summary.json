@@ -26,7 +26,7 @@
     "uptime": "98.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.11%",
+    "uptimeMonth": "51.06%",
     "uptimeYear": "95.48%",
     "time": 2538,
     "timeDay": 0,
@@ -34,7 +34,7 @@
     "timeMonth": 3876,
     "timeYear": 2767,
     "dailyMinutesDown": {
-      "2023-12-09": 1150,
+      "2023-12-09": 1173,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -405,7 +405,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-09": 1150,
+      "2023-12-09": 1173,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -795,7 +795,7 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/lppm.ut.ac.id.ico",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -804,7 +804,7 @@
     "time": 3660,
     "timeDay": 6702,
     "timeWeek": 5035,
-    "timeMonth": 4844,
+    "timeMonth": 4883,
     "timeYear": 3684,
     "dailyMinutesDown": {}
   },
@@ -1061,7 +1061,7 @@
     "timeMonth": 0,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2023-12-09": 1151,
+      "2023-12-09": 1174,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -1301,7 +1301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-09": 1151,
+      "2023-12-09": 1174,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
