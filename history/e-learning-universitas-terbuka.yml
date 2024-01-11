@@ -1,7 +1,7 @@
 url: https://elearning.ut.ac.id/
-status: up
-code: 200
-responseTime: 5640
-lastUpdated: 2024-01-11T13:25:05.254Z
+status: down
+code: 500
+responseTime: 5555
+lastUpdated: 2024-01-11T13:35:50.311Z
 startTime: 2020-11-21T10:36:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
