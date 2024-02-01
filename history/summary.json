@@ -14,7 +14,7 @@
     "timeDay": 591,
     "timeWeek": 2590,
     "timeMonth": 2204,
-    "timeYear": 3165,
+    "timeYear": 3167,
     "dailyMinutesDown": {}
   },
   {
@@ -156,7 +156,7 @@
     "timeDay": 2250,
     "timeWeek": 2250,
     "timeMonth": 2477,
-    "timeYear": 2572,
+    "timeYear": 2573,
     "dailyMinutesDown": {
       "2024-01-19": 223,
       "2023-12-09": 25,
@@ -268,7 +268,7 @@
     "timeDay": 1139,
     "timeWeek": 1957,
     "timeMonth": 2030,
-    "timeYear": 1514,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2024-01-19": 292,
       "2023-12-09": 10,
@@ -352,7 +352,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "24.28%",
+    "uptime": "24.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -363,7 +363,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 41,
+      "2024-02-01": 555,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -753,17 +753,17 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/lppm.ut.ac.id.ico",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3719,
+    "time": 3720,
     "timeDay": 3348,
     "timeWeek": 3171,
-    "timeMonth": 3430,
-    "timeYear": 3760,
+    "timeMonth": 3419,
+    "timeYear": 3761,
     "dailyMinutesDown": {}
   },
   {
@@ -781,7 +781,7 @@
     "timeDay": 3919,
     "timeWeek": 4506,
     "timeMonth": 4541,
-    "timeYear": 6840,
+    "timeYear": 6846,
     "dailyMinutesDown": {
       "2024-01-26": 10,
       "2024-01-23": 69,
@@ -927,7 +927,7 @@
     "timeDay": 2268,
     "timeWeek": 2702,
     "timeMonth": 3033,
-    "timeYear": 2821,
+    "timeYear": 2822,
     "dailyMinutesDown": {
       "2024-01-19": 225,
       "2023-12-09": 13,
@@ -1010,18 +1010,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/karil.ut.ac.id.ico",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "down",
-    "uptime": "91.85%",
+    "uptime": "91.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.94%",
+    "uptimeYear": "73.84%",
     "time": 1316,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2024-02-01": 42,
+      "2024-02-01": 556,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -1207,7 +1207,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 573,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -1243,7 +1243,7 @@
     "timeDay": 683,
     "timeWeek": 1263,
     "timeMonth": 1195,
-    "timeYear": 1807,
+    "timeYear": 1808,
     "dailyMinutesDown": {
       "2024-01-19": 276,
       "2023-11-23": 14,
@@ -1315,7 +1315,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 42,
+      "2024-02-01": 556,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
