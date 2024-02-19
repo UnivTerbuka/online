@@ -13,7 +13,7 @@
     "time": 3023,
     "timeDay": 370,
     "timeWeek": 1546,
-    "timeMonth": 1802,
+    "timeMonth": 1842,
     "timeYear": 3093,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 3148,
     "timeDay": 6578,
     "timeWeek": 5867,
-    "timeMonth": 5216,
+    "timeMonth": 5287,
     "timeYear": 3465,
     "dailyMinutesDown": {
       "2024-02-16": 10,
@@ -117,7 +117,7 @@
     "time": 2585,
     "timeDay": 1392,
     "timeWeek": 2698,
-    "timeMonth": 2245,
+    "timeMonth": 2266,
     "timeYear": 2746,
     "dailyMinutesDown": {
       "2024-02-15": 18,
@@ -153,7 +153,7 @@
     "time": 2581,
     "timeDay": 1841,
     "timeWeek": 5814,
-    "timeMonth": 3445,
+    "timeMonth": 3470,
     "timeYear": 2630,
     "dailyMinutesDown": {
       "2024-02-16": 10,
@@ -263,7 +263,7 @@
     "time": 1496,
     "timeDay": 6120,
     "timeWeek": 3718,
-    "timeMonth": 2248,
+    "timeMonth": 2274,
     "timeYear": 1571,
     "dailyMinutesDown": {
       "2024-02-16": 9,
@@ -358,7 +358,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-19": 1173,
+      "2024-02-19": 1318,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
@@ -757,7 +757,7 @@
     "time": 3775,
     "timeDay": 3661,
     "timeWeek": 5220,
-    "timeMonth": 3770,
+    "timeMonth": 3776,
     "timeYear": 3780,
     "dailyMinutesDown": {}
   },
@@ -766,19 +766,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "92.67%",
-    "uptimeWeek": "95.54%",
+    "uptimeDay": "92.53%",
+    "uptimeWeek": "95.52%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.29%",
-    "time": 6805,
+    "time": 6806,
     "timeDay": 8921,
     "timeWeek": 8022,
-    "timeMonth": 6749,
+    "timeMonth": 6784,
     "timeYear": 6802,
     "dailyMinutesDown": {
-      "2024-02-19": 100,
+      "2024-02-19": 102,
       "2024-02-18": 39,
       "2024-02-17": 56,
       "2024-02-16": 153,
@@ -814,7 +814,7 @@
       "2023-08-10": 62,
       "2023-08-09": 51,
       "2023-08-08": 61,
-      "2023-08-07": 27
+      "2023-08-07": 17
     }
   },
   {
@@ -831,7 +831,7 @@
     "time": 1683,
     "timeDay": 1326,
     "timeWeek": 1623,
-    "timeMonth": 1648,
+    "timeMonth": 1646,
     "timeYear": 1759,
     "dailyMinutesDown": {
       "2024-02-16": 273,
@@ -923,7 +923,7 @@
     "time": 2832,
     "timeDay": 6972,
     "timeWeek": 5960,
-    "timeMonth": 3892,
+    "timeMonth": 3918,
     "timeYear": 2895,
     "dailyMinutesDown": {
       "2024-02-16": 481,
@@ -1003,18 +1003,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/karil.ut.ac.id.ico",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "down",
-    "uptime": "90.39%",
+    "uptime": "90.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.79%",
+    "uptimeYear": "68.76%",
     "time": 1313,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2024-02-19": 1174,
+      "2024-02-19": 1319,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
@@ -1235,7 +1235,7 @@
     "time": 1081,
     "timeDay": 408,
     "timeWeek": 3155,
-    "timeMonth": 1309,
+    "timeMonth": 1325,
     "timeYear": 1133,
     "dailyMinutesDown": {}
   },
@@ -1253,8 +1253,8 @@
     "time": 1809,
     "timeDay": 1480,
     "timeWeek": 3570,
-    "timeMonth": 1972,
-    "timeYear": 1776,
+    "timeMonth": 2006,
+    "timeYear": 1757,
     "dailyMinutesDown": {
       "2024-02-16": 5,
       "2024-02-15": 382,
@@ -1326,7 +1326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-19": 1174,
+      "2024-02-19": 1319,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
