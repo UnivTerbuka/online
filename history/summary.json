@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3023,
-    "timeDay": 4567,
-    "timeWeek": 2012,
-    "timeMonth": 1775,
-    "timeYear": 3090,
+    "time": 3029,
+    "timeDay": 5928,
+    "timeWeek": 2130,
+    "timeMonth": 1920,
+    "timeYear": 3097,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "97.83%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "92.63%",
-    "time": 2957,
-    "timeDay": 2625,
-    "timeWeek": 5488,
-    "timeMonth": 5171,
-    "timeYear": 3511,
+    "time": 2966,
+    "timeDay": 4916,
+    "timeWeek": 5212,
+    "timeMonth": 5195,
+    "timeYear": 3488,
     "dailyMinutesDown": {
       "2024-02-24": 10,
       "2024-02-23": 20,
@@ -103,8 +103,7 @@
       "2023-03-22": 22,
       "2023-03-19": 42,
       "2023-03-18": 13,
-      "2023-03-15": 11,
-      "2023-02-25": 11
+      "2023-03-15": 11
     }
   },
   {
@@ -119,10 +118,10 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.35%",
     "time": 2606,
-    "timeDay": 6472,
-    "timeWeek": 3613,
-    "timeMonth": 2423,
-    "timeYear": 2733,
+    "timeDay": 1268,
+    "timeWeek": 3098,
+    "timeMonth": 2409,
+    "timeYear": 2732,
     "dailyMinutesDown": {
       "2024-02-23": 20,
       "2024-02-20": 167,
@@ -157,10 +156,10 @@
     "uptimeMonth": "99.18%",
     "uptimeYear": "93.54%",
     "time": 2611,
-    "timeDay": 2219,
-    "timeWeek": 3433,
+    "timeDay": 2195,
+    "timeWeek": 3408,
     "timeMonth": 3687,
-    "timeYear": 2651,
+    "timeYear": 2650,
     "dailyMinutesDown": {
       "2024-02-24": 10,
       "2024-02-23": 19,
@@ -267,8 +266,8 @@
     "uptimeMonth": "98.45%",
     "uptimeYear": "99.36%",
     "time": 1515,
-    "timeDay": 1278,
-    "timeWeek": 2195,
+    "timeDay": 1209,
+    "timeWeek": 2178,
     "timeMonth": 2202,
     "timeYear": 1583,
     "dailyMinutesDown": {
@@ -363,7 +362,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 1247,
+      "2024-02-25": 33,
+      "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -726,8 +726,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
-      "2023-02-26": 1440,
-      "2023-02-25": 1440
+      "2023-02-26": 1440
     }
   },
   {
@@ -759,11 +758,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3796,
-    "timeDay": 6870,
-    "timeWeek": 4558,
-    "timeMonth": 4056,
-    "timeYear": 3796,
+    "time": 3795,
+    "timeDay": 4067,
+    "timeWeek": 4612,
+    "timeMonth": 4054,
+    "timeYear": 3798,
     "dailyMinutesDown": {}
   },
   {
@@ -771,18 +770,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "93.09%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "93.08%",
     "uptimeMonth": "97.28%",
     "uptimeYear": "99.29%",
     "time": 6833,
-    "timeDay": 7041,
-    "timeWeek": 7577,
-    "timeMonth": 7033,
-    "timeYear": 6793,
+    "timeDay": 8203,
+    "timeWeek": 7653,
+    "timeMonth": 7117,
+    "timeYear": 6801,
     "dailyMinutesDown": {
+      "2024-02-25": 1,
       "2024-02-24": 50,
       "2024-02-23": 94,
       "2024-02-22": 121,
@@ -817,7 +817,7 @@
       "2023-10-02": 8,
       "2023-09-21": 55,
       "2023-08-15": 46,
-      "2023-08-14": 35
+      "2023-08-14": 10
     }
   },
   {
@@ -831,10 +831,10 @@
     "uptimeWeek": "97.98%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "99.53%",
-    "time": 1697,
-    "timeDay": 1558,
-    "timeWeek": 1572,
-    "timeMonth": 1656,
+    "time": 1698,
+    "timeDay": 1575,
+    "timeWeek": 1569,
+    "timeMonth": 1657,
     "timeYear": 1761,
     "dailyMinutesDown": {
       "2024-02-24": 7,
@@ -923,10 +923,10 @@
     "uptimeMonth": "97.36%",
     "uptimeYear": "99.32%",
     "time": 2847,
-    "timeDay": 4849,
-    "timeWeek": 3417,
-    "timeMonth": 3768,
-    "timeYear": 2907,
+    "timeDay": 5008,
+    "timeWeek": 3428,
+    "timeMonth": 3775,
+    "timeYear": 2908,
     "dailyMinutesDown": {
       "2024-02-24": 7,
       "2024-02-23": 16,
@@ -1005,18 +1005,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/karil.ut.ac.id.ico",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "down",
-    "uptime": "90.01%",
+    "uptime": "89.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.41%",
+    "uptimeYear": "67.36%",
     "time": 1306,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1366,
+    "timeYear": 1367,
     "dailyMinutesDown": {
-      "2024-02-24": 1248,
+      "2024-02-25": 34,
+      "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -1225,7 +1226,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 583,
+    "timeYear": 584,
     "dailyMinutesDown": {}
   },
   {
@@ -1239,11 +1240,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1096,
-    "timeDay": 478,
-    "timeWeek": 2629,
-    "timeMonth": 1552,
-    "timeYear": 1167,
+    "time": 1129,
+    "timeDay": 16194,
+    "timeWeek": 3860,
+    "timeMonth": 1988,
+    "timeYear": 1209,
     "dailyMinutesDown": {}
   },
   {
@@ -1257,10 +1258,10 @@
     "uptimeWeek": "98.08%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.45%",
-    "time": 1825,
-    "timeDay": 4363,
-    "timeWeek": 2279,
-    "timeMonth": 2264,
+    "time": 1826,
+    "timeDay": 4470,
+    "timeWeek": 2252,
+    "timeMonth": 2292,
     "timeYear": 1738,
     "dailyMinutesDown": {
       "2024-02-24": 6,
@@ -1335,7 +1336,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 1248,
+      "2024-02-25": 34,
+      "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
@@ -1698,8 +1700,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
-      "2023-02-26": 1440,
-      "2023-02-25": 1440
+      "2023-02-26": 1440
     }
   }
 ]
