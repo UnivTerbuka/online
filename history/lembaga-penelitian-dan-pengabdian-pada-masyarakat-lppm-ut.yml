@@ -1,7 +1,7 @@
 url: http://lppm.ut.ac.id/
-status: up
-code: 200
-responseTime: 3971
-lastUpdated: 2024-02-24T23:07:37.708Z
+status: down
+code: 500
+responseTime: 7413
+lastUpdated: 2024-02-25T14:17:42.994Z
 startTime: 2020-11-21T10:37:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
