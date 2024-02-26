@@ -362,7 +362,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-26": 970,
+      "2024-02-26": 992,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
@@ -752,17 +752,17 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/lppm.ut.ac.id.ico",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3815,
-    "timeDay": 5021,
-    "timeWeek": 5137,
-    "timeMonth": 4211,
-    "timeYear": 3817,
+    "time": 3809,
+    "timeDay": 4632,
+    "timeWeek": 5019,
+    "timeMonth": 4187,
+    "timeYear": 3815,
     "dailyMinutesDown": {}
   },
   {
@@ -770,10 +770,10 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "93.00%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "92.99%",
     "uptimeMonth": "96.98%",
     "uptimeYear": "99.27%",
     "time": 6826,
@@ -782,7 +782,7 @@
     "timeMonth": 7086,
     "timeYear": 6793,
     "dailyMinutesDown": {
-      "2024-02-26": 19,
+      "2024-02-26": 21,
       "2024-02-25": 110,
       "2024-02-24": 50,
       "2024-02-23": 94,
@@ -817,7 +817,7 @@
       "2023-10-12": 9,
       "2023-10-02": 8,
       "2023-09-21": 55,
-      "2023-08-15": 28
+      "2023-08-15": 12
     }
   },
   {
@@ -1016,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2024-02-26": 971,
+      "2024-02-26": 992,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
@@ -1337,7 +1337,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-26": 971,
+      "2024-02-26": 992,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
