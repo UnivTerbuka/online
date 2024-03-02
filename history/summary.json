@@ -365,7 +365,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-02": 76,
+      "2024-03-02": 140,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
@@ -765,7 +765,7 @@
     "timeDay": 3431,
     "timeWeek": 4971,
     "timeMonth": 4527,
-    "timeYear": 3862,
+    "timeYear": 3863,
     "dailyMinutesDown": {}
   },
   {
@@ -773,19 +773,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "89.13%",
-    "uptimeWeek": "92.47%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "92.45%",
     "uptimeMonth": "95.68%",
-    "uptimeYear": "99.55%",
-    "time": 6830,
+    "uptimeYear": "99.57%",
+    "time": 6824,
     "timeDay": 6833,
     "timeWeek": 6892,
     "timeMonth": 7140,
     "timeYear": 6798,
     "dailyMinutesDown": {
-      "2024-03-02": 75,
+      "2024-03-02": 77,
       "2024-03-01": 82,
       "2024-02-29": 82,
       "2024-02-28": 62,
@@ -808,8 +808,7 @@
       "2024-02-08": 16,
       "2024-01-26": 10,
       "2024-01-23": 69,
-      "2024-01-19": 308,
-      "2024-01-17": 61
+      "2024-01-19": 308
     }
   },
   {
@@ -1000,14 +999,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "65.71%",
+    "uptimeYear": "65.70%",
     "time": 1297,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2024-03-02": 76,
+      "2024-03-02": 140,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
@@ -1259,7 +1258,7 @@
     "timeDay": 2190,
     "timeWeek": 2341,
     "timeMonth": 2385,
-    "timeYear": 1731,
+    "timeYear": 1732,
     "dailyMinutesDown": {
       "2024-03-01": 5,
       "2024-02-28": 6,
@@ -1334,7 +1333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-02": 77,
+      "2024-03-02": 140,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
