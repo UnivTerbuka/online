@@ -25,8 +25,8 @@
     "status": "down",
     "uptime": "97.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.33%",
-    "uptimeMonth": "86.82%",
+    "uptimeWeek": "48.18%",
+    "uptimeMonth": "86.79%",
     "uptimeYear": "91.59%",
     "time": 3071,
     "timeDay": 0,
@@ -34,7 +34,7 @@
     "timeMonth": 4897,
     "timeYear": 3559,
     "dailyMinutesDown": {
-      "2024-03-08": 932,
+      "2024-03-08": 947,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1294,
@@ -161,16 +161,16 @@
     "status": "down",
     "uptime": "97.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.35%",
-    "uptimeMonth": "86.72%",
-    "uptimeYear": "92.53%",
+    "uptimeWeek": "48.21%",
+    "uptimeMonth": "86.68%",
+    "uptimeYear": "92.52%",
     "time": 2646,
     "timeDay": 0,
     "timeWeek": 3074,
     "timeMonth": 3744,
     "timeYear": 2676,
     "dailyMinutesDown": {
-      "2024-03-08": 932,
+      "2024-03-08": 947,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1293,
@@ -268,19 +268,19 @@
     "url": "https://tmk.ut.ac.id/tmkui/#/",
     "icon": "https://icons.duckduckgo.com/ip3/tmk.ut.ac.id.ico",
     "slug": "aplikasi-tugas-mata-kuliah",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "97.42%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.41%",
     "uptimeYear": "99.30%",
-    "time": 1552,
+    "time": 1553,
     "timeDay": 993,
     "timeWeek": 1381,
     "timeMonth": 2173,
     "timeYear": 1612,
     "dailyMinutesDown": {
-      "2024-03-08": 10,
+      "2024-03-08": 15,
       "2024-03-07": 20,
       "2024-03-06": 76,
       "2024-03-04": 88,
@@ -347,8 +347,7 @@
       "2023-06-13": 27,
       "2023-06-09": 9,
       "2023-06-08": 30,
-      "2023-06-05": 17,
-      "2023-06-04": 9
+      "2023-06-05": 17
     }
   },
   {
@@ -368,7 +367,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-08": 932,
+      "2024-03-08": 947,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -758,13 +757,13 @@
     "url": "http://lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/lppm.ut.ac.id.ico",
     "slug": "lembaga-penelitian-dan-pengabdian-pada-masyarakat-lppm-ut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3825,
+    "time": 3826,
     "timeDay": 2841,
     "timeWeek": 3283,
     "timeMonth": 4507,
@@ -776,11 +775,11 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "93.34%",
-    "uptimeWeek": "92.98%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "93.10%",
+    "uptimeWeek": "92.95%",
+    "uptimeMonth": "95.81%",
     "uptimeYear": "99.65%",
     "time": 6825,
     "timeDay": 7783,
@@ -788,7 +787,7 @@
     "timeMonth": 7172,
     "timeYear": 6796,
     "dailyMinutesDown": {
-      "2024-03-08": 43,
+      "2024-03-08": 47,
       "2024-03-07": 113,
       "2024-03-06": 151,
       "2024-03-05": 19,
@@ -805,7 +804,7 @@
       "2024-02-23": 94,
       "2024-02-22": 121,
       "2024-02-21": 63,
-      "2024-02-20": 207
+      "2024-02-20": 199
     }
   },
   {
@@ -813,11 +812,11 @@
     "url": "http://utradio.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/utradio.ut.ac.id.ico",
     "slug": "ut-radio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "99.47%",
     "time": 1740,
     "timeDay": 1262,
@@ -825,7 +824,7 @@
     "timeMonth": 1813,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2024-03-08": 8,
+      "2024-03-08": 11,
       "2024-03-07": 16,
       "2024-03-06": 71,
       "2024-03-04": 84,
@@ -891,8 +890,7 @@
       "2023-06-09": 8,
       "2023-06-08": 26,
       "2023-06-05": 16,
-      "2023-06-04": 8,
-      "2023-06-03": 8
+      "2023-06-04": 8
     }
   },
   {
@@ -900,10 +898,10 @@
     "url": "http://tracer.lppm.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/tracer.lppm.ut.ac.id.ico",
     "slug": "tracer-studi-universitas-terbuka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "98.18%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "98.16%",
     "uptimeMonth": "96.38%",
     "uptimeYear": "99.27%",
     "time": 2858,
@@ -912,7 +910,7 @@
     "timeMonth": 3407,
     "timeYear": 2902,
     "dailyMinutesDown": {
-      "2024-03-08": 8,
+      "2024-03-08": 11,
       "2024-03-07": 16,
       "2024-03-06": 71,
       "2024-03-04": 82,
@@ -976,7 +974,7 @@
       "2023-06-14": 7,
       "2023-06-13": 21,
       "2023-06-09": 7,
-      "2023-06-08": 26
+      "2023-06-08": 7
     }
   },
   {
@@ -996,7 +994,7 @@
     "timeMonth": 0,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2024-03-08": 933,
+      "2024-03-08": 948,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -1244,10 +1242,10 @@
     "url": "http://repository.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ut.ac.id.ico",
     "slug": "universitas-terbuka-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "98.33%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "98.32%",
     "uptimeMonth": "97.75%",
     "uptimeYear": "99.42%",
     "time": 1798,
@@ -1256,7 +1254,7 @@
     "timeMonth": 2248,
     "timeYear": 1728,
     "dailyMinutesDown": {
-      "2024-03-08": 6,
+      "2024-03-08": 7,
       "2024-03-07": 14,
       "2024-03-06": 67,
       "2024-03-04": 77,
@@ -1308,8 +1306,7 @@
       "2023-07-20": 33,
       "2023-07-19": 36,
       "2023-07-17": 87,
-      "2023-07-16": 10,
-      "2023-07-14": 21
+      "2023-07-16": 10
     }
   },
   {
@@ -1329,7 +1326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-08": 933,
+      "2024-03-08": 948,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
