@@ -26,7 +26,7 @@
     "uptime": "97.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.19%",
+    "uptimeMonth": "69.16%",
     "uptimeYear": "90.11%",
     "time": 3087,
     "timeDay": 0,
@@ -34,7 +34,7 @@
     "timeMonth": 4978,
     "timeYear": 3587,
     "dailyMinutesDown": {
-      "2024-03-14": 39,
+      "2024-03-14": 48,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -167,7 +167,7 @@
     "uptime": "97.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.05%",
+    "uptimeMonth": "69.03%",
     "uptimeYear": "91.05%",
     "time": 2650,
     "timeDay": 0,
@@ -175,7 +175,7 @@
     "timeMonth": 4032,
     "timeYear": 2686,
     "dailyMinutesDown": {
-      "2024-03-14": 39,
+      "2024-03-14": 48,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -377,7 +377,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 39,
+      "2024-03-14": 49,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -785,18 +785,19 @@
     "url": "http://moocs.ut.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/moocs.ut.ac.id.ico",
     "slug": "program-sertifikat-terbuka-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "95.74%",
-    "uptimeYear": "99.64%",
-    "time": 6790,
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "93.26%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "99.65%",
+    "time": 6791,
     "timeDay": 6207,
     "timeWeek": 6171,
     "timeMonth": 7026,
     "timeYear": 6771,
     "dailyMinutesDown": {
+      "2024-03-14": 2,
       "2024-03-13": 39,
       "2024-03-12": 75,
       "2024-03-11": 102,
@@ -815,7 +816,7 @@
       "2024-02-27": 260,
       "2024-02-26": 38,
       "2024-02-25": 110,
-      "2024-02-24": 40
+      "2024-02-24": 31
     }
   },
   {
@@ -1004,7 +1005,7 @@
     "timeMonth": 0,
     "timeYear": 1353,
     "dailyMinutesDown": {
-      "2024-03-14": 39,
+      "2024-03-14": 49,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -1343,7 +1344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 39,
+      "2024-03-14": 49,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
