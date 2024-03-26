@@ -167,18 +167,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mahasiswa.ut.ac.id.ico",
     "slug": "mahasiswa-ut-making-higher-education-open-to-all",
     "status": "down",
-    "uptime": "96.35%",
+    "uptime": "96.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.57%",
-    "uptimeYear": "87.78%",
+    "uptimeMonth": "30.40%",
+    "uptimeYear": "87.76%",
     "time": 2659,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2901,
     "timeYear": 2722,
     "dailyMinutesDown": {
-      "2024-03-25": 1406,
+      "2024-03-26": 39,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -383,7 +384,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hallo-ut.ut.ac.id.ico",
     "slug": "layanan-informasi-dan-bantuan-universitas-terbuka",
     "status": "down",
-    "uptime": "23.21%",
+    "uptime": "23.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -394,7 +395,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-25": 1406,
+      "2024-03-26": 40,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -757,8 +759,7 @@
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
-      "2023-03-28": 1440,
-      "2023-03-27": 1440
+      "2023-03-28": 1440
     }
   },
   {
@@ -793,7 +794,7 @@
     "time": 3832,
     "timeDay": 2806,
     "timeWeek": 3358,
-    "timeMonth": 3968,
+    "timeMonth": 3902,
     "timeYear": 3872,
     "dailyMinutesDown": {}
   },
@@ -805,14 +806,14 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "97.22%",
-    "uptimeWeek": "95.21%",
+    "uptimeWeek": "95.30%",
     "uptimeMonth": "96.61%",
     "uptimeYear": "99.72%",
     "time": 6713,
     "timeDay": 6522,
-    "timeWeek": 5876,
+    "timeWeek": 5934,
     "timeMonth": 6288,
-    "timeYear": 6714,
+    "timeYear": 6716,
     "dailyMinutesDown": {
       "2024-03-25": 41,
       "2024-03-24": 93,
@@ -1014,18 +1015,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/karil.ut.ac.id.ico",
     "slug": "sistem-unggah-karil-program-pgpaud-dan-pgsd-pendas",
     "status": "down",
-    "uptime": "87.79%",
+    "uptime": "87.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "59.16%",
+    "uptimeYear": "59.14%",
     "time": 1309,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2024-03-25": 1406,
+      "2024-03-26": 40,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -1378,7 +1380,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-25": 1406,
+      "2024-03-26": 40,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -1741,8 +1744,7 @@
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
-      "2023-03-28": 1440,
-      "2023-03-27": 1440
+      "2023-03-28": 1440
     }
   }
 ]
